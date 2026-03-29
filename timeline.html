@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved — Transition Timeline</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; background: #f5f5f0; color: #2c2c2c; margin: 0; padding: 0; line-height: 1.7; }
+    .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+    h1 { font-size: 2.2em; margin-bottom: 0; color: #1a1a2e; text-align: center; }
+    h2 { font-size: 1.3em; font-weight: normal; font-style: italic; color: #555; margin-top: 5px; text-align: center; margin-bottom: 30px; }
+    .intro { font-size: 1.05em; text-align: center; max-width: 700px; margin: 0 auto 15px; color: #444; }
+    .disclaimer { font-size: 0.85em; text-align: center; color: #888; font-style: italic; margin: 10px auto 25px; max-width: 700px; }
+    .back-link { margin-bottom: 10px; }
+    .back-link a { color: #c5a55a; text-decoration: none; font-size: 0.95em; }
+    .back-link a:hover { text-decoration: underline; }
+
+    /* Filter buttons */
+    .filter-bar { text-align: center; margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+    .filter-btn { padding: 6px 16px; border: 2px solid #ddd; border-radius: 20px; background: #fff; font-family: Georgia, serif; font-size: 0.85em; cursor: pointer; transition: all 0.15s; color: #555; }
+    .filter-btn:hover { border-color: #c5a55a; color: #1a1a2e; }
+    .filter-btn.active { background: #c5a55a; border-color: #c5a55a; color: #1a1a2e; font-weight: bold; }
+
+    /* Phase card */
+    .phase { margin: 30px 0; }
+    .phase-header { background: #1a1a2e; color: #fff; padding: 20px 25px; border-radius: 8px 8px 0 0; }
+    .phase-title { font-size: 1.3em; font-weight: bold; margin: 0; }
+    .phase-subtitle { font-size: 0.95em; color: #c5a55a; margin: 5px 0 0; }
+    .phase-desc { font-size: 0.9em; color: #aaa; margin: 8px 0 0; }
+    .phase-body { background: #fff; border-radius: 0 0 8px 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+
+    /* Task items */
+    .task-item { padding: 15px 25px; border-bottom: 1px solid #f0f0f0; display: flex; align-items: flex-start; gap: 12px; transition: background 0.1s; }
+    .task-item:last-child { border-bottom: none; }
+    .task-item:hover { background: #fafaf5; }
+    .task-item.hidden { display: none; }
+    .task-checkbox { flex-shrink: 0; width: 22px; height: 22px; border: 2px solid #c5a55a; border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center; margin-top: 3px; transition: all 0.15s; }
+    .task-checkbox.checked { background: #c5a55a; }
+    .task-checkbox.checked::after { content: '\2713'; color: #1a1a2e; font-weight: bold; font-size: 14px; }
+    .task-content { flex: 1; }
+    .task-name { font-weight: bold; font-size: 0.95em; color: #1a1a2e; }
+    .task-item.completed .task-name { text-decoration: line-through; color: #999; }
+    .task-details { font-size: 0.88em; color: #666; margin-top: 4px; }
+    .task-item.completed .task-details { color: #bbb; }
+    .task-meta { display: flex; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
+    .task-category { display: inline-block; padding: 1px 10px; border-radius: 12px; font-size: 0.75em; font-weight: bold; }
+    .cat-Career { background: #cce5ff; color: #004085; }
+    .cat-Education { background: #d4edda; color: #155724; }
+    .cat-Financial { background: #fff3cd; color: #856404; }
+    .cat-Medical\/VA { background: #f8d7da; color: #721c24; }
+    .cat-Transition { background: #e2e3e5; color: #383d41; }
+    .cat-Personal { background: #d6d8db; color: #383d41; }
+    .task-ref { font-size: 0.75em; color: #aaa; font-style: italic; }
+
+    /* Progress bar */
+    .progress-bar-container { margin: 20px 0; text-align: center; }
+    .progress-bar { width: 100%; height: 24px; background: #eee; border-radius: 12px; overflow: hidden; }
+    .progress-fill { height: 100%; background: #c5a55a; border-radius: 12px; transition: width 0.4s ease; }
+    .progress-label { margin-top: 6px; font-size: 0.9em; color: #555; }
+
+    /* Crisis box */
+    .crisis-box { background: #f8d7da; border: 2px solid #f5c6cb; border-radius: 8px; padding: 15px 20px; text-align: center; margin: 20px 0; }
+    .crisis-box strong { color: #721c24; }
+
+    /* Footer */
+    .book-plug { text-align: center; margin: 30px 0; padding: 15px; background: #1a1a2e; border-radius: 8px; color: #ccc; }
+    .book-plug em { color: #c5a55a; }
+    .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #999; }
+    .footer a { color: #c5a55a; }
+
+    @media (max-width: 500px) { h1 { font-size: 1.6em; } .task-item { padding: 12px 15px; } .phase-header { padding: 15px; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <p class="back-link"><a href="index.html">&larr; Back to Resource Hub</a></p>
+  <h1>Transition Timeline</h1>
+  <h2>Your Countdown Checklist</h2>
+  <p class="intro">Every task you need to hit from 24 months out through post-separation. Check them off as you go — your progress saves in your browser.</p>
+
+  <div class="progress-bar-container">
+    <div class="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <div class="progress-label" id="progress-label">Loading...</div>
+  </div>
+
+  <div class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="Career">Career</button>
+    <button class="filter-btn" data-filter="Education">Education</button>
+    <button class="filter-btn" data-filter="Financial">Financial</button>
+    <button class="filter-btn" data-filter="Medical/VA">Medical/VA</button>
+    <button class="filter-btn" data-filter="Transition">Transition</button>
+    <button class="filter-btn" data-filter="Personal">Personal</button>
+  </div>
+
+  <div id="content">
+    <div style="text-align:center;padding:60px;color:#888;">
+      <div style="display:inline-block;width:30px;height:30px;border:3px solid #ddd;border-top-color:#c5a55a;border-radius:50%;animation:spin 0.8s linear infinite;"></div>
+      <p>Loading timeline...</p>
+    </div>
+  </div>
+
+  <div class="crisis-box">
+    <strong>Veterans Crisis Line: 988 (press 1) | Text: 838255</strong><br>
+    If you or someone you know is in crisis, reach out. You are not alone.
+  </div>
+
+  <div class="book-plug"><p>Based on <em>The Brief You Deserved: One Veteran's Take on Career, Education, and Financial Freedom</em></p></div>
+  <div class="footer">
+    <p>&copy; The Brief You Deserved &middot; <a href="mailto:the.brief.you.deserved@gmail.com">Contact</a></p>
+  </div>
+</div>
+
+<style>@keyframes spin { to { transform: rotate(360deg); } }</style>
+
+<script>
+var timelineData = [];
+var checkedTasks = {};
+var activeFilter = 'all';
+
+// Load saved progress from localStorage
+try {
+  var saved = localStorage.getItem('tbyd-timeline-progress');
+  if (saved) checkedTasks = JSON.parse(saved);
+  console.log('[Timeline] Loaded saved progress:', Object.keys(checkedTasks).length, 'tasks checked');
+} catch(e) {
+  console.log('[Timeline] No saved progress found');
+}
+
+fetch('data/timeline.json')
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    timelineData = data;
+    console.log('[Timeline] Data loaded:', data.length, 'phases');
+    render();
+    setupFilters();
+  })
+  .catch(function(err) {
+    console.error('[Timeline] Error:', err);
+    document.getElementById('content').innerHTML = '<p style="text-align:center;color:#c00;">Error loading timeline. Please refresh.</p>';
+  });
+
+function esc(text) {
+  if (!text) return '';
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function taskId(phaseIdx, taskIdx) {
+  return 'p' + phaseIdx + 't' + taskIdx;
+}
+
+function render() {
+  var html = '';
+  var totalTasks = 0;
+  var completedTasks = 0;
+
+  for (var p = 0; p < timelineData.length; p++) {
+    var phase = timelineData[p];
+    html += '<div class="phase">';
+    html += '<div class="phase-header">';
+    html += '<div class="phase-title">' + esc(phase.phase) + '</div>';
+    html += '<div class="phase-subtitle">' + esc(phase.title) + '</div>';
+    html += '<div class="phase-desc">' + esc(phase.description) + '</div>';
+    html += '</div>';
+    html += '<div class="phase-body">';
+
+    for (var t = 0; t < phase.items.length; t++) {
+      var task = phase.items[t];
+      var tid = taskId(p, t);
+      var isChecked = checkedTasks[tid] === true;
+      totalTasks++;
+      if (isChecked) completedTasks++;
+
+      var catClass = 'cat-' + task.category.replace('/', '\\/');
+      var itemClass = 'task-item';
+      if (isChecked) itemClass += ' completed';
+
+      html += '<div class="' + itemClass + '" data-category="' + esc(task.category) + '" data-tid="' + tid + '">';
+      html += '<div class="task-checkbox' + (isChecked ? ' checked' : '') + '" onclick="toggleTask(\'' + tid + '\', event)"></div>';
+      html += '<div class="task-content">';
+      html += '<div class="task-name">' + esc(task.task) + '</div>';
+      html += '<div class="task-details">' + esc(task.details) + '</div>';
+      html += '<div class="task-meta">';
+      html += '<span class="task-category cat-' + task.category.replace('/', '-') + '">' + esc(task.category) + '</span>';
+      if (task.reference) {
+        html += '<span class="task-ref">' + esc(task.reference) + '</span>';
+      }
+      html += '</div>';
+      html += '</div>';
+      html += '</div>';
+    }
+
+    html += '</div></div>';
+  }
+
+  document.getElementById('content').innerHTML = html;
+  updateProgress(completedTasks, totalTasks);
+  applyFilter();
+}
+
+function toggleTask(tid, event) {
+  event.stopPropagation();
+  checkedTasks[tid] = !checkedTasks[tid];
+  if (!checkedTasks[tid]) delete checkedTasks[tid];
+
+  // Save to localStorage
+  localStorage.setItem('tbyd-timeline-progress', JSON.stringify(checkedTasks));
+  console.log('[Timeline] Task toggled:', tid, checkedTasks[tid] ? 'checked' : 'unchecked');
+
+  render();
+}
+
+function updateProgress(completed, total) {
+  var pct = total > 0 ? Math.round((completed / total) * 100) : 0;
+  document.getElementById('progress-fill').style.width = pct + '%';
+  document.getElementById('progress-label').textContent = completed + ' of ' + total + ' tasks completed (' + pct + '%)';
+}
+
+function setupFilters() {
+  var buttons = document.querySelectorAll('.filter-btn');
+  for (var i = 0; i < buttons.length; i++) {
+    buttons[i].addEventListener('click', function() {
+      // Remove active from all
+      for (var j = 0; j < buttons.length; j++) buttons[j].classList.remove('active');
+      this.classList.add('active');
+      activeFilter = this.getAttribute('data-filter');
+      applyFilter();
+    });
+  }
+}
+
+function applyFilter() {
+  var items = document.querySelectorAll('.task-item');
+  for (var i = 0; i < items.length; i++) {
+    var cat = items[i].getAttribute('data-category');
+    if (activeFilter === 'all' || cat === activeFilter) {
+      items[i].classList.remove('hidden');
+    } else {
+      items[i].classList.add('hidden');
+    }
+  }
+}
+</script>
+</body>
+</html>

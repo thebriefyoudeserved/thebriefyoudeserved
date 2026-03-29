@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved — Financial Freedom Calculator</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; background: #f5f5f0; color: #2c2c2c; margin: 0; padding: 0; line-height: 1.7; }
+    .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+    h1 { font-size: 2.2em; margin-bottom: 0; color: #1a1a2e; text-align: center; }
+    h2 { font-size: 1.3em; font-weight: normal; font-style: italic; color: #555; margin-top: 5px; text-align: center; margin-bottom: 30px; }
+    .intro { font-size: 1.05em; text-align: center; max-width: 700px; margin: 0 auto 15px; color: #444; }
+    .back-link { margin-bottom: 10px; }
+    .back-link a { color: #c5a55a; text-decoration: none; font-size: 0.95em; }
+    .back-link a:hover { text-decoration: underline; }
+
+    /* Info box */
+    .info-box { background: #1a1a2e; color: #eee; border-radius: 8px; padding: 20px 25px; margin: 20px 0 30px; }
+    .info-box strong { color: #c5a55a; }
+    .info-box p { margin: 8px 0; color: #ccc; }
+
+    /* Calculator sections */
+    .calc-section { background: #fff; border-radius: 8px; padding: 25px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    .calc-section h3 { font-size: 1.15em; color: #1a1a2e; border-bottom: 2px solid #c5a55a; padding-bottom: 5px; margin-top: 0; margin-bottom: 15px; }
+
+    /* Input groups */
+    .input-group { display: flex; justify-content: space-between; align-items: center; margin: 12px 0; flex-wrap: wrap; gap: 8px; }
+    .input-label { font-size: 0.95em; color: #333; flex: 1; min-width: 200px; }
+    .input-hint { font-size: 0.8em; color: #888; display: block; }
+    .input-field { width: 160px; padding: 8px 12px; border: 2px solid #ddd; border-radius: 6px; font-size: 1em; font-family: Georgia, serif; text-align: right; }
+    .input-field:focus { outline: none; border-color: #c5a55a; }
+
+    /* Results */
+    .results { background: #fff; border-radius: 8px; padding: 30px; margin: 20px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.1); border: 2px solid #c5a55a; }
+    .results h3 { font-size: 1.3em; color: #1a1a2e; border-bottom: 2px solid #c5a55a; padding-bottom: 8px; margin-top: 0; margin-bottom: 20px; text-align: center; }
+    .result-row { display: flex; justify-content: space-between; align-items: center; padding: 10px 0; border-bottom: 1px solid #eee; }
+    .result-row:last-child { border-bottom: none; }
+    .result-label { font-size: 0.95em; color: #444; }
+    .result-value { font-size: 1.1em; font-weight: bold; color: #1a1a2e; }
+    .result-big { font-size: 1.6em; color: #1a1a2e; }
+    .result-highlight { background: #d4edda; padding: 15px; border-radius: 8px; text-align: center; margin: 15px 0; }
+    .result-highlight.deficit { background: #f8d7da; }
+    .result-highlight .big-number { font-size: 2em; font-weight: bold; color: #155724; }
+    .result-highlight.deficit .big-number { color: #721c24; }
+    .result-highlight .big-label { font-size: 0.9em; color: #555; margin-top: 5px; }
+
+    /* Gauge */
+    .gauge-container { text-align: center; margin: 20px 0; }
+    .gauge-bar { width: 100%; height: 30px; background: #eee; border-radius: 15px; overflow: hidden; position: relative; }
+    .gauge-fill { height: 100%; border-radius: 15px; transition: width 0.5s ease; }
+    .gauge-label { margin-top: 8px; font-size: 0.9em; color: #555; }
+
+    /* Verdict */
+    .verdict { text-align: center; padding: 20px; margin: 15px 0; border-radius: 8px; }
+    .verdict-freedom { background: #d4edda; }
+    .verdict-limbo { background: #fff3cd; }
+    .verdict-struggle { background: #f8d7da; }
+    .verdict h4 { margin: 0 0 5px; font-size: 1.2em; }
+    .verdict p { margin: 0; font-size: 0.95em; }
+
+    /* Button */
+    .calc-button { display: block; width: 100%; padding: 14px; background: #c5a55a; color: #1a1a2e; border: none; border-radius: 6px; font-size: 1.1em; font-weight: bold; font-family: Georgia, serif; cursor: pointer; transition: background 0.15s; margin-top: 10px; }
+    .calc-button:hover { background: #d4b76a; }
+
+    /* Footer */
+    .book-plug { text-align: center; margin: 30px 0; padding: 15px; background: #1a1a2e; border-radius: 8px; color: #ccc; }
+    .book-plug em { color: #c5a55a; }
+    .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #999; }
+    .footer a { color: #c5a55a; }
+    .disclaimer { font-size: 0.8em; color: #888; font-style: italic; text-align: center; margin: 20px 0; }
+
+    @media (max-width: 600px) { h1 { font-size: 1.6em; } .input-group { flex-direction: column; align-items: flex-start; } .input-field { width: 100%; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <p class="back-link"><a href="index.html">&larr; Back to Resource Hub</a></p>
+  <h1>Financial Freedom Calculator</h1>
+  <h2>Know Your Number</h2>
+  <p class="intro">How much do you need to never worry about money again? This calculator uses the 4% Rule from the Trinity Study to find your Financial Freedom Number.</p>
+
+  <div class="info-box">
+    <strong>The 4% Rule:</strong>
+    <p>If you withdraw 4% of your investment portfolio each year, history shows the money will last 30+ years. That means your Financial Freedom Number = Annual Expenses &times; 25.</p>
+    <p>But military retirees have a cheat code: pension + VA disability reduce (or eliminate) how much you need from investments.</p>
+  </div>
+
+  <!-- MONTHLY EXPENSES -->
+  <div class="calc-section">
+    <h3>Step 1: Monthly Expenses</h3>
+    <p style="font-size:0.9em;color:#666;margin-top:0;">What does your household spend each month? Be honest — this is the foundation of everything.</p>
+
+    <div class="input-group">
+      <div class="input-label">Housing (mortgage/rent, insurance, taxes)<span class="input-hint">Include everything shelter-related</span></div>
+      <input type="number" class="input-field" id="housing" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Utilities (electric, water, gas, internet, phone)<span class="input-hint">All monthly utility bills</span></div>
+      <input type="number" class="input-field" id="utilities" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Transportation (car payment, insurance, gas, maintenance)<span class="input-hint">All vehicle costs averaged monthly</span></div>
+      <input type="number" class="input-field" id="transportation" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Food (groceries + dining out)<span class="input-hint">Be realistic, not aspirational</span></div>
+      <input type="number" class="input-field" id="food" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Healthcare (premiums, copays, prescriptions)<span class="input-hint">After TRICARE/VA — what's actually out of pocket?</span></div>
+      <input type="number" class="input-field" id="healthcare" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Insurance (life, other non-auto/health)<span class="input-hint">Monthly premium for non-employer insurance</span></div>
+      <input type="number" class="input-field" id="insurance" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Debt payments (credit cards, student loans, personal loans)<span class="input-hint">Minimum payments on all non-mortgage debt</span></div>
+      <input type="number" class="input-field" id="debt" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Kids (childcare, activities, school costs)<span class="input-hint">Average monthly child-related expenses</span></div>
+      <input type="number" class="input-field" id="kids" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Everything else (entertainment, subscriptions, clothing, misc)<span class="input-hint">The stuff that adds up</span></div>
+      <input type="number" class="input-field" id="misc" placeholder="0" value="0">
+    </div>
+  </div>
+
+  <!-- GUARANTEED INCOME -->
+  <div class="calc-section">
+    <h3>Step 2: Guaranteed Monthly Income</h3>
+    <p style="font-size:0.9em;color:#666;margin-top:0;">Income you'll receive regardless of employment. This is your military advantage.</p>
+
+    <div class="input-group">
+      <div class="input-label">Military pension (monthly gross)<span class="input-hint">High-3: 2.5% &times; years &times; avg highest 36 months base pay. BRS: 2.0% &times; years.</span></div>
+      <input type="number" class="input-field" id="pension" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">VA disability compensation (monthly, tax-free)<span class="input-hint">Based on your rating + dependents. Check va.gov for current rates.</span></div>
+      <input type="number" class="input-field" id="vadisability" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Social Security (estimated monthly, if applicable)<span class="input-hint">Check ssa.gov for your estimate. Enter 0 if not yet eligible.</span></div>
+      <input type="number" class="input-field" id="socialsecurity" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Other guaranteed income (rental income, annuities, etc.)<span class="input-hint">Passive income you can count on</span></div>
+      <input type="number" class="input-field" id="otherincome" placeholder="0" value="0">
+    </div>
+  </div>
+
+  <!-- INVESTMENTS -->
+  <div class="calc-section">
+    <h3>Step 3: Investment Portfolio</h3>
+    <p style="font-size:0.9em;color:#666;margin-top:0;">What you've saved and invested. TSP, IRAs, brokerage accounts, etc.</p>
+
+    <div class="input-group">
+      <div class="input-label">TSP balance<span class="input-hint">Check tsp.gov for current balance</span></div>
+      <input type="number" class="input-field" id="tsp" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">IRA / Roth IRA balance<span class="input-hint">Combined IRA balances</span></div>
+      <input type="number" class="input-field" id="ira" placeholder="0" value="0">
+    </div>
+    <div class="input-group">
+      <div class="input-label">Other investments (brokerage, 401k, etc.)<span class="input-hint">Non-retirement investment accounts</span></div>
+      <input type="number" class="input-field" id="otherinvestments" placeholder="0" value="0">
+    </div>
+  </div>
+
+  <button class="calc-button" onclick="calculate()">Calculate My Number</button>
+
+  <!-- RESULTS -->
+  <div id="results" style="display:none;">
+    <div class="results">
+      <h3>Your Financial Freedom Breakdown</h3>
+
+      <div class="result-row">
+        <span class="result-label">Monthly expenses</span>
+        <span class="result-value" id="r-monthly-expenses"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Annual expenses</span>
+        <span class="result-value" id="r-annual-expenses"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Monthly guaranteed income</span>
+        <span class="result-value" id="r-monthly-income"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Annual guaranteed income</span>
+        <span class="result-value" id="r-annual-income"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Monthly gap (expenses &minus; income)</span>
+        <span class="result-value" id="r-monthly-gap"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Annual gap</span>
+        <span class="result-value" id="r-annual-gap"></span>
+      </div>
+
+      <div class="result-highlight" id="r-ffn-box">
+        <div class="big-number" id="r-ffn"></div>
+        <div class="big-label">Your Financial Freedom Number<br>(Annual Gap &times; 25)</div>
+      </div>
+
+      <div class="result-row">
+        <span class="result-label">Total investment portfolio</span>
+        <span class="result-value" id="r-portfolio"></span>
+      </div>
+      <div class="result-row">
+        <span class="result-label">Safe annual withdrawal (4%)</span>
+        <span class="result-value" id="r-withdrawal"></span>
+      </div>
+
+      <div class="gauge-container">
+        <div class="gauge-bar">
+          <div class="gauge-fill" id="r-gauge"></div>
+        </div>
+        <div class="gauge-label" id="r-gauge-label"></div>
+      </div>
+
+      <div class="verdict" id="r-verdict"></div>
+    </div>
+
+    <div class="calc-section">
+      <h3>What If: How Much More Do I Need?</h3>
+      <div id="r-whatif"></div>
+    </div>
+  </div>
+
+  <p class="disclaimer">This calculator is for educational purposes only. It is not financial advice. The 4% Rule is based on historical market performance and is not guaranteed. Consult a qualified financial advisor before making major financial decisions.</p>
+
+  <div class="book-plug"><p>Based on Chapter 11 of <em>The Brief You Deserved: One Veteran's Take on Career, Education, and Financial Freedom</em></p></div>
+  <div class="footer">
+    <p>&copy; The Brief You Deserved &middot; <a href="mailto:the.brief.you.deserved@gmail.com">Contact</a></p>
+  </div>
+</div>
+
+<script>
+function getVal(id) {
+  var v = parseFloat(document.getElementById(id).value);
+  return isNaN(v) ? 0 : v;
+}
+
+function fmt(n) {
+  return '$' + Math.round(n).toLocaleString('en-US');
+}
+
+function calculate() {
+  console.log('[Calculator] Running calculation...');
+
+  // Monthly expenses
+  var monthlyExpenses = getVal('housing') + getVal('utilities') + getVal('transportation') +
+    getVal('food') + getVal('healthcare') + getVal('insurance') + getVal('debt') +
+    getVal('kids') + getVal('misc');
+
+  var annualExpenses = monthlyExpenses * 12;
+
+  // Monthly income
+  var monthlyIncome = getVal('pension') + getVal('vadisability') + getVal('socialsecurity') + getVal('otherincome');
+  var annualIncome = monthlyIncome * 12;
+
+  // Gap
+  var monthlyGap = monthlyExpenses - monthlyIncome;
+  var annualGap = monthlyGap * 12;
+
+  // Financial Freedom Number
+  var ffn = 0;
+  if (annualGap > 0) {
+    ffn = annualGap * 25;
+  }
+
+  // Portfolio
+  var portfolio = getVal('tsp') + getVal('ira') + getVal('otherinvestments');
+  var safeWithdrawal = portfolio * 0.04;
+
+  // Progress
+  var progress = 0;
+  if (ffn > 0) {
+    progress = Math.min((portfolio / ffn) * 100, 100);
+  } else {
+    progress = 100; // Income covers expenses
+  }
+
+  // Render results
+  document.getElementById('r-monthly-expenses').textContent = fmt(monthlyExpenses);
+  document.getElementById('r-annual-expenses').textContent = fmt(annualExpenses);
+  document.getElementById('r-monthly-income').textContent = fmt(monthlyIncome);
+  document.getElementById('r-annual-income').textContent = fmt(annualIncome);
+  document.getElementById('r-monthly-gap').textContent = monthlyGap > 0 ? fmt(monthlyGap) : fmt(monthlyGap) + ' (surplus!)';
+  document.getElementById('r-annual-gap').textContent = annualGap > 0 ? fmt(annualGap) : fmt(annualGap) + ' (surplus!)';
+
+  var ffnBox = document.getElementById('r-ffn-box');
+  if (ffn > 0) {
+    document.getElementById('r-ffn').textContent = fmt(ffn);
+    ffnBox.className = 'result-highlight';
+  } else {
+    document.getElementById('r-ffn').textContent = '$0';
+    ffnBox.className = 'result-highlight';
+  }
+
+  document.getElementById('r-portfolio').textContent = fmt(portfolio);
+  document.getElementById('r-withdrawal').textContent = fmt(safeWithdrawal) + '/year (' + fmt(safeWithdrawal / 12) + '/month)';
+
+  // Gauge
+  var gauge = document.getElementById('r-gauge');
+  var gaugeLabel = document.getElementById('r-gauge-label');
+  gauge.style.width = Math.round(progress) + '%';
+
+  if (progress >= 100) {
+    gauge.style.background = '#28a745';
+    gaugeLabel.textContent = 'You\'re there! Your income + portfolio cover your expenses.';
+  } else if (progress >= 75) {
+    gauge.style.background = '#28a745';
+    gaugeLabel.textContent = Math.round(progress) + '% to Financial Freedom';
+  } else if (progress >= 50) {
+    gauge.style.background = '#ffc107';
+    gaugeLabel.textContent = Math.round(progress) + '% to Financial Freedom';
+  } else if (progress >= 25) {
+    gauge.style.background = '#fd7e14';
+    gaugeLabel.textContent = Math.round(progress) + '% to Financial Freedom';
+  } else {
+    gauge.style.background = '#dc3545';
+    gaugeLabel.textContent = Math.round(progress) + '% to Financial Freedom';
+  }
+
+  // Verdict
+  var verdict = document.getElementById('r-verdict');
+  if (monthlyGap <= 0) {
+    verdict.className = 'verdict verdict-freedom';
+    verdict.innerHTML = '<h4>Freedom</h4><p>Your guaranteed income already covers your expenses. Any investments are pure surplus. You work because you want to, not because you have to.</p>';
+  } else if (portfolio >= ffn) {
+    verdict.className = 'verdict verdict-freedom';
+    verdict.innerHTML = '<h4>Freedom</h4><p>Your portfolio can safely cover the gap between your income and expenses using the 4% Rule. You\'ve hit your number.</p>';
+  } else if (progress >= 50) {
+    verdict.className = 'verdict verdict-limbo';
+    verdict.innerHTML = '<h4>Limbo</h4><p>You\'re making progress but not there yet. You need ' + fmt(ffn - portfolio) + ' more in investments to hit your Financial Freedom Number. Keep investing.</p>';
+  } else {
+    verdict.className = 'verdict verdict-struggle';
+    verdict.innerHTML = '<h4>Struggle</h4><p>Your gap is ' + fmt(monthlyGap) + '/month and your portfolio needs significant growth. Focus on killing debt, increasing income, and maxing TSP contributions. The gap: ' + fmt(ffn - portfolio) + '.</p>';
+  }
+
+  // What-if
+  var whatif = document.getElementById('r-whatif');
+  var whatifHtml = '';
+
+  if (monthlyGap <= 0) {
+    whatifHtml += '<p>Your guaranteed income covers your expenses with a <strong>' + fmt(Math.abs(monthlyGap)) + '/month surplus</strong>. You don\'t need investment withdrawals to live.</p>';
+    whatifHtml += '<p>Your portfolio of ' + fmt(portfolio) + ' generates ' + fmt(safeWithdrawal / 12) + '/month in safe withdrawals — that\'s pure gravy.</p>';
+  } else {
+    if (portfolio < ffn) {
+      var remaining = ffn - portfolio;
+      whatifHtml += '<p><strong>Gap to close:</strong> ' + fmt(remaining) + '</p>';
+
+      // Time estimates at different monthly contribution rates
+      whatifHtml += '<p>At a 7% annual return, here\'s how long it takes to close the gap:</p>';
+      var contributions = [500, 1000, 1500, 2000, 2500];
+      whatifHtml += '<table style="width:100%;border-collapse:collapse;margin:10px 0;">';
+      whatifHtml += '<tr style="border-bottom:2px solid #c5a55a;"><th style="text-align:left;padding:8px;">Monthly Investment</th><th style="text-align:right;padding:8px;">Years to Freedom</th></tr>';
+
+      for (var i = 0; i < contributions.length; i++) {
+        var monthly = contributions[i];
+        var years = yearsToTarget(portfolio, remaining + portfolio, monthly, 0.07);
+        var yearsText = years > 50 ? '50+' : years.toFixed(1);
+        whatifHtml += '<tr style="border-bottom:1px solid #eee;"><td style="padding:8px;">' + fmt(monthly) + '/month</td><td style="text-align:right;padding:8px;">' + yearsText + ' years</td></tr>';
+      }
+      whatifHtml += '</table>';
+    } else {
+      whatifHtml += '<p>You\'ve already hit your Financial Freedom Number. Your portfolio of ' + fmt(portfolio) + ' exceeds your target of ' + fmt(ffn) + ' by ' + fmt(portfolio - ffn) + '.</p>';
+    }
+
+    // Kill debt impact
+    var debtPayment = getVal('debt');
+    if (debtPayment > 0) {
+      var noDebtGap = annualGap - (debtPayment * 12);
+      var noDebtFFN = noDebtGap > 0 ? noDebtGap * 25 : 0;
+      whatifHtml += '<p style="margin-top:15px;"><strong>What if you killed all your debt?</strong> Your monthly gap drops by ' + fmt(debtPayment) + ', and your Financial Freedom Number drops from ' + fmt(ffn) + ' to ' + fmt(noDebtFFN) + '. That\'s ' + fmt(ffn - noDebtFFN) + ' less you need to save.</p>';
+    }
+  }
+
+  whatif.innerHTML = whatifHtml;
+
+  // Show results
+  document.getElementById('results').style.display = 'block';
+  document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+
+  console.log('[Calculator] Results rendered');
+}
+
+function yearsToTarget(current, target, monthlyContrib, annualReturn) {
+  var monthlyReturn = annualReturn / 12;
+  var balance = current;
+  var months = 0;
+  while (balance < target && months < 600) {
+    balance = balance * (1 + monthlyReturn) + monthlyContrib;
+    months++;
+  }
+  return months / 12;
+}
+</script>
+</body>
+</html>

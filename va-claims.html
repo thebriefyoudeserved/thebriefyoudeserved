@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved — VA Disability Claims Guide</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; background: #f5f5f0; color: #2c2c2c; margin: 0; padding: 0; line-height: 1.7; }
+    .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+    h1 { font-size: 2.2em; margin-bottom: 0; color: #1a1a2e; text-align: center; }
+    h2 { font-size: 1.3em; font-weight: normal; font-style: italic; color: #555; margin-top: 5px; text-align: center; margin-bottom: 30px; }
+    .intro { font-size: 1.05em; text-align: center; max-width: 700px; margin: 0 auto 15px; color: #444; }
+    .disclaimer { font-size: 0.85em; text-align: center; color: #888; font-style: italic; margin: 10px auto 25px; max-width: 700px; }
+    .back-link { margin-bottom: 10px; }
+    .back-link a { color: #c5a55a; text-decoration: none; font-size: 0.95em; }
+    .back-link a:hover { text-decoration: underline; }
+
+    /* Key insight box */
+    .insight-box { background: #1a1a2e; color: #eee; border-radius: 8px; padding: 20px 25px; margin: 20px 0; }
+    .insight-box strong { color: #c5a55a; }
+    .insight-box p { margin: 5px 0; color: #ccc; }
+
+    /* Section nav */
+    .section-nav { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 20px 0 30px; }
+    .section-nav a { padding: 8px 16px; border: 2px solid #c5a55a; border-radius: 20px; text-decoration: none; color: #1a1a2e; font-size: 0.85em; font-weight: bold; transition: all 0.15s; }
+    .section-nav a:hover, .section-nav a.active { background: #c5a55a; color: #1a1a2e; }
+
+    /* Section cards */
+    .section-card { background: #fff; border-radius: 8px; padding: 25px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+    .section-card h3 { font-size: 1.2em; color: #1a1a2e; border-bottom: 2px solid #c5a55a; padding-bottom: 5px; margin-top: 0; }
+
+    /* Tables */
+    .info-table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 0.9em; }
+    .info-table th { background: #1a1a2e; color: #fff; padding: 10px 12px; text-align: left; font-size: 0.85em; }
+    .info-table td { padding: 8px 12px; border-bottom: 1px solid #eee; }
+    .info-table tr:hover { background: #fafaf5; }
+
+    /* Rates calculator */
+    .rates-calc { background: #fff; border-radius: 8px; padding: 25px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border: 2px solid #c5a55a; }
+    .rates-calc h3 { color: #1a1a2e; margin-top: 0; }
+    .rate-slider-group { margin: 15px 0; }
+    .rate-slider-group label { display: block; font-weight: bold; margin-bottom: 5px; }
+    .rate-slider { width: 100%; cursor: pointer; }
+    .rate-output { text-align: center; margin: 20px 0; }
+    .rate-big { font-size: 2.5em; font-weight: bold; color: #1a1a2e; }
+    .rate-label { font-size: 0.9em; color: #666; }
+    .rate-annual { font-size: 1.2em; color: #c5a55a; font-weight: bold; }
+
+    /* Combined calc */
+    .combined-calc { margin: 15px 0; }
+    .combined-input-row { display: flex; gap: 10px; margin: 8px 0; align-items: center; }
+    .combined-input-row select { padding: 6px 10px; border: 2px solid #ddd; border-radius: 6px; font-family: Georgia, serif; font-size: 0.9em; flex: 1; }
+    .combined-input-row button { padding: 6px 12px; border: none; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; font-size: 0.9em; }
+    .btn-add { background: #c5a55a; color: #1a1a2e; font-weight: bold; }
+    .btn-remove { background: #f8d7da; color: #721c24; }
+    .combined-result { text-align: center; margin: 15px 0; padding: 15px; background: #d4edda; border-radius: 8px; }
+    .combined-result .big { font-size: 2em; font-weight: bold; color: #155724; }
+
+    /* Do/Don't tables */
+    .do-dont { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0; }
+    .do-col, .dont-col { padding: 15px; border-radius: 8px; }
+    .do-col { background: #d4edda; }
+    .dont-col { background: #f8d7da; }
+    .do-col h4 { color: #155724; margin: 0 0 10px; }
+    .dont-col h4 { color: #721c24; margin: 0 0 10px; }
+    .do-col li, .dont-col li { margin: 5px 0; font-size: 0.9em; }
+
+    /* Condition cards */
+    .condition-card { background: #f9f9f5; border-radius: 6px; padding: 15px; margin: 10px 0; border-left: 3px solid #c5a55a; cursor: pointer; }
+    .condition-card:hover { background: #f0f0e8; }
+    .condition-name { font-weight: bold; color: #1a1a2e; }
+    .condition-details { display: none; margin-top: 10px; font-size: 0.9em; }
+    .condition-card.open .condition-details { display: block; }
+
+    /* Links */
+    a.resource-link { color: #c5a55a; font-weight: bold; text-decoration: none; }
+    a.resource-link:hover { text-decoration: underline; }
+
+    /* BDD alert */
+    .bdd-alert { background: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 20px; text-align: center; margin: 20px 0; }
+    .bdd-alert strong { color: #856404; font-size: 1.1em; }
+
+    /* Footer */
+    .book-plug { text-align: center; margin: 30px 0; padding: 15px; background: #1a1a2e; border-radius: 8px; color: #ccc; }
+    .book-plug em { color: #c5a55a; }
+    .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #999; }
+    .footer a { color: #c5a55a; }
+
+    @media (max-width: 600px) { h1 { font-size: 1.6em; } .do-dont { grid-template-columns: 1fr; } .section-nav { gap: 5px; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <p class="back-link"><a href="index.html">&larr; Back to Resource Hub</a></p>
+  <h1>VA Disability Claims Guide</h1>
+  <h2>Documentation, C&amp;P Prep, and Common Mistakes</h2>
+  <p class="intro">Everything you need to know about filing for the disability compensation you've earned. This isn't gaming the system &mdash; it's documenting the impact of your service.</p>
+
+  <div class="insight-box">
+    <strong>Bottom Line Up Front:</strong>
+    <p>Use a VSO (free). File during the BDD window (180-90 days before separation). Document everything while you're still serving. Don't minimize your symptoms.</p>
+  </div>
+
+  <div class="bdd-alert">
+    <strong>Still serving? File BDD (Benefits Delivery at Discharge)</strong><br>
+    180-90 days before separation. C&amp;P exams while active. Decision faster after separation. Back pay to day after separation.<br>
+    <a href="https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/" target="_blank" class="resource-link">BDD Information &rarr;</a>
+  </div>
+
+  <div class="section-nav">
+    <a href="#rates">Rates</a>
+    <a href="#evidence">Evidence</a>
+    <a href="#filing">Filing</a>
+    <a href="#cp-exam">C&amp;P Exam</a>
+    <a href="#conditions">Conditions</a>
+    <a href="#math">VA Math</a>
+    <a href="#mistakes">Mistakes</a>
+    <a href="#after">After Decision</a>
+    <a href="#resources">Resources</a>
+  </div>
+
+  <!-- RATES -->
+  <div class="section-card" id="rates">
+    <h3>2026 Compensation Rates</h3>
+    <p>Monthly tax-free payments. Rates increase with dependents for ratings 30% and above.</p>
+
+    <div class="rates-calc">
+      <h3>Rate Estimator (Single Veteran)</h3>
+      <div class="rate-slider-group">
+        <label>Disability Rating: <span id="slider-val">50%</span></label>
+        <input type="range" class="rate-slider" id="rate-slider" min="0" max="100" step="10" value="50" oninput="updateRate()">
+      </div>
+      <div class="rate-output">
+        <div class="rate-big" id="rate-monthly">$1,105.27</div>
+        <div class="rate-label">per month (tax-free)</div>
+        <div class="rate-annual" id="rate-annual">$13,263.24 per year</div>
+      </div>
+    </div>
+
+    <table class="info-table">
+      <tr><th>Rating</th><th>Monthly (Single)</th><th>Annual</th></tr>
+      <tr><td>10%</td><td>$176.02</td><td>$2,112.24</td></tr>
+      <tr><td>20%</td><td>$347.97</td><td>$4,175.64</td></tr>
+      <tr><td>30%</td><td>$539.00</td><td>$6,468.00</td></tr>
+      <tr><td>40%</td><td>$776.43</td><td>$9,317.16</td></tr>
+      <tr><td>50%</td><td>$1,105.27</td><td>$13,263.24</td></tr>
+      <tr><td>60%</td><td>$1,399.81</td><td>$16,797.72</td></tr>
+      <tr><td>70%</td><td>$1,764.34</td><td>$21,172.08</td></tr>
+      <tr><td>80%</td><td>$2,051.87</td><td>$24,622.44</td></tr>
+      <tr><td>90%</td><td>$2,304.67</td><td>$27,656.04</td></tr>
+      <tr><td>100%</td><td>$3,831.30</td><td>$45,975.60</td></tr>
+    </table>
+    <p style="font-size:0.85em;color:#888;">Rates with dependents are higher at 30%+. Check <a href="https://www.va.gov/disability/compensation-rates/" target="_blank" class="resource-link">va.gov for current rates with dependents</a>.</p>
+  </div>
+
+  <!-- EVIDENCE -->
+  <div class="section-card" id="evidence">
+    <h3>Building Your Evidence</h3>
+
+    <h4>Step 1: Get Your Service Records</h4>
+    <table class="info-table">
+      <tr><th>Document</th><th>Where to Get</th><th>Why</th></tr>
+      <tr><td>Service Treatment Records (STRs)</td><td>NPRC (SF-180) or TRICARE Online</td><td>Documents in-service conditions</td></tr>
+      <tr><td>Personnel Records</td><td>NPRC (SF-180)</td><td>Proves duty stations, deployments</td></tr>
+      <tr><td>DD-214</td><td>Already have / NPRC</td><td>Establishes service</td></tr>
+      <tr><td>Unit Records</td><td>National Archives</td><td>Documents exposures, incidents</td></tr>
+    </table>
+    <p><a href="https://www.archives.gov/veterans/military-service-records" target="_blank" class="resource-link">Request records from NPRC &rarr;</a></p>
+
+    <h4>Step 2: Document Everything While Still Serving</h4>
+    <ul>
+      <li><strong>Go to sick call for EVERYTHING.</strong> If it hurts, get it on record.</li>
+      <li>Get all injuries and conditions documented in your medical record</li>
+      <li>Request copies of your medical records</li>
+      <li>Keep personal copies of deployment orders</li>
+      <li>Photograph any visible injuries or conditions</li>
+    </ul>
+    <p><strong>The best evidence is contemporaneous medical records from active duty.</strong></p>
+
+    <h4>Step 3: Gather Personal Evidence</h4>
+    <table class="info-table">
+      <tr><th>Evidence Type</th><th>Examples</th></tr>
+      <tr><td>Buddy statements</td><td>Sworn statements from fellow service members who witnessed your condition/injury</td></tr>
+      <tr><td>Personal statement</td><td>Your account of injury, symptoms, impact on daily life</td></tr>
+      <tr><td>Photos/videos</td><td>Visible conditions, mobility limitations</td></tr>
+      <tr><td>Employment records</td><td>How condition affects work</td></tr>
+      <tr><td>Family statements</td><td>How condition affects daily life and relationships</td></tr>
+    </table>
+  </div>
+
+  <!-- FILING -->
+  <div class="section-card" id="filing">
+    <h3>Filing Your Claim</h3>
+
+    <h4>Step 1: File an Intent to File (FIRST)</h4>
+    <p>This protects your effective date. Back pay starts from this date. Gives you 1 year to gather evidence and submit. No downside.</p>
+    <p><a href="https://www.va.gov/disability/how-to-file-claim/" target="_blank" class="resource-link">File Intent to File at VA.gov &rarr;</a></p>
+
+    <h4>Step 2: Choose Your Filing Method</h4>
+    <table class="info-table">
+      <tr><th>Method</th><th>Best For</th></tr>
+      <tr><td><strong>VSO-assisted (RECOMMENDED)</strong></td><td>First-timers, complex claims. Free and experienced.</td></tr>
+      <tr><td>VA.gov online</td><td>Simple claims, self-filers</td></tr>
+      <tr><td>Accredited attorney</td><td>Appeals, complex cases</td></tr>
+    </table>
+
+    <h4>Major VSOs (All Free)</h4>
+    <ul>
+      <li><a href="https://www.dav.org/" target="_blank" class="resource-link">DAV (Disabled American Veterans)</a></li>
+      <li><a href="https://www.vfw.org/" target="_blank" class="resource-link">VFW (Veterans of Foreign Wars)</a></li>
+      <li><a href="https://www.legion.org/" target="_blank" class="resource-link">American Legion</a></li>
+      <li><a href="https://amvets.org/" target="_blank" class="resource-link">AMVETS</a></li>
+    </ul>
+
+    <h4>Fully Developed Claim (FDC) = Faster Processing</h4>
+    <p>Submit all evidence upfront &rarr; average 3-4 months vs 6-12 months for standard claims.</p>
+
+    <h4>Types of Service Connection</h4>
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Direct Service Connection &#9660;</div>
+      <div class="condition-details">
+        <p><strong>Requirements:</strong> (1) Current diagnosis, (2) In-service event/injury, (3) Medical nexus linking the two.</p>
+        <p><strong>Example:</strong> Current tinnitus + worked on flight deck without hearing protection + "at least as likely as not" caused by service.</p>
+      </div>
+    </div>
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Secondary Service Connection &#9660;</div>
+      <div class="condition-details">
+        <p>Conditions caused or aggravated by already service-connected conditions.</p>
+        <p><strong>Example:</strong> Left knee problems from compensating gait due to service-connected right knee injury. Or depression secondary to chronic pain.</p>
+      </div>
+    </div>
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Presumptive Conditions &#9660;</div>
+      <div class="condition-details">
+        <p>Certain conditions are presumed service-connected based on where/when you served.</p>
+        <p><strong>Gulf War/GWOT:</strong> Chronic fatigue, fibromyalgia, IBS, undiagnosed illnesses</p>
+        <p><strong>Agent Orange:</strong> Many cancers, Parkinson's, Type 2 diabetes, ischemic heart disease</p>
+        <p><strong>Burn Pit/PACT Act:</strong> Respiratory conditions, certain cancers (expanding list)</p>
+        <p><a href="https://www.va.gov/resources/the-pact-act-and-your-va-benefits/" target="_blank" class="resource-link">PACT Act Information &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- C&P EXAM -->
+  <div class="section-card" id="cp-exam">
+    <h3>C&amp;P Exam Preparation</h3>
+    <p>The Compensation &amp; Pension exam is how the VA rates your conditions. This is <strong>critical</strong> to your rating.</p>
+
+    <div class="do-dont">
+      <div class="do-col">
+        <h4>DO</h4>
+        <ul>
+          <li>Review your claim file before the exam</li>
+          <li>Describe your <strong>worst days</strong></li>
+          <li>Bring a list of all symptoms</li>
+          <li>Bring your medications list</li>
+          <li>Explain how conditions affect work and daily life</li>
+          <li>Mention all symptoms, including secondary effects</li>
+          <li>Be honest</li>
+          <li>Arrive early</li>
+        </ul>
+      </div>
+      <div class="dont-col">
+        <h4>DON'T</h4>
+        <ul>
+          <li>Go in unprepared</li>
+          <li>Only describe good days</li>
+          <li>Assume the doctor knows your history</li>
+          <li>Minimize or downplay symptoms</li>
+          <li>Be stoic or "tough it out"</li>
+          <li>Forget current treatments</li>
+          <li>Exaggerate</li>
+          <li>Miss the appointment</li>
+        </ul>
+      </div>
+    </div>
+
+    <p><strong>If you're having a good day:</strong> Tell them. "Today is a good day, but normally..."</p>
+
+    <h4>Document Flare-Ups Specifically</h4>
+    <ul>
+      <li>How often they occur</li>
+      <li>How long they last</li>
+      <li>What triggers them</li>
+      <li>How they affect function</li>
+      <li>What you can't do during flares</li>
+    </ul>
+    <p><strong>Example:</strong> "My back pain flares 2-3 times per week, lasting 1-2 days. During flares, I cannot bend, lift more than 10 pounds, or sit for more than 20 minutes."</p>
+  </div>
+
+  <!-- CONDITIONS -->
+  <div class="section-card" id="conditions">
+    <h3>Common Conditions &amp; Rating Criteria</h3>
+    <p>Click to expand each condition for rating details.</p>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Mental Health (PTSD, Depression, Anxiety) &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Rating</th><th>Criteria</th></tr>
+          <tr><td>0%</td><td>Diagnosed, no symptoms</td></tr>
+          <tr><td>10%</td><td>Mild, controlled with medication</td></tr>
+          <tr><td>30%</td><td>Occasional decrease in work efficiency</td></tr>
+          <tr><td>50%</td><td>Reduced reliability and productivity</td></tr>
+          <tr><td>70%</td><td>Deficiencies in most areas (work, relationships, etc.)</td></tr>
+          <tr><td>100%</td><td>Total occupational and social impairment</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Tinnitus &#9660;</div>
+      <div class="condition-details">
+        <p>Maximum rating: <strong>10%</strong>. Extremely common claim. Often paired with hearing loss.</p>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Back/Spine Conditions &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Rating</th><th>Based On</th></tr>
+          <tr><td>10-40%</td><td>Range of motion limitations</td></tr>
+          <tr><td>40-100%</td><td>Ankylosis (fusion), incapacitating episodes</td></tr>
+        </table>
+        <p><strong>Key:</strong> Measure range of motion at worst, including after repetitive use and during flares.</p>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Knee Conditions &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Rating</th><th>Criteria</th></tr>
+          <tr><td>10%</td><td>Painful motion</td></tr>
+          <tr><td>20%</td><td>Flexion limited to 30&deg;</td></tr>
+          <tr><td>30%</td><td>Flexion limited to 15&deg;</td></tr>
+        </table>
+        <p><strong>Tip:</strong> Knee conditions can be rated for both limited motion AND instability (two ratings, one knee).</p>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Sleep Apnea &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Rating</th><th>Criteria</th></tr>
+          <tr><td>0%</td><td>Asymptomatic</td></tr>
+          <tr><td>30%</td><td>Persistent daytime hypersomnolence</td></tr>
+          <tr><td>50%</td><td>Requires CPAP</td></tr>
+          <tr><td>100%</td><td>Chronic respiratory failure</td></tr>
+        </table>
+        <p>Most common rating: <strong>50% with CPAP</strong></p>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">Migraines &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Rating</th><th>Criteria</th></tr>
+          <tr><td>10%</td><td>Characteristic prostrating attacks monthly</td></tr>
+          <tr><td>30%</td><td>Prostrating attacks monthly</td></tr>
+          <tr><td>50%</td><td>Very frequent, prolonged, severe attacks</td></tr>
+        </table>
+        <p><strong>Document:</strong> Frequency, duration, triggers, lost work days</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- VA MATH -->
+  <div class="section-card" id="math">
+    <h3>VA Disability Math (Combined Ratings Calculator)</h3>
+    <p>VA uses "combined ratings" &mdash; not simple addition. Each new rating is applied to your remaining "able body."</p>
+    <p><strong>Example:</strong> 50% knee + 30% back = 50% + (30% of remaining 50% = 15%) = 65%, rounded to <strong>70%</strong></p>
+
+    <div class="combined-calc">
+      <div id="ratings-list"></div>
+      <div class="combined-input-row">
+        <select id="new-rating">
+          <option value="">Add a rating...</option>
+          <option value="10">10%</option>
+          <option value="20">20%</option>
+          <option value="30">30%</option>
+          <option value="40">40%</option>
+          <option value="50">50%</option>
+          <option value="60">60%</option>
+          <option value="70">70%</option>
+          <option value="80">80%</option>
+          <option value="90">90%</option>
+          <option value="100">100%</option>
+        </select>
+        <button class="btn-add" onclick="addRating()">Add</button>
+      </div>
+      <div class="combined-result" id="combined-result" style="display:none;">
+        <div>Combined: <span class="big" id="combined-exact"></span></div>
+        <div>Rounded to: <span class="big" id="combined-rounded"></span></div>
+        <div style="font-size:0.85em;color:#666;margin-top:5px;" id="combined-monthly"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MISTAKES -->
+  <div class="section-card" id="mistakes">
+    <h3>Common Mistakes</h3>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">1. Not Claiming Everything &#9660;</div>
+      <div class="condition-details">
+        <ul>
+          <li>Don't only claim major issues &mdash; 10% ratings add up and can increase combined totals</li>
+          <li>Don't assume a condition is "too minor" to claim</li>
+          <li>Don't forget secondary conditions (conditions caused by your service-connected ones)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">2. Insufficient Evidence &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Issue</th><th>Solution</th></tr>
+          <tr><td>No current diagnosis</td><td>Get civilian diagnosis before filing</td></tr>
+          <tr><td>No nexus</td><td>Request nexus letter from doctor</td></tr>
+          <tr><td>No STRs</td><td>Buddy statements, alternative evidence</td></tr>
+        </table>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">3. Poor C&amp;P Exam Performance &#9660;</div>
+      <div class="condition-details">
+        <ul>
+          <li><strong>Downplaying:</strong> Describe your worst days honestly</li>
+          <li><strong>Forgetting symptoms:</strong> Bring a written list</li>
+          <li><strong>Appearing "too healthy":</strong> If it's a good day, say so</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="condition-card" onclick="this.classList.toggle('open')">
+      <div class="condition-name">4. Giving Up After Denial &#9660;</div>
+      <div class="condition-details">
+        <table class="info-table">
+          <tr><th>Option</th><th>When to Use</th></tr>
+          <tr><td>Supplemental Claim</td><td>You have new evidence</td></tr>
+          <tr><td>Higher Level Review</td><td>Decision was wrong, no new evidence</td></tr>
+          <tr><td>Board Appeal</td><td>Want hearing or complex review</td></tr>
+        </table>
+        <p><strong>You have 1 year to appeal without losing your effective date.</strong></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- AFTER -->
+  <div class="section-card" id="after">
+    <h3>After the Decision</h3>
+    <h4>If Approved</h4>
+    <ul>
+      <li>Note effective date (when pay starts)</li>
+      <li>Verify rating calculation</li>
+      <li>Enroll in VA healthcare</li>
+      <li>Apply for state veteran benefits</li>
+      <li>Update records for secondary claims later</li>
+    </ul>
+    <h4>If Denied</h4>
+    <p>Don't give up. Appeal within 1 year to protect your effective date. Get a VSO if you don't have one.</p>
+    <h4>Future Claims</h4>
+    <p>You can always claim new conditions, request increases for worsening conditions, add secondary conditions, or reopen denied claims with new evidence.</p>
+  </div>
+
+  <!-- RESOURCES -->
+  <div class="section-card" id="resources">
+    <h3>Resources</h3>
+    <table class="info-table">
+      <tr><th>Resource</th><th>Link</th></tr>
+      <tr><td>VA.gov Claims</td><td><a href="https://www.va.gov/disability/" target="_blank" class="resource-link">va.gov/disability</a></td></tr>
+      <tr><td>eBenefits</td><td><a href="https://www.ebenefits.va.gov/" target="_blank" class="resource-link">ebenefits.va.gov</a></td></tr>
+      <tr><td>Find a VSO</td><td><a href="https://www.va.gov/vso/" target="_blank" class="resource-link">va.gov/vso</a></td></tr>
+      <tr><td>PACT Act</td><td><a href="https://www.va.gov/resources/the-pact-act-and-your-va-benefits/" target="_blank" class="resource-link">va.gov/pact</a></td></tr>
+      <tr><td>r/VeteransBenefits</td><td><a href="https://www.reddit.com/r/VeteransBenefits/" target="_blank" class="resource-link">reddit.com/r/VeteransBenefits</a></td></tr>
+      <tr><td>VA White House Hotline</td><td>1-855-948-2311</td></tr>
+      <tr><td>Combined Ratings Calculator</td><td><a href="https://www.va.gov/disability/about-disability-ratings/" target="_blank" class="resource-link">va.gov disability ratings</a></td></tr>
+    </table>
+  </div>
+
+  <p class="disclaimer">This guide is for educational purposes only and does not constitute legal or medical advice. Consider working with an accredited VSO for your claim. VA policies and rating criteria change — always verify with official sources.</p>
+
+  <div class="book-plug"><p>Based on Chapter 13 of <em>The Brief You Deserved: One Veteran's Take on Career, Education, and Financial Freedom</em></p></div>
+  <div class="footer">
+    <p>&copy; The Brief You Deserved &middot; <a href="mailto:the.brief.you.deserved@gmail.com">Contact</a></p>
+  </div>
+</div>
+
+<script>
+// Rate slider
+var rates = {0:0, 10:176.02, 20:347.97, 30:539.00, 40:776.43, 50:1105.27, 60:1399.81, 70:1764.34, 80:2051.87, 90:2304.67, 100:3831.30};
+
+function updateRate() {
+  var val = parseInt(document.getElementById('rate-slider').value);
+  document.getElementById('slider-val').textContent = val + '%';
+  var monthly = rates[val] || 0;
+  document.getElementById('rate-monthly').textContent = '$' + monthly.toFixed(2);
+  document.getElementById('rate-annual').textContent = '$' + (monthly * 12).toFixed(2) + ' per year';
+}
+
+// Combined ratings calculator
+var userRatings = [];
+
+function addRating() {
+  var sel = document.getElementById('new-rating');
+  var val = parseInt(sel.value);
+  if (!val) return;
+  userRatings.push(val);
+  sel.value = '';
+  renderCombined();
+}
+
+function removeRating(idx) {
+  userRatings.splice(idx, 1);
+  renderCombined();
+}
+
+function renderCombined() {
+  var list = document.getElementById('ratings-list');
+  var html = '';
+  for (var i = 0; i < userRatings.length; i++) {
+    html += '<div class="combined-input-row"><span style="flex:1">' + userRatings[i] + '%</span><button class="btn-remove" onclick="removeRating(' + i + ')">Remove</button></div>';
+  }
+  list.innerHTML = html;
+
+  var resultDiv = document.getElementById('combined-result');
+  if (userRatings.length === 0) {
+    resultDiv.style.display = 'none';
+    return;
+  }
+
+  // Sort descending for VA math
+  var sorted = userRatings.slice().sort(function(a, b) { return b - a; });
+  var combined = 0;
+  for (var j = 0; j < sorted.length; j++) {
+    var remaining = 100 - combined;
+    combined = combined + (remaining * sorted[j] / 100);
+  }
+
+  var exact = Math.round(combined * 10) / 10;
+  var rounded = Math.round(combined / 10) * 10;
+  var monthly = rates[rounded] || 0;
+
+  document.getElementById('combined-exact').textContent = exact + '%';
+  document.getElementById('combined-rounded').textContent = rounded + '%';
+  document.getElementById('combined-monthly').textContent = 'Estimated: $' + monthly.toFixed(2) + '/month ($' + (monthly * 12).toFixed(2) + '/year)';
+  resultDiv.style.display = 'block';
+
+  console.log('[VA Claims] Combined rating:', exact, '% -> rounded:', rounded, '%');
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,309 @@
+[
+  {
+    "phase": "24+ Months Out",
+    "title": "Start Planning Early",
+    "description": "The earlier you start, the more options you have. This is when you set the foundation.",
+    "items": [
+      {
+        "task": "Define your purpose and post-military goals",
+        "category": "Career",
+        "details": "What do you want your life to look like after the uniform? Write it down. Share it with someone who matters.",
+        "reference": "Chapter 1"
+      },
+      {
+        "task": "Start or continue your degree using Tuition Assistance",
+        "category": "Education",
+        "details": "Use TA ($250/credit hour, $4,500/year) for your bachelor's. Don't touch the GI Bill yet. Find schools that match TA rates.",
+        "reference": "Chapter 5"
+      },
+      {
+        "task": "Open and fund your TSP account",
+        "category": "Financial",
+        "details": "If you're BRS, contribute at least 5% to get full government match. Start early — compound interest is your biggest weapon.",
+        "reference": "Chapter 10"
+      },
+      {
+        "task": "Kill your debt",
+        "category": "Financial",
+        "details": "Every dollar in debt payments is a dollar that isn't building your future. Attack high-interest debt first.",
+        "reference": "Chapter 9"
+      },
+      {
+        "task": "Build relationships and find mentors",
+        "category": "Career",
+        "details": "Network with people in fields you're interested in. Your post-military career starts being built now.",
+        "reference": "Chapter 3"
+      },
+      {
+        "task": "Research GI Bill transfer requirements",
+        "category": "Education",
+        "details": "Requires 6+ years of service and 4-year commitment. Transfer at least 1 month to each dependent to get them in the system. You can't add dependents after separation.",
+        "reference": "Chapter 7"
+      },
+      {
+        "task": "Start documenting medical conditions",
+        "category": "Medical/VA",
+        "details": "Every time something hurts, go to medical. Get it in your record. This is the foundation for your VA disability claim.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Consider in-service postgraduate programs",
+        "category": "Education",
+        "details": "NPS, AFIT, or civilian grad school on the military's dime. They pay tuition AND your salary. If available, take it.",
+        "reference": "Chapter 6"
+      }
+    ]
+  },
+  {
+    "phase": "18 Months Out",
+    "title": "Get Serious",
+    "description": "Transition is no longer theoretical. Start making concrete moves.",
+    "items": [
+      {
+        "task": "Attend TAP (Transition Assistance Program) — Individualized Initial Counseling",
+        "category": "Transition",
+        "details": "One-on-one session with a TAP counselor. Complete self-assessment, begin your Individual Transition Plan (ITP), initiate DD Form 2648, determine your tier level.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Research SkillBridge programs",
+        "category": "Career",
+        "details": "SkillBridge lets you work for a civilian employer during your last 180 days while keeping military pay. Start researching companies and programs now — command approval takes time.",
+        "reference": "Chapter 15"
+      },
+      {
+        "task": "Pursue relevant certifications",
+        "category": "Education",
+        "details": "If your role gives you access to cert courses (GPEN, CISSP, PMP, etc.), take them now. That window might be shorter than you think.",
+        "reference": "Chapter 8"
+      },
+      {
+        "task": "Calculate your Financial Freedom Number",
+        "category": "Financial",
+        "details": "Annual expenses × 25 = your number. Factor in pension, VA disability, TSP, and investments. Know exactly where you stand.",
+        "reference": "Chapter 11"
+      },
+      {
+        "task": "Research state veteran benefits where you plan to live",
+        "category": "Financial",
+        "details": "Property tax exemptions, education benefits for dependents, employment preferences — these vary wildly by state.",
+        "reference": "Appendix P"
+      }
+    ]
+  },
+  {
+    "phase": "12 Months Out",
+    "title": "Execute Your Plan",
+    "description": "One year to go. Time to start executing, not just planning.",
+    "items": [
+      {
+        "task": "Complete TAP Core Curriculum",
+        "category": "Transition",
+        "details": "Three mandatory days: DoD/DHS Transition Day (Managing Your Transition, MOC Crosswalk, Financial Planning), VA Day, and DOL Employment Workshop. Don't blow these off — actually engage.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Start building your resume",
+        "category": "Career",
+        "details": "Translate your military experience into civilian language. No jargon. Focus on outcomes and impact, not duties. Get it reviewed by civilians in your target industry.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Update your LinkedIn profile",
+        "category": "Career",
+        "details": "Professional headshot (no uniform), civilian-friendly headline, translated experience. Start connecting with people in your target field.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Request your SMART transcript / military training records",
+        "category": "Education",
+        "details": "Your military training converts to college credits. Get your transcript and see what transfers. Army: AARTS. Navy/Marines: SMART. Air Force: CCAF.",
+        "reference": "Chapter 5"
+      },
+      {
+        "task": "Review your personnel records for accuracy",
+        "category": "Transition",
+        "details": "Check your service record, awards, qualifications. Fix errors now — it's much harder after you're out.",
+        "reference": ""
+      },
+      {
+        "task": "Apply for SkillBridge (if using)",
+        "category": "Career",
+        "details": "Submit your SkillBridge application with enough lead time for command approval. Some commands need 6+ months notice.",
+        "reference": "Chapter 15"
+      }
+    ]
+  },
+  {
+    "phase": "180 Days Out (6 Months)",
+    "title": "BDD Window Opens",
+    "description": "This is critical — your VA disability claims window opens NOW.",
+    "items": [
+      {
+        "task": "FILE YOUR VA DISABILITY CLAIM (BDD)",
+        "category": "Medical/VA",
+        "details": "Benefits Delivery at Discharge (BDD) window: 180-90 days before separation. File NOW. Use a VSO (free). This is not optional — your rating can mean thousands per month tax-free for the rest of your life.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Connect with a Veterans Service Organization (VSO)",
+        "category": "Medical/VA",
+        "details": "DAV, VFW, American Legion — they provide free claims representatives. They know the system. Let them help you file.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Schedule all C&P exams",
+        "category": "Medical/VA",
+        "details": "Compensation & Pension exams are how the VA rates your conditions. Don't miss them. Don't minimize symptoms. Be honest about how your conditions affect your daily life.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Begin SkillBridge (if approved)",
+        "category": "Career",
+        "details": "180 days of working for a civilian employer at full military pay. This is your tryout — and theirs. Treat it like the job interview it is.",
+        "reference": "Chapter 15"
+      },
+      {
+        "task": "Start applying for civilian jobs",
+        "category": "Career",
+        "details": "Many employers want someone who can start in 2-4 weeks. Time your applications accordingly. Too early and they'll pass. Too late and you'll have a gap.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Research healthcare transition options",
+        "category": "Medical/VA",
+        "details": "TAMP (180 days free TRICARE after separation), TRICARE Retiree (if 20-year), VA healthcare enrollment, CHCBP, employer insurance. Know what covers you and your family.",
+        "reference": "Chapter 14"
+      }
+    ]
+  },
+  {
+    "phase": "90 Days Out",
+    "title": "Final Preparations",
+    "description": "BDD window is closing. Finish filing claims. Lock in your plan.",
+    "items": [
+      {
+        "task": "LAST CHANCE: File any remaining VA disability claims",
+        "category": "Medical/VA",
+        "details": "BDD window closes at 90 days before separation. If you haven't filed, do it TODAY. After this window, the process takes much longer.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Complete TAP Capstone",
+        "category": "Transition",
+        "details": "Review of your Career Readiness Standards (CRS). Confirm all requirements are met. Get warm handovers for anything outstanding.",
+        "reference": ""
+      },
+      {
+        "task": "Plan your move",
+        "category": "Transition",
+        "details": "If PCS'ing on terminal leave: schedule movers, arrange housing, update DEERS address. If retiring: plan your final move carefully — you only get one.",
+        "reference": ""
+      },
+      {
+        "task": "File for Chapter 35 DEA (if 100% P&T)",
+        "category": "Education",
+        "details": "If you receive a 100% P&T rating before separation, file Ch. 35 for your dependents immediately. Separate 36-month entitlement for each eligible dependent.",
+        "reference": "Chapter 7"
+      },
+      {
+        "task": "Apply for state veteran education benefits",
+        "category": "Education",
+        "details": "Conroy (MD), Hazlewood (TX), and dozens of other state programs. Research what's available in the state you're moving to. Apply before school enrollment deadlines.",
+        "reference": "Appendix P"
+      },
+      {
+        "task": "Set up your financial safety net",
+        "category": "Financial",
+        "details": "Have 3-6 months of expenses in savings. Know exactly when your first pension check, VA disability payment, and civilian paycheck will arrive. Plan for the gap.",
+        "reference": "Chapter 16"
+      }
+    ]
+  },
+  {
+    "phase": "30 Days Out",
+    "title": "Wrapping Up",
+    "description": "You're almost there. Tie up loose ends.",
+    "items": [
+      {
+        "task": "Review your DD-214 CAREFULLY before signing",
+        "category": "Transition",
+        "details": "This is the most important document of your military career. Check every entry: dates, awards, characterization of service, RE code. Errors are extremely difficult to fix later.",
+        "reference": "Chapter 12"
+      },
+      {
+        "task": "Enroll in VA healthcare",
+        "category": "Medical/VA",
+        "details": "Even if you have other insurance, enroll. You can do this online at va.gov/health-care/apply/. Don't wait.",
+        "reference": "Chapter 14"
+      },
+      {
+        "task": "Verify TRICARE transition coverage",
+        "category": "Medical/VA",
+        "details": "TAMP: 180 days of premium-free TRICARE after qualifying separations. Retirees: TRICARE Prime/Select continues (enrollment fees apply). Know your coverage start date.",
+        "reference": "Chapter 14"
+      },
+      {
+        "task": "Roll over or maintain TSP",
+        "category": "Financial",
+        "details": "You can leave money in TSP (lowest fees in the industry) or roll to an IRA. Don't cash it out — the tax penalty and lost growth aren't worth it.",
+        "reference": "Chapter 10"
+      },
+      {
+        "task": "Update beneficiaries on all accounts",
+        "category": "Financial",
+        "details": "SGLI converts to VGLI (if you want it). Update beneficiaries on TSP, life insurance, bank accounts.",
+        "reference": ""
+      },
+      {
+        "task": "Collect letters of recommendation",
+        "category": "Career",
+        "details": "Get them while people remember you. COs, department heads, chiefs — anyone who can vouch for your character and competence.",
+        "reference": ""
+      }
+    ]
+  },
+  {
+    "phase": "After Separation",
+    "title": "You're Out — Now What?",
+    "description": "The transition doesn't end on your last day. Stay on top of these.",
+    "items": [
+      {
+        "task": "Verify VA disability rating and payment schedule",
+        "category": "Medical/VA",
+        "details": "Check eBenefits or va.gov for your rating decision. Payments typically start the month after separation. Disability pay arrives on the 1st, pension on the 1st as well — but they're separate payments.",
+        "reference": "Chapter 13, Chapter 16"
+      },
+      {
+        "task": "Obtain your veteran ID card",
+        "category": "Transition",
+        "details": "Apply at va.gov. Also consider getting a VA health ID card at your local VA medical center.",
+        "reference": ""
+      },
+      {
+        "task": "Register with your state's Department of Veterans Affairs",
+        "category": "Transition",
+        "details": "State-level benefits (property tax exemptions, hunting/fishing licenses, education programs) often require state VA registration.",
+        "reference": "Appendix P"
+      },
+      {
+        "task": "Stay connected with the veteran community",
+        "category": "Personal",
+        "details": "The camaraderie doesn't have to end. VSOs, veteran groups, online communities — find your people.",
+        "reference": "Chapter 17"
+      },
+      {
+        "task": "Apply for NGO/organization scholarships for dependents",
+        "category": "Education",
+        "details": "Folds of Honor, American Legion Legacy, Fisher House, ThanksUSA — these stack on top of federal and state benefits. Apply to all you qualify for.",
+        "reference": "Scholarships page"
+      },
+      {
+        "task": "Talk to someone if you need to",
+        "category": "Personal",
+        "details": "Transition anxiety is real. You don't have to power through alone. Veterans Crisis Line: 988 (press 1). Military OneSource: 800-342-9647.",
+        "reference": "Chapter 4"
+      }
+    ]
+  }
+]
