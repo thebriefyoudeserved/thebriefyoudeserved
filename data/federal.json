@@ -111,7 +111,7 @@
         "name": "CHAMPVA",
         "agency": "U.S. Department of Veterans Affairs",
         "website": "https://www.va.gov/health-care/family-caregiver-benefits/champva/",
-        "eligibility": "Spouse or child of a veteran who is 100% permanently and totally disabled, or who died from a service-connected condition.",
+        "eligibility": "Spouse or child of a veteran who is 100% permanently and totally disabled, who died from a service-connected condition, who was P&T at time of death, or a service member who died in the line of duty.",
         "coverage": "Shares cost of covered healthcare services. Covers most medically necessary services.",
         "transferable": "N/A — directly covers eligible dependents.",
         "notes": "If eligible for TRICARE, you must use TRICARE (CHAMPVA is secondary). Good safety net for dependents of P&T veterans who don't have employer insurance.",
@@ -137,7 +137,7 @@
         "agency": "Federal Retirement Thrift Investment Board",
         "website": "https://www.tsp.gov/",
         "eligibility": "All uniformed service members. BRS members receive matching contributions.",
-        "coverage": "Tax-advantaged retirement savings. Traditional and Roth options. Six fund choices (G, F, C, S, I, L).",
+        "coverage": "Tax-advantaged retirement savings. Traditional and Roth options. Five core funds (G, F, C, S, I) plus a family of Lifecycle (L) funds that automatically adjust over time.",
         "transferable": "Can roll over to IRA or 401(k) after separation.",
         "notes": "Lowest expense ratios in the industry. Start contributing early — compound interest is your biggest weapon. BRS members: contribute at least 5% to get full match.",
         "lastUpdated": "2026-03-29"
