@@ -16,7 +16,7 @@
       {
         "name": "American Legion Legacy Scholarship",
         "website": "https://www.legion.org/scholarships/legacy",
-        "amount": "Up to $5,000/year",
+        "amount": "Up to $5,000/year (disabled) or $20,000/year (fallen)",
         "eligibility": "Children of post-9/11 veterans with 50%+ VA disability rating or who died on active duty.",
         "coverage": "Tuition, books, room and board, meal plans, supplies. Needs-based.",
         "deadline": "March 25 (annual)",
@@ -54,7 +54,7 @@
         "coverage": "Education expenses.",
         "deadline": "Varies by program",
         "requirements": "VFW membership (~$45/yr). Must have served in a foreign conflict — OEF/OIF qualifies.",
-        "notes": "Multiple scholarship tracks including Voice of Democracy essay contest ($30K top prize) and Patriot's Pen. Worth joining if you qualify.",
+        "notes": "Multiple scholarship tracks including Voice of Democracy essay contest ($35K top prize) and Patriot's Pen. Worth joining if you qualify.",
         "lastUpdated": "2026-03-29"
       }
     ]
@@ -65,9 +65,9 @@
       {
         "name": "No Greater Sacrifice",
         "website": "https://www.nogreatersacrifice.org/",
-        "amount": "Covers ALL unmet financial need",
+        "amount": "Aims to cover remaining unmet financial need",
         "eligibility": "Children (under 26) of post-9/11 veterans with 60%+ VA disability rating or who were killed/wounded in action.",
-        "coverage": "Tuition, room, board, books — covers the full gap after other financial aid.",
+        "coverage": "Tuition/fees (up to in-state public rates), room and board, books, special equipment. Individualized per scholar — aims to reduce unmet costs as close to zero as possible.",
         "deadline": "April 15 (contact via email: info@nogreatersacrifice.org)",
         "requirements": "Competitive. Once selected, no annual reapplication needed.",
         "notes": "Potentially the most impactful single scholarship. If awarded, it covers everything other sources don't. Worth applying even if chances are competitive.",
@@ -91,7 +91,7 @@
         "eligibility": "Unmarried dependent children (under 23) of active duty, retired, or reserve military with valid military dependent ID.",
         "coverage": "Education expenses. Applied through commissary locations.",
         "deadline": "Early February (typically closes first week). Check site for exact dates.",
-        "requirements": "Must have military dependent ID (DEERS enrollment). At least one scholarship awarded per commissary location. Maintain 3.0+ GPA.",
+        "requirements": "Must have military dependent ID (DEERS enrollment). At least one scholarship awarded per commissary location. GPA requirement: 3.0 for high school applicants, 2.5 for college students.",
         "notes": "100% P&T retirees have commissary access and DEERS-enrolled dependents. Easy $2K per kid if you don't miss the deadline — it closes early.",
         "lastUpdated": "2026-03-29"
       },
@@ -99,7 +99,7 @@
         "name": "Freedom Alliance Scholarship Fund",
         "website": "https://www.fascholarship.com/",
         "amount": "Varies per student",
-        "eligibility": "Children (under 26) of service members who are 100% permanently and totally disabled as a DIRECT RESULT of a combat mission. Priority to those with a single combat-related condition rated 70%+.",
+        "eligibility": "Children (under 26) of service members who are 100% permanently and totally disabled as a DIRECT RESULT of a combat mission or training accident. Priority given to those with a single combat-related condition rated 70%+. Silver Star or Purple Heart recipients: combined 100% P&T qualifies without the single-condition priority requirement.",
         "coverage": "Tuition and expenses based on unmet need.",
         "deadline": "April (annual, check site for exact date)",
         "requirements": "Disability must stem from combat mission specifically — not just service-connected. Submit VA decision letter showing rated conditions.",
