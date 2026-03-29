@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; background: #f5f5f0; color: #2c2c2c; margin: 0; padding: 0; line-height: 1.7; }
+    .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+    .hero { text-align: center; padding: 40px 20px 30px; margin-bottom: 30px; }
+    .hero h1 { font-size: 2.6em; margin: 0; color: #1a1a2e; letter-spacing: 0.02em; }
+    .hero .subtitle { font-size: 1.15em; font-style: italic; color: #666; margin: 8px 0 15px; }
+    .hero .author { font-size: 1em; color: #888; }
+    .section-heading { font-size: 1.4em; color: #1a1a2e; border-bottom: 2px solid #c5a55a; padding-bottom: 8px; margin-top: 40px; margin-bottom: 10px; }
+    .section-intro { color: #666; margin-bottom: 20px; }
+    .primary-card { display: flex; align-items: center; background: #1a1a2e; border-radius: 10px; padding: 30px; margin: 0 0 20px; color: #eee; gap: 25px; }
+    .primary-icon { font-size: 3em; flex-shrink: 0; }
+    .primary-content h2 { margin: 0 0 8px; color: #fff; font-size: 1.4em; }
+    .primary-content p { margin: 0 0 15px; color: #ccc; font-size: 0.95em; }
+    .button { display: inline-block; background: #c5a55a; color: #1a1a2e; text-decoration: none; padding: 12px 30px; border-radius: 5px; font-weight: bold; font-size: 1em; font-family: Georgia, serif; transition: background 0.15s; }
+    .button:hover { background: #d4b76a; }
+    .button.disabled { background: #555; color: #999; cursor: default; }
+    .button.disabled:hover { background: #555; }
+    .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; margin: 20px 0; }
+    .resource-card { display: flex; flex-direction: column; background: #fff; border-radius: 10px; padding: 25px; text-decoration: none; color: #2c2c2c; box-shadow: 0 2px 10px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; border-left: 4px solid #c5a55a; }
+    .resource-card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.12); }
+    .resource-card.disabled { border-left-color: #ccc; opacity: 0.7; cursor: default; }
+    .resource-card.disabled:hover { transform: none; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+    .resource-icon { font-size: 2em; margin-bottom: 10px; }
+    .resource-title { font-weight: bold; font-size: 1.15em; color: #1a1a2e; margin-bottom: 8px; }
+    .resource-desc { font-size: 0.92em; color: #555; margin-bottom: 12px; flex-grow: 1; }
+    .resource-updated { font-size: 0.8em; color: #999; font-style: italic; margin-bottom: 12px; }
+    .resource-button { margin-top: auto; }
+    .button-small { display: inline-block; background: #c5a55a; color: #1a1a2e; padding: 8px 20px; border-radius: 5px; font-weight: bold; font-size: 0.9em; font-family: Georgia, serif; }
+    .button-small.disabled { background: #ddd; color: #999; }
+    .about-section { background: #fff; border-radius: 10px; padding: 25px 30px; margin: 30px 0; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+    .about-section p { color: #444; margin: 10px 0; }
+    .footer { text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #999; }
+    .footer a { color: #c5a55a; text-decoration: none; }
+    .footer a:hover { text-decoration: underline; }
+    .hub-updated { font-size: 0.8em; color: #bbb; margin-top: 5px; }
+    @media (max-width: 600px) { .hero h1 { font-size: 1.8em; } .primary-card { flex-direction: column; text-align: center; } .card-grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="hero">
+    <h1>The Brief You Deserved</h1>
+    <p class="subtitle">One Veteran's Take on Career, Education, and Financial Freedom</p>
+    <div class="author">by Michael H. Dimitrievski</div>
+  </div>
+
+  <!-- Book Purchase -->
+  <div class="primary-card">
+    <div class="primary-icon">&#128214;</div>
+    <div class="primary-content">
+      <h2>Get the Book</h2>
+      <p>Available in paperback and ebook.</p>
+      <span class="button disabled">Coming Soon</span>
+    </div>
+  </div>
+
+  <h2 class="section-heading">Digital Resources</h2>
+  <p class="section-intro">Free companion resources for readers, service members, and veterans.</p>
+
+  <div class="card-grid">
+    <!-- Questionnaire -->
+    <a href="https://script.google.com/macros/s/AKfycbx-LcVl2Vhie5Oqba_Xn3j4KmIvCJyYnxwQp2lP8VWJMRLnJEjkf4e0fyAxxAw4jgxZ/exec" class="resource-card">
+      <div class="resource-icon">&#9997;</div>
+      <div class="resource-title">Veteran Voices Questionnaire</div>
+      <div class="resource-desc">Share your military experience &mdash; your story could help the next generation of service members. Browse what other veterans have shared.</div>
+      <div class="resource-updated">Last updated: 2026-03-28</div>
+      <div class="resource-button"><span class="button-small">View &amp; Contribute</span></div>
+    </a>
+
+    <!-- State Benefits -->
+    <a href="states.html" class="resource-card">
+      <div class="resource-icon">&#127891;</div>
+      <div class="resource-title">State Education Benefits Guide</div>
+      <div class="resource-desc">Interactive state-by-state breakdown of veteran and dependent education benefits. Find scholarships, tuition waivers, and programs in your state.</div>
+      <div class="resource-updated">Last updated: 2026-02-01</div>
+      <div class="resource-button"><span class="button-small">Explore by State</span></div>
+    </a>
+  </div>
+
+  <div class="about-section">
+    <h2 class="section-heading">About the Book</h2>
+    <p>A practical guide for U.S. military service members that combines personal memoir with actionable advice. The mission: help you maximize your career, education, and financial opportunities during your service to achieve financial freedom and a fulfilling life after you transition out.</p>
+    <p>Written from an active duty perspective with a 20-year retirement focus, but the principles apply whether you're doing 4 years or 30.</p>
+  </div>
+
+  <div class="footer">
+    <p>&copy; The Brief You Deserved &middot; <a href="mailto:the.brief.you.deserved@gmail.com">the.brief.you.deserved@gmail.com</a></p>
+    <p class="hub-updated">Last updated: 2026-03-29</p>
+  </div>
+</div>
+</body>
+</html>
