@@ -1,66 +1,84 @@
 [
   {
-    "phase": "24+ Months Out",
-    "title": "Start Planning Early",
-    "description": "The earlier you start, the more options you have. This is when you set the foundation.",
+    "phase": "Throughout Your Career",
+    "title": "Build the Foundation",
+    "description": "These aren't transition tasks — they're career tasks. The earlier you start, the stronger your position when it's time to hang up the uniform.",
     "items": [
       {
         "task": "Define your purpose and post-military goals",
         "category": "Career",
-        "details": "What do you want your life to look like after the uniform? Write it down. Share it with someone who matters.",
+        "details": "What do you want your life to look like after the uniform? Write it down. Share it with someone who matters. This drives everything else.",
         "reference": "Chapter 1"
       },
       {
-        "task": "Start or continue your degree using Tuition Assistance",
-        "category": "Education",
-        "details": "Use TA ($250/credit hour, $4,500/year) for your bachelor's. Don't touch the GI Bill yet. Find schools that match TA rates.",
-        "reference": "Chapter 5"
+        "task": "Open and fund your TSP account — contribute at least 5% (BRS)",
+        "category": "Financial",
+        "details": "Start contributing on day one. BRS members: 5% minimum to get full government match. Compound interest is your biggest weapon — every year you delay costs you tens of thousands.",
+        "reference": "Chapter 10"
       },
       {
-        "task": "Open and fund your TSP account",
-        "category": "Financial",
-        "details": "If you're BRS, contribute at least 5% to get full government match. Start early — compound interest is your biggest weapon.",
-        "reference": "Chapter 10"
+        "task": "Start your degree using Tuition Assistance",
+        "category": "Education",
+        "details": "Use TA ($250/credit hour, $4,500/year) for your bachelor's. Don't touch the GI Bill. Find schools that match TA rates. TA has service-specific eligibility cutoffs — use it while you can.",
+        "reference": "Chapter 5"
       },
       {
         "task": "Kill your debt",
         "category": "Financial",
-        "details": "Every dollar in debt payments is a dollar that isn't building your future. Attack high-interest debt first.",
+        "details": "Every dollar in debt payments is a dollar that isn't building your future. Attack high-interest debt first. Stay away from predatory lenders near base.",
         "reference": "Chapter 9"
+      },
+      {
+        "task": "Transfer GI Bill to dependents",
+        "category": "Education",
+        "details": "Requires 6+ years of service AND a 4-year commitment from the transfer date. Transfer at least 1 month to each dependent to get them in the system. You CANNOT add new dependents after separation.",
+        "reference": "Chapter 7"
+      },
+      {
+        "task": "Document medical conditions — go to sick call for EVERYTHING",
+        "category": "Medical/VA",
+        "details": "Every time something hurts, get it on record. This is the foundation for your VA disability claim. The best evidence is contemporaneous medical records from active duty.",
+        "reference": "Chapter 13"
+      },
+      {
+        "task": "Pursue in-service postgraduate programs",
+        "category": "Education",
+        "details": "NPS, AFIT, or civilian grad school on the military's dime. They pay tuition AND your salary AND it counts toward retirement. If available, take it.",
+        "reference": "Chapter 6"
       },
       {
         "task": "Build relationships and find mentors",
         "category": "Career",
-        "details": "Network with people in fields you're interested in. Your post-military career starts being built now.",
+        "details": "Network with people in fields you're interested in. Build relationships up, down, and sideways. Your post-military career starts being built now.",
         "reference": "Chapter 3"
       },
       {
-        "task": "Research GI Bill transfer requirements",
+        "task": "Pursue relevant certifications",
         "category": "Education",
-        "details": "Requires 6+ years of service and 4-year commitment. Transfer at least 1 month to each dependent to get them in the system. You can't add dependents after separation.",
-        "reference": "Chapter 7"
+        "details": "If your role gives you access to cert courses (GPEN, CISSP, PMP, etc.), take them while they're free or funded. That window might be shorter than you think.",
+        "reference": "Chapter 8"
       },
       {
-        "task": "Start documenting medical conditions",
-        "category": "Medical/VA",
-        "details": "Every time something hurts, go to medical. Get it in your record. This is the foundation for your VA disability claim.",
-        "reference": "Chapter 13"
+        "task": "Collect letters of recommendation throughout your career",
+        "category": "Career",
+        "details": "Get them while people remember you. Every CO, department head, chief, or peer who can vouch for your character and competence. Don't wait until the last month — people PCS, retire, and forget.",
+        "reference": "Chapter 12"
       },
       {
-        "task": "Consider in-service postgraduate programs",
-        "category": "Education",
-        "details": "NPS, AFIT, or civilian grad school on the military's dime. They pay tuition AND your salary. If available, take it.",
-        "reference": "Chapter 6"
+        "task": "Sign up for USMAP (if your job qualifies)",
+        "category": "Career",
+        "details": "Converts your on-the-job military training into nationally recognized Department of Labor apprenticeship certificates. Free credential — sign up early, it tracks hours over time.",
+        "reference": ""
       }
     ]
   },
   {
-    "phase": "18 Months Out",
-    "title": "Get Serious",
+    "phase": "18-24 Months Out",
+    "title": "Get Serious About Transition",
     "description": "Transition is no longer theoretical. Start making concrete moves.",
     "items": [
       {
-        "task": "Attend TAP (Transition Assistance Program) — Individualized Initial Counseling",
+        "task": "Attend TAP — Individualized Initial Counseling",
         "category": "Transition",
         "details": "One-on-one session with a TAP counselor. Complete self-assessment, begin your Individual Transition Plan (ITP), initiate DD Form 2648, determine your tier level.",
         "reference": "Chapter 12"
@@ -72,40 +90,34 @@
         "reference": "Chapter 15"
       },
       {
-        "task": "Pursue relevant certifications",
-        "category": "Education",
-        "details": "If your role gives you access to cert courses (GPEN, CISSP, PMP, etc.), take them now. That window might be shorter than you think.",
-        "reference": "Chapter 8"
-      },
-      {
         "task": "Calculate your Financial Freedom Number",
         "category": "Financial",
-        "details": "Annual expenses × 25 = your number. Factor in pension, VA disability, TSP, and investments. Know exactly where you stand.",
+        "details": "Annual expenses x 25 = your number. Factor in pension, VA disability, TSP, and investments. Know exactly where you stand.",
         "reference": "Chapter 11"
       },
       {
         "task": "Research state veteran benefits where you plan to live",
         "category": "Financial",
-        "details": "Property tax exemptions, education benefits for dependents, employment preferences — these vary wildly by state.",
+        "details": "Property tax exemptions, education benefits for dependents, employment preferences — these vary wildly by state and can influence where you choose to settle.",
         "reference": "Appendix P"
+      },
+      {
+        "task": "Start building your resume",
+        "category": "Career",
+        "details": "Translate your military experience into civilian language. No jargon. Focus on outcomes and impact, not duties. Get it reviewed by civilians in your target industry.",
+        "reference": "Chapter 12"
       }
     ]
   },
   {
     "phase": "12 Months Out",
     "title": "Execute Your Plan",
-    "description": "One year to go. Time to start executing, not just planning.",
+    "description": "One year to go. Time to execute, not just plan.",
     "items": [
       {
         "task": "Complete TAP Core Curriculum",
         "category": "Transition",
-        "details": "Three mandatory days: DoD/DHS Transition Day (Managing Your Transition, MOC Crosswalk, Financial Planning), VA Day, and DOL Employment Workshop. Don't blow these off — actually engage.",
-        "reference": "Chapter 12"
-      },
-      {
-        "task": "Start building your resume",
-        "category": "Career",
-        "details": "Translate your military experience into civilian language. No jargon. Focus on outcomes and impact, not duties. Get it reviewed by civilians in your target industry.",
+        "details": "Three mandatory days: DoD/DHS Transition Day (Managing Your Transition, MOC Crosswalk, Financial Planning), VA Day, and DOL Employment Workshop. Actually engage — don't blow these off.",
         "reference": "Chapter 12"
       },
       {
@@ -136,8 +148,8 @@
   },
   {
     "phase": "180 Days Out (6 Months)",
-    "title": "BDD Window Opens",
-    "description": "This is critical — your VA disability claims window opens NOW.",
+    "title": "BDD Window Opens — FILE NOW",
+    "description": "This is critical. Your VA disability claims window opens NOW. Don't wait.",
     "items": [
       {
         "task": "FILE YOUR VA DISABILITY CLAIM (BDD)",
@@ -148,13 +160,13 @@
       {
         "task": "Connect with a Veterans Service Organization (VSO)",
         "category": "Medical/VA",
-        "details": "DAV, VFW, American Legion — they provide free claims representatives. They know the system. Let them help you file.",
+        "details": "DAV, VFW, American Legion — they provide free claims representatives who know the system. Let them help you file.",
         "reference": "Chapter 13"
       },
       {
-        "task": "Schedule all C&P exams",
+        "task": "Schedule and complete all C&P exams",
         "category": "Medical/VA",
-        "details": "Compensation & Pension exams are how the VA rates your conditions. Don't miss them. Don't minimize symptoms. Be honest about how your conditions affect your daily life.",
+        "details": "Compensation & Pension exams are how the VA rates your conditions. Don't miss them. Don't minimize symptoms. Be honest about how conditions affect your daily life.",
         "reference": "Chapter 13"
       },
       {
@@ -172,20 +184,20 @@
       {
         "task": "Research healthcare transition options",
         "category": "Medical/VA",
-        "details": "TAMP (180 days free TRICARE after separation), TRICARE Retiree (if 20-year), VA healthcare enrollment, CHCBP, employer insurance. Know what covers you and your family.",
+        "details": "TAMP (180 days free TRICARE after separation), TRICARE Retiree (if 20-year), VA healthcare enrollment, CHCBP, employer insurance. Know what covers you and your family on day one.",
         "reference": "Chapter 14"
       }
     ]
   },
   {
     "phase": "90 Days Out",
-    "title": "Final Preparations",
-    "description": "BDD window is closing. Finish filing claims. Lock in your plan.",
+    "title": "BDD Window Closing — Final Push",
+    "description": "Last chance to file disability claims under BDD. Lock in your plan.",
     "items": [
       {
         "task": "LAST CHANCE: File any remaining VA disability claims",
         "category": "Medical/VA",
-        "details": "BDD window closes at 90 days before separation. If you haven't filed, do it TODAY. After this window, the process takes much longer.",
+        "details": "BDD window closes at 90 days before separation. If you haven't filed, do it TODAY. After this window, the process takes much longer and you lose the expedited timeline.",
         "reference": "Chapter 13"
       },
       {
@@ -197,33 +209,27 @@
       {
         "task": "Plan your move",
         "category": "Transition",
-        "details": "If PCS'ing on terminal leave: schedule movers, arrange housing, update DEERS address. If retiring: plan your final move carefully — you only get one.",
+        "details": "Schedule movers, arrange housing, update DEERS address. If retiring, plan your final move carefully — you only get one.",
         "reference": ""
-      },
-      {
-        "task": "File for Chapter 35 DEA (if 100% P&T)",
-        "category": "Education",
-        "details": "If you receive a 100% P&T rating before separation, file Ch. 35 for your dependents immediately. Separate 36-month entitlement for each eligible dependent.",
-        "reference": "Chapter 7"
-      },
-      {
-        "task": "Apply for state veteran education benefits",
-        "category": "Education",
-        "details": "Conroy (MD), Hazlewood (TX), and dozens of other state programs. Research what's available in the state you're moving to. Apply before school enrollment deadlines.",
-        "reference": "Appendix P"
       },
       {
         "task": "Set up your financial safety net",
         "category": "Financial",
-        "details": "Have 3-6 months of expenses in savings. Know exactly when your first pension check, VA disability payment, and civilian paycheck will arrive. Plan for the gap.",
+        "details": "Have 3-6 months of expenses in savings. Know exactly when your first pension check, VA disability payment, and civilian paycheck will arrive. Plan for the gap between last military paycheck and first civilian one.",
         "reference": "Chapter 16"
+      },
+      {
+        "task": "Apply for state veteran education benefits",
+        "category": "Education",
+        "details": "Conroy (MD), Hazlewood (TX), and dozens of other state programs. Research what's available in the state you're moving to. Some have annual application deadlines — don't miss them.",
+        "reference": "Appendix P"
       }
     ]
   },
   {
     "phase": "30 Days Out",
     "title": "Wrapping Up",
-    "description": "You're almost there. Tie up loose ends.",
+    "description": "Almost there. Tie up loose ends and don't rush the important stuff.",
     "items": [
       {
         "task": "Review your DD-214 CAREFULLY before signing",
@@ -244,40 +250,40 @@
         "reference": "Chapter 14"
       },
       {
-        "task": "Roll over or maintain TSP",
+        "task": "Decide what to do with TSP",
         "category": "Financial",
-        "details": "You can leave money in TSP (lowest fees in the industry) or roll to an IRA. Don't cash it out — the tax penalty and lost growth aren't worth it.",
+        "details": "You can leave money in TSP (lowest fees in the industry), roll to an IRA, or roll to a new employer's 401(k). Don't cash it out — the tax penalty and lost growth aren't worth it.",
         "reference": "Chapter 10"
       },
       {
         "task": "Update beneficiaries on all accounts",
         "category": "Financial",
-        "details": "SGLI converts to VGLI (if you want it). Update beneficiaries on TSP, life insurance, bank accounts.",
-        "reference": ""
-      },
-      {
-        "task": "Collect letters of recommendation",
-        "category": "Career",
-        "details": "Get them while people remember you. COs, department heads, chiefs — anyone who can vouch for your character and competence.",
+        "details": "SGLI converts to VGLI (if you want it). Update beneficiaries on TSP, life insurance, bank accounts. Make sure everything reflects your post-military situation.",
         "reference": ""
       }
     ]
   },
   {
     "phase": "After Separation",
-    "title": "You're Out — Now What?",
+    "title": "You're Out — Now Execute",
     "description": "The transition doesn't end on your last day. Stay on top of these.",
     "items": [
       {
         "task": "Verify VA disability rating and payment schedule",
         "category": "Medical/VA",
-        "details": "Check eBenefits or va.gov for your rating decision. Payments typically start the month after separation. Disability pay arrives on the 1st, pension on the 1st as well — but they're separate payments.",
+        "details": "Check va.gov for your rating decision. Payments typically start the month after separation. Disability pay arrives on the 1st. If BDD claim isn't decided yet, be patient — it's processing.",
         "reference": "Chapter 13, Chapter 16"
+      },
+      {
+        "task": "File for Chapter 35 DEA (once you receive 100% P&T rating)",
+        "category": "Education",
+        "details": "If your rating comes back as 100% Permanent and Total, file Ch. 35 for your dependents. This is a separate 36-month entitlement for each eligible dependent that does NOT consume your GI Bill.",
+        "reference": "Chapter 7"
       },
       {
         "task": "Obtain your veteran ID card",
         "category": "Transition",
-        "details": "Apply at va.gov. Also consider getting a VA health ID card at your local VA medical center.",
+        "details": "Apply at va.gov. Also get a VA health ID card at your local VA medical center.",
         "reference": ""
       },
       {
@@ -287,16 +293,16 @@
         "reference": "Appendix P"
       },
       {
-        "task": "Stay connected with the veteran community",
-        "category": "Personal",
-        "details": "The camaraderie doesn't have to end. VSOs, veteran groups, online communities — find your people.",
-        "reference": "Chapter 17"
-      },
-      {
         "task": "Apply for NGO/organization scholarships for dependents",
         "category": "Education",
         "details": "Folds of Honor, American Legion Legacy, Fisher House, ThanksUSA — these stack on top of federal and state benefits. Apply to all you qualify for.",
         "reference": "Scholarships page"
+      },
+      {
+        "task": "Stay connected with the veteran community",
+        "category": "Personal",
+        "details": "The camaraderie doesn't have to end. VSOs, veteran groups, online communities — find your people. The transition can feel isolating if you let it.",
+        "reference": "Chapter 17"
       },
       {
         "task": "Talk to someone if you need to",
