@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved — Veteran Voices</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background: #f5f5f0;
+      color: #2c2c2c;
+      margin: 0;
+      padding: 0;
+      line-height: 1.7;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 0;
+      color: #1a1a2e;
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.3em;
+      font-weight: normal;
+      font-style: italic;
+      color: #555;
+      margin-top: 5px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h3 {
+      font-size: 1.1em;
+      color: #1a1a2e;
+      border-bottom: 2px solid #c5a55a;
+      padding-bottom: 5px;
+      margin-top: 25px;
+    }
+    .intro {
+      font-size: 1.05em;
+      text-align: center;
+      max-width: 600px;
+      margin: 0 auto 20px;
+      color: #444;
+    }
+    .meta {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin-bottom: 10px;
+    }
+    .section-heading {
+      font-size: 1.4em;
+      font-weight: bold;
+      font-style: normal;
+      color: #1a1a2e;
+      margin-top: 40px;
+      border-bottom: 2px solid #c5a55a;
+      padding-bottom: 8px;
+      text-align: left;
+    }
+    .back-link {
+      margin-bottom: 10px;
+    }
+    .back-link a {
+      color: #c5a55a;
+      text-decoration: none;
+      font-size: 0.95em;
+      cursor: pointer;
+    }
+    .back-link a:hover {
+      text-decoration: underline;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+      margin: 20px 0 30px;
+    }
+    .nav-card {
+      display: block;
+      background: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      text-decoration: none;
+      color: #2c2c2c;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: transform 0.15s, box-shadow 0.15s;
+      cursor: pointer;
+    }
+    .nav-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    }
+    .nav-card-icon {
+      font-size: 1.8em;
+      margin-bottom: 8px;
+    }
+    .nav-card-title {
+      font-weight: bold;
+      font-size: 1em;
+      color: #1a1a2e;
+      margin-bottom: 4px;
+    }
+    .nav-card-count {
+      font-size: 0.85em;
+      color: #777;
+    }
+    .response-card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 30px;
+      margin: 20px 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .attribution {
+      font-size: 1.2em;
+      font-weight: bold;
+      color: #1a1a2e;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 10px;
+      margin-bottom: 15px;
+    }
+    .demographics {
+      text-align: center;
+      font-size: 0.95em;
+      color: #555;
+      margin: -10px 0 25px;
+      padding: 10px;
+      background: #fff;
+      border-radius: 6px;
+    }
+    .qa {
+      margin: 12px 0;
+    }
+    .question {
+      font-weight: bold;
+      font-size: 0.95em;
+      color: #1a1a2e;
+    }
+    .answer {
+      margin-top: 4px;
+      color: #333;
+    }
+    .vet-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 30px 0;
+      padding: 15px 0;
+      border-top: 1px solid #ddd;
+    }
+    .vet-nav a {
+      color: #c5a55a;
+      text-decoration: none;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .vet-nav a:hover {
+      text-decoration: underline;
+    }
+    .cta {
+      text-align: center;
+      margin: 30px 0;
+      padding: 20px;
+      background: #1a1a2e;
+      border-radius: 8px;
+    }
+    .cta p {
+      color: #ccc;
+      margin: 0 0 10px;
+    }
+    .button {
+      display: inline-block;
+      background: #c5a55a;
+      color: #1a1a2e;
+      text-decoration: none;
+      padding: 12px 30px;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 1em;
+      font-family: Georgia, serif;
+      transition: background 0.15s;
+    }
+    .button:hover {
+      background: #d4b76a;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 50px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      font-size: 0.85em;
+      color: #999;
+    }
+    .footer a {
+      color: #c5a55a;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    .resource-hub-link {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .resource-hub-link a {
+      color: #c5a55a;
+      text-decoration: none;
+      font-size: 0.95em;
+    }
+    .resource-hub-link a:hover {
+      text-decoration: underline;
+    }
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: #777;
+      font-style: italic;
+    }
+    .loading-spinner {
+      display: inline-block;
+      width: 28px;
+      height: 28px;
+      border: 3px solid #ddd;
+      border-top-color: #c5a55a;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 15px;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    .error-message {
+      text-align: center;
+      padding: 40px 20px;
+      color: #c0392b;
+      background: #fff;
+      border-radius: 8px;
+      margin: 20px 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .error-message p {
+      margin: 8px 0;
+    }
+    @media (max-width: 500px) {
+      .card-grid {
+        grid-template-columns: 1fr;
+      }
+      h1 {
+        font-size: 1.6em;
+      }
+      .response-card {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="container" id="app">
+  <div class="loading">
+    <div class="loading-spinner"></div>
+    <p>Loading veteran responses...</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  // ============================================================
+  // CONSTANTS
+  // ============================================================
+
+  var FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSeN2tHs1liJJ8qWDME4paog5zYJh_im9XBBbypGA1hE_M5JLA/viewform';
+  var CONTACT_EMAIL = 'the.brief.you.deserved@gmail.com';
+  var BOOK_TITLE = 'The Brief You Deserved';
+  var BOOK_SUBTITLE = "One Veteran's Take on Career, Education, and Financial Freedom";
+  var SHEET_ID = '1mRBUnvVUJLpTeipEGy7yRW4qoCMU1xKNbicn8LsZZoA';
+  var GVIZ_URL = 'https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/gviz/tq?tqx=out:json';
+
+  var SECTIONS = [
+    { key: 'career',     name: 'Military Career',                 icon: '&#9733;',   columns: range(8, 16) },
+    { key: 'education',  name: 'Education',                       icon: '&#9997;',   columns: range(17, 24) },
+    { key: 'finances',   name: 'Finances',                        icon: '&#36;',     columns: range(25, 33) },
+    { key: 'family',     name: 'Family & Relationships',          icon: '&#9829;',   columns: range(34, 40) },
+    { key: 'mental',     name: 'Mental Health & Well-being',      icon: '&#9775;',   columns: range(41, 47) },
+    { key: 'transition', name: 'Transition & Post-Military Life', icon: '&#10145;',  columns: range(48, 56) },
+    { key: 'lookback',   name: 'Looking Back & Looking Forward',  icon: '&#128065;', columns: range(57, 63) },
+    { key: 'final',      name: 'Final Thoughts',                  icon: '&#9998;',   columns: range(64, 66) }
+  ];
+
+  // ============================================================
+  // STATE
+  // ============================================================
+
+  var appState = {
+    headers: [],
+    responses: [],
+    loaded: false,
+    error: null
+  };
+
+  // ============================================================
+  // UTILITIES
+  // ============================================================
+
+  function range(start, end) {
+    var arr = [];
+    for (var i = start; i <= end; i++) {
+      arr.push(i);
+    }
+    return arr;
+  }
+
+  function escapeHtml(text) {
+    if (!text) return '';
+    var div = document.createElement('div');
+    div.appendChild(document.createTextNode(text.toString()));
+    return div.innerHTML;
+  }
+
+  function getCellValue(cell) {
+    if (!cell) return '';
+    if (cell.v === null || cell.v === undefined) return '';
+    return cell.v.toString();
+  }
+
+  // ============================================================
+  // ATTRIBUTION LOGIC
+  // ============================================================
+
+  function buildAttribution(row) {
+    var name = row[1] || 'Anonymous';
+    var branch = row[2] || '';
+    var rank = row[4] || '';
+    var years = row[5] || '';
+    var useDetails = row[7] || 'No';
+
+    var attribution = '';
+    if (useDetails.toString().toLowerCase().indexOf('yes') !== -1) {
+      attribution = name;
+      if (rank) attribution += ', ' + rank;
+      if (branch) attribution += ' \u2014 ' + branch;
+      if (years) attribution += ' (' + years + ' years)';
+    } else if (useDetails.toString().toLowerCase().indexOf('first') !== -1) {
+      var firstName = name.toString().split(' ')[0];
+      attribution = firstName;
+      if (branch) attribution += ' \u2014 ' + branch;
+    } else {
+      attribution = 'Anonymous';
+      if (branch) attribution += ' \u2014 ' + branch;
+    }
+
+    return attribution;
+  }
+
+  // ============================================================
+  // SECTION ANSWER COUNT
+  // ============================================================
+
+  function countSectionAnswers(row, section) {
+    var count = 0;
+    for (var i = 0; i < section.columns.length; i++) {
+      var val = row[section.columns[i]];
+      if (val && val.toString().trim() !== '') count++;
+    }
+    return count;
+  }
+
+  // ============================================================
+  // DATA LOADING
+  // ============================================================
+
+  function loadData() {
+    console.log('[questionnaire] Loading data from Google Sheets gviz endpoint...');
+    console.log('[questionnaire] URL:', GVIZ_URL);
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', GVIZ_URL, true);
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState !== 4) return;
+
+      console.log('[questionnaire] Response status:', xhr.status);
+
+      if (xhr.status !== 200) {
+        console.error('[questionnaire] Failed to load data. Status:', xhr.status);
+        appState.error = 'Failed to load data from Google Sheets. Please try again later.';
+        render();
+        return;
+      }
+
+      try {
+        var raw = xhr.responseText;
+        console.log('[questionnaire] Raw response length:', raw.length);
+
+        // The gviz endpoint returns: google.visualization.Query.setResponse({...});
+        // We need to extract the JSON object inside the parentheses
+        var jsonStart = raw.indexOf('(');
+        var jsonEnd = raw.lastIndexOf(')');
+        if (jsonStart === -1 || jsonEnd === -1) {
+          throw new Error('Unexpected response format from Google Sheets');
+        }
+        var jsonStr = raw.substring(jsonStart + 1, jsonEnd);
+        var data = JSON.parse(jsonStr);
+
+        console.log('[questionnaire] Parsed data. Status:', data.status);
+
+        if (data.status !== 'ok') {
+          throw new Error('Google Sheets returned status: ' + data.status);
+        }
+
+        var table = data.table;
+        var cols = table.cols;
+        var rows = table.rows;
+
+        console.log('[questionnaire] Columns:', cols.length, 'Rows:', rows.length);
+
+        // Extract headers from column labels
+        var headers = [];
+        for (var c = 0; c < cols.length; c++) {
+          headers.push(cols[c].label || '');
+        }
+        appState.headers = headers;
+        console.log('[questionnaire] Headers extracted:', headers.length);
+
+        // Find the Status column index
+        var statusColIdx = -1;
+        for (var h = 0; h < headers.length; h++) {
+          if (headers[h].toString().trim().toLowerCase() === 'status') {
+            statusColIdx = h;
+            break;
+          }
+        }
+        console.log('[questionnaire] Status column index:', statusColIdx);
+
+        if (statusColIdx === -1) {
+          console.warn('[questionnaire] No "Status" column found. Will show all rows.');
+        }
+
+        // Extract rows, filtering for Published status only
+        var published = [];
+        for (var r = 0; r < rows.length; r++) {
+          var cells = rows[r].c;
+          var rowData = [];
+          for (var ci = 0; ci < cols.length; ci++) {
+            rowData.push(cells && cells[ci] ? getCellValue(cells[ci]) : '');
+          }
+
+          // Filter: only show Published rows
+          if (statusColIdx !== -1) {
+            var status = rowData[statusColIdx].toString().trim();
+            if (status !== 'Published') {
+              continue;
+            }
+          }
+
+          published.push(rowData);
+        }
+
+        console.log('[questionnaire] Published responses:', published.length);
+
+        appState.responses = published;
+        appState.loaded = true;
+        appState.error = null;
+        render();
+
+      } catch (e) {
+        console.error('[questionnaire] Error parsing response:', e);
+        appState.error = 'Error parsing data from Google Sheets: ' + e.message;
+        render();
+      }
+    };
+
+    xhr.onerror = function() {
+      console.error('[questionnaire] Network error loading data');
+      appState.error = 'Network error loading data. Please check your connection and try again.';
+      render();
+    };
+
+    xhr.send();
+  }
+
+  // ============================================================
+  // ROUTING
+  // ============================================================
+
+  function getRoute() {
+    var hash = window.location.hash;
+    if (!hash || hash === '#') {
+      return { view: 'landing' };
+    }
+
+    // Parse hash parameters: #topic=career or #veteran=0
+    var params = {};
+    var parts = hash.substring(1).split('&');
+    for (var i = 0; i < parts.length; i++) {
+      var kv = parts[i].split('=');
+      if (kv.length === 2) {
+        params[decodeURIComponent(kv[0])] = decodeURIComponent(kv[1]);
+      }
+    }
+
+    if (params.topic) {
+      return { view: 'topic', topicKey: params.topic };
+    } else if (params.veteran !== undefined) {
+      return { view: 'veteran', vetIndex: parseInt(params.veteran, 10) };
+    }
+
+    return { view: 'landing' };
+  }
+
+  function navigateTo(hash) {
+    window.location.hash = hash;
+  }
+
+  // ============================================================
+  // CTA BLOCK
+  // ============================================================
+
+  function buildCtaHtml(message) {
+    return '<div class="cta">' +
+      '<p>' + escapeHtml(message) + '</p>' +
+      '<a href="' + FORM_URL + '" target="_blank" rel="noopener" class="button">Fill Out the Questionnaire</a>' +
+      '</div>';
+  }
+
+  // ============================================================
+  // RESOURCE HUB LINK
+  // ============================================================
+
+  function buildResourceHubLink() {
+    return '<div class="resource-hub-link"><a href="index.html">&larr; Back to Resource Hub</a></div>';
+  }
+
+  // ============================================================
+  // FOOTER
+  // ============================================================
+
+  function buildFooterHtml() {
+    return '<div class="footer">' +
+      '<p>&copy; ' + BOOK_TITLE + ' &middot; <a href="mailto:' + CONTACT_EMAIL + '">Contact</a></p>' +
+      '</div>';
+  }
+
+  // ============================================================
+  // RENDER — LANDING PAGE
+  // ============================================================
+
+  function renderLanding() {
+    var html = '';
+
+    html += buildResourceHubLink();
+    html += '<h1>' + BOOK_TITLE + '</h1>';
+    html += '<h2>Veteran Voices</h2>';
+    html += '<p class="intro">A living collection of advice, stories, and hard-won wisdom from veterans across every branch and generation. ' +
+      'Companion content to <em>' + BOOK_TITLE + ': ' + BOOK_SUBTITLE + '</em>.</p>';
+
+    var responses = appState.responses;
+
+    if (responses.length === 0) {
+      html += '<p class="intro">Veteran stories and advice are coming soon. Check back later.</p>';
+      html += buildCtaHtml('Want to share your experience?');
+      html += buildFooterHtml();
+      return html;
+    }
+
+    html += '<p class="meta">' + responses.length + ' veteran response' + (responses.length !== 1 ? 's' : '') + ' published</p>';
+    html += buildCtaHtml('Want to add your voice?');
+
+    // Browse By Topic
+    html += '<h2 class="section-heading">Browse by Topic</h2>';
+    html += '<div class="card-grid">';
+    for (var s = 0; s < SECTIONS.length; s++) {
+      var section = SECTIONS[s];
+      var respondentCount = 0;
+      for (var r = 0; r < responses.length; r++) {
+        if (countSectionAnswers(responses[r], section) > 0) respondentCount++;
+      }
+      if (respondentCount === 0) continue;
+
+      html += '<a class="nav-card" onclick="navigateTo(\'#topic=' + section.key + '\')">';
+      html += '<div class="nav-card-icon">' + section.icon + '</div>';
+      html += '<div class="nav-card-title">' + escapeHtml(section.name) + '</div>';
+      html += '<div class="nav-card-count">' + respondentCount + ' response' + (respondentCount !== 1 ? 's' : '') + '</div>';
+      html += '</a>';
+    }
+    html += '</div>';
+
+    // Browse By Veteran
+    html += '<h2 class="section-heading">Browse by Veteran</h2>';
+    html += '<div class="card-grid">';
+    for (var v = 0; v < responses.length; v++) {
+      var attribution = buildAttribution(responses[v]);
+
+      var totalAnswers = 0;
+      for (var s2 = 0; s2 < SECTIONS.length; s2++) {
+        totalAnswers += countSectionAnswers(responses[v], SECTIONS[s2]);
+      }
+
+      html += '<a class="nav-card" onclick="navigateTo(\'#veteran=' + v + '\')">';
+      html += '<div class="nav-card-icon">&#9873;</div>';
+      html += '<div class="nav-card-title">' + escapeHtml(attribution) + '</div>';
+      html += '<div class="nav-card-count">' + totalAnswers + ' answer' + (totalAnswers !== 1 ? 's' : '') + '</div>';
+      html += '</a>';
+    }
+    html += '</div>';
+
+    html += buildCtaHtml('Have your own story to share?');
+    html += buildFooterHtml();
+    return html;
+  }
+
+  // ============================================================
+  // RENDER — TOPIC PAGE
+  // ============================================================
+
+  function renderTopic(topicKey) {
+    var html = '';
+    var responses = appState.responses;
+    var headers = appState.headers;
+
+    // Find matching section
+    var section = null;
+    for (var s = 0; s < SECTIONS.length; s++) {
+      if (SECTIONS[s].key === topicKey) {
+        section = SECTIONS[s];
+        break;
+      }
+    }
+
+    if (!section) {
+      html += '<p>Topic not found.</p>';
+      html += '<p class="back-link"><a onclick="navigateTo(\'\')">&larr; Back to Home</a></p>';
+      html += buildFooterHtml();
+      return html;
+    }
+
+    html += '<p class="back-link"><a onclick="navigateTo(\'\')">&larr; Back to All Topics</a></p>';
+    html += '<h1>' + escapeHtml(section.name) + '</h1>';
+    html += '<h2>What veterans had to say</h2>';
+
+    var displayedCount = 0;
+
+    for (var r = 0; r < responses.length; r++) {
+      var row = responses[r];
+      if (countSectionAnswers(row, section) === 0) continue;
+
+      displayedCount++;
+      var attribution = buildAttribution(row);
+
+      html += '<div class="response-card">';
+      html += '<div class="attribution">' + escapeHtml(attribution) + '</div>';
+
+      for (var q = 0; q < section.columns.length; q++) {
+        var colIdx = section.columns[q];
+        var answer = row[colIdx];
+        if (answer && answer.toString().trim() !== '') {
+          html += '<div class="qa">';
+          html += '<div class="question">' + escapeHtml(headers[colIdx]) + '</div>';
+          html += '<div class="answer">' + escapeHtml(answer.toString()).replace(/\n/g, '<br>') + '</div>';
+          html += '</div>';
+        }
+      }
+
+      html += '</div>';
+    }
+
+    if (displayedCount === 0) {
+      html += '<p>No responses for this topic yet.</p>';
+    }
+
+    html += '<p class="back-link"><a onclick="navigateTo(\'\')">&larr; Back to All Topics</a></p>';
+    html += buildCtaHtml('Have something to add on ' + escapeHtml(section.name) + '?');
+    html += buildFooterHtml();
+    return html;
+  }
+
+  // ============================================================
+  // RENDER — VETERAN PAGE
+  // ============================================================
+
+  function renderVeteran(vetIndex) {
+    var html = '';
+    var responses = appState.responses;
+    var headers = appState.headers;
+
+    if (vetIndex < 0 || vetIndex >= responses.length) {
+      html += '<p>Response not found.</p>';
+      html += '<p class="back-link"><a onclick="navigateTo(\'\')">&larr; Back to Home</a></p>';
+      html += buildFooterHtml();
+      return html;
+    }
+
+    var row = responses[vetIndex];
+    var attribution = buildAttribution(row);
+
+    html += '<p class="back-link"><a onclick="navigateTo(\'\')">&larr; Back to All Veterans</a></p>';
+    html += '<h1>' + escapeHtml(attribution) + '</h1>';
+
+    // Show demographics if allowed
+    var useDetails = (row[7] || 'No').toString().toLowerCase();
+    if (useDetails.indexOf('yes') !== -1) {
+      var details = [];
+      if (row[2]) details.push('<strong>Branch:</strong> ' + escapeHtml(row[2].toString()));
+      if (row[3]) details.push('<strong>Rate/MOS:</strong> ' + escapeHtml(row[3].toString()));
+      if (row[4]) details.push('<strong>Rank:</strong> ' + escapeHtml(row[4].toString()));
+      if (row[5]) details.push('<strong>Years of Service:</strong> ' + escapeHtml(row[5].toString()));
+      if (row[6]) details.push('<strong>Status:</strong> ' + escapeHtml(row[6].toString()));
+      if (details.length > 0) {
+        html += '<div class="demographics">' + details.join(' &middot; ') + '</div>';
+      }
+    }
+
+    // Show each themed section that has content
+    for (var s = 0; s < SECTIONS.length; s++) {
+      var section = SECTIONS[s];
+      if (countSectionAnswers(row, section) === 0) continue;
+
+      html += '<div class="response-card">';
+      html += '<h3>' + section.icon + ' ' + escapeHtml(section.name) + '</h3>';
+
+      for (var q = 0; q < section.columns.length; q++) {
+        var colIdx = section.columns[q];
+        var answer = row[colIdx];
+        if (answer && answer.toString().trim() !== '') {
+          html += '<div class="qa">';
+          html += '<div class="question">' + escapeHtml(headers[colIdx]) + '</div>';
+          html += '<div class="answer">' + escapeHtml(answer.toString()).replace(/\n/g, '<br>') + '</div>';
+          html += '</div>';
+        }
+      }
+
+      html += '</div>';
+    }
+
+    // Nav to prev/next veteran
+    var totalVets = responses.length;
+    html += '<div class="vet-nav">';
+    if (vetIndex > 0) {
+      html += '<a onclick="navigateTo(\'#veteran=' + (vetIndex - 1) + '\')">&larr; Previous</a>';
+    } else {
+      html += '<span></span>';
+    }
+    html += '<a onclick="navigateTo(\'\')">All Veterans</a>';
+    if (vetIndex < totalVets - 1) {
+      html += '<a onclick="navigateTo(\'#veteran=' + (vetIndex + 1) + '\')">Next &rarr;</a>';
+    } else {
+      html += '<span></span>';
+    }
+    html += '</div>';
+
+    html += buildCtaHtml('Want to share your own story?');
+    html += buildFooterHtml();
+    return html;
+  }
+
+  // ============================================================
+  // MAIN RENDER
+  // ============================================================
+
+  function render() {
+    var app = document.getElementById('app');
+
+    console.log('[questionnaire] Rendering. Loaded:', appState.loaded, 'Error:', appState.error);
+
+    if (appState.error) {
+      app.innerHTML = buildResourceHubLink() +
+        '<h1>' + BOOK_TITLE + '</h1>' +
+        '<h2>Veteran Voices</h2>' +
+        '<div class="error-message">' +
+        '<p><strong>Unable to load responses</strong></p>' +
+        '<p>' + escapeHtml(appState.error) + '</p>' +
+        '<p style="margin-top:15px"><a href="javascript:location.reload()" style="color:#c5a55a">Try again</a></p>' +
+        '</div>' +
+        buildCtaHtml('Want to share your experience?') +
+        buildFooterHtml();
+      return;
+    }
+
+    if (!appState.loaded) {
+      app.innerHTML = '<div class="loading">' +
+        '<div class="loading-spinner"></div>' +
+        '<p>Loading veteran responses...</p>' +
+        '</div>';
+      return;
+    }
+
+    var route = getRoute();
+    console.log('[questionnaire] Route:', JSON.stringify(route));
+
+    var html = '';
+    if (route.view === 'topic') {
+      html = renderTopic(route.topicKey);
+    } else if (route.view === 'veteran') {
+      html = renderVeteran(route.vetIndex);
+    } else {
+      html = renderLanding();
+    }
+
+    app.innerHTML = html;
+    window.scrollTo(0, 0);
+  }
+
+  // ============================================================
+  // EXPOSE navigateTo GLOBALLY (used by onclick handlers)
+  // ============================================================
+
+  window.navigateTo = function(hash) {
+    if (hash === '' || hash === '#') {
+      // Remove hash entirely for clean landing URL
+      history.pushState(null, '', window.location.pathname);
+      render();
+    } else {
+      window.location.hash = hash;
+    }
+  };
+
+  // ============================================================
+  // INIT
+  // ============================================================
+
+  window.addEventListener('hashchange', function() {
+    console.log('[questionnaire] Hash changed to:', window.location.hash);
+    render();
+  });
+
+  // Also handle back/forward when hash was removed via pushState
+  window.addEventListener('popstate', function() {
+    console.log('[questionnaire] Popstate event, hash:', window.location.hash);
+    render();
+  });
+
+  console.log('[questionnaire] Initializing...');
+  loadData();
+
+})();
+</script>
+</body>
+</html>
