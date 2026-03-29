@@ -1,0 +1,171 @@
+[
+  {
+    "category": "Major Veteran Service Organizations",
+    "organizations": [
+      {
+        "name": "Folds of Honor",
+        "website": "https://foldsofhonor.org/scholarships/military-scholarships/",
+        "amount": "Up to $5,000/year",
+        "eligibility": "Children or spouses of U.S. Armed Service members who died, have a VA disability rating, are disabled due to service, or are on active duty with a Purple Heart.",
+        "coverage": "Tuition, fees, on-campus housing, meal plans, required textbooks. Based on unmet financial need after other aid. Does NOT count loans or work-study as aid.",
+        "deadline": "February 1 — March 31 (annual window)",
+        "requirements": "2.0+ GPA for two most recent terms. Funds go directly to the school.",
+        "notes": "Strong option for 100% P&T families. Need-based, so if Conroy/Ch.35 covers tuition, remaining housing/meals/books become the 'unmet need.' Apply every year.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "American Legion Legacy Scholarship",
+        "website": "https://www.legion.org/scholarships/legacy",
+        "amount": "Up to $5,000/year",
+        "eligibility": "Children of post-9/11 veterans with 50%+ VA disability rating or who died on active duty.",
+        "coverage": "Tuition, books, room and board, meal plans, supplies. Needs-based.",
+        "deadline": "March 25 (annual)",
+        "requirements": "Parent must be a member in good standing of The American Legion. No multi-year membership requirement for Legacy (unlike Auxiliary scholarships). Recipients may reapply up to six times.",
+        "notes": "Join the Legion ($50/yr) to qualify your kids. No waiting period for this specific scholarship. Stacks with federal and state benefits.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "American Legion Auxiliary Scholarships",
+        "website": "https://www.alaforveterans.org/scholarships/",
+        "amount": "$1,500 — $5,000/year",
+        "eligibility": "Dependents must be ALA members. Various programs have different requirements.",
+        "coverage": "Tuition, fees, books, room and board depending on program.",
+        "deadline": "Varies by program",
+        "requirements": "Spirit of Youth: 3 consecutive years of Junior ALA membership. Non-Traditional Student: 2 preceding years + current year membership. Plan ahead.",
+        "notes": "Long game — enroll kids in ALA Junior membership NOW. By the time younger children hit college, they'll have the tenure requirement met. ~$25-35/yr per child.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "DAV (Disabled American Veterans)",
+        "website": "https://www.dav.org/",
+        "amount": "Up to $1,500/year",
+        "eligibility": "Dependents of DAV members (Auxiliary scholarships).",
+        "coverage": "Education expenses.",
+        "deadline": "Varies",
+        "requirements": "DAV membership is FREE for disabled veterans. Join DAV, then dependents can access Auxiliary scholarships.",
+        "notes": "Free membership makes this a no-brainer. Even if the scholarship amount is smaller, it stacks with everything else.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "VFW (Veterans of Foreign Wars)",
+        "website": "https://www.vfw.org/community/youth-and-education",
+        "amount": "Varies by program",
+        "eligibility": "Dependents of VFW members. Various essay contests and scholarship programs.",
+        "coverage": "Education expenses.",
+        "deadline": "Varies by program",
+        "requirements": "VFW membership (~$45/yr). Must have served in a foreign conflict — OEF/OIF qualifies.",
+        "notes": "Multiple scholarship tracks including Voice of Democracy essay contest ($30K top prize) and Patriot's Pen. Worth joining if you qualify.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  },
+  {
+    "category": "National Scholarship Programs",
+    "organizations": [
+      {
+        "name": "No Greater Sacrifice",
+        "website": "https://www.nogreatersacrifice.org/",
+        "amount": "Covers ALL unmet financial need",
+        "eligibility": "Children (under 26) of post-9/11 veterans with 60%+ VA disability rating or who were killed/wounded in action.",
+        "coverage": "Tuition, room, board, books — covers the full gap after other financial aid.",
+        "deadline": "April 15 (contact via email: info@nogreatersacrifice.org)",
+        "requirements": "Competitive. Once selected, no annual reapplication needed.",
+        "notes": "Potentially the most impactful single scholarship. If awarded, it covers everything other sources don't. Worth applying even if chances are competitive.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "ThanksUSA",
+        "website": "https://www.thanksusa.org/",
+        "amount": "Up to $3,000/year",
+        "eligibility": "Children (under 24) and spouses of active duty, reserve, guard, or retired military.",
+        "coverage": "Education expenses.",
+        "deadline": "May 15 (annual)",
+        "requirements": "Easy application. Straightforward eligibility for military families.",
+        "notes": "Low barrier to entry. Retired military dependents qualify — not just active duty.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Fisher House — Scholarships for Military Children",
+        "website": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/",
+        "amount": "$2,000",
+        "eligibility": "Unmarried dependent children (under 23) of active duty, retired, or reserve military with valid military dependent ID.",
+        "coverage": "Education expenses. Applied through commissary locations.",
+        "deadline": "Early February (typically closes first week). Check site for exact dates.",
+        "requirements": "Must have military dependent ID (DEERS enrollment). At least one scholarship awarded per commissary location. Maintain 3.0+ GPA.",
+        "notes": "100% P&T retirees have commissary access and DEERS-enrolled dependents. Easy $2K per kid if you don't miss the deadline — it closes early.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Freedom Alliance Scholarship Fund",
+        "website": "https://www.fascholarship.com/",
+        "amount": "Varies per student",
+        "eligibility": "Children (under 26) of service members who are 100% permanently and totally disabled as a DIRECT RESULT of a combat mission. Priority to those with a single combat-related condition rated 70%+.",
+        "coverage": "Tuition and expenses based on unmet need.",
+        "deadline": "April (annual, check site for exact date)",
+        "requirements": "Disability must stem from combat mission specifically — not just service-connected. Submit VA decision letter showing rated conditions.",
+        "notes": "The combat-related requirement is strict. If your P&T rating is from non-combat service conditions, you likely won't qualify. Worth submitting and letting them make the determination.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Patriot Legacy Fund",
+        "website": "https://www.patriotlegacyfund.org/",
+        "amount": "Up to $5,000",
+        "eligibility": "Children of veterans with 10%+ service-connected disability.",
+        "coverage": "Education expenses.",
+        "deadline": "Check website for current cycle",
+        "requirements": "2.5+ GPA. Community service emphasis.",
+        "notes": "Low disability threshold (10%+). Community service involvement strengthens the application.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Fight4Vets Dependent Scholarship",
+        "website": "https://www.fight4vets.org/",
+        "amount": "Varies",
+        "eligibility": "Dependents of any veteran.",
+        "coverage": "Education expenses.",
+        "deadline": "July 4 (annual)",
+        "requirements": "Low barrier to entry.",
+        "notes": "Broad eligibility. Later deadline gives you time after the spring rush.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "MOAA Scholarship Fund",
+        "website": "https://www.moaa.org/content/benefits-and-discounts/education/moaa-scholarship-fund/",
+        "amount": "Varies (scholarships, grants, and interest-free loans)",
+        "eligibility": "Students with veteran or active-duty military parents from all ranks and branches.",
+        "coverage": "Education expenses.",
+        "deadline": "March 1 (annual)",
+        "requirements": "Check MOAA website for specific program requirements.",
+        "notes": "Multiple award types — scholarships (free money), grants, and interest-free loans. Worth exploring all tracks.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  },
+  {
+    "category": "Wounded Warrior & Combat-Specific",
+    "organizations": [
+      {
+        "name": "Wounded Warrior Project — Warriors to Work",
+        "website": "https://www.woundedwarriorproject.org/programs/warriors-to-work",
+        "amount": "Career services (not direct scholarship)",
+        "eligibility": "Post-9/11 veterans who incurred a service-connected wound, illness, or injury.",
+        "coverage": "Career counseling, resume assistance, job placement, networking. Some education support available.",
+        "deadline": "Ongoing — no application deadline",
+        "requirements": "Register with WWP.",
+        "notes": "More career-focused than scholarship-focused, but valuable transition support. Free to eligible veterans.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Semper Fi & America's Fund",
+        "website": "https://semperfifund.org/",
+        "amount": "Varies",
+        "eligibility": "Combat wounded, critically ill, or catastrophically injured service members and veterans (all branches despite the name).",
+        "coverage": "Education assistance, family support, adaptive housing, transportation.",
+        "deadline": "Ongoing",
+        "requirements": "Must have been wounded/injured in combat or training operations.",
+        "notes": "Despite the Marine-sounding name, this serves all branches. Provides direct financial assistance for education among other needs.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  }
+]

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Brief You Deserved — Scholarships &amp; NGO Benefits</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; background: #f5f5f0; color: #2c2c2c; margin: 0; padding: 0; line-height: 1.7; }
+    .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+    h1 { font-size: 2.2em; margin-bottom: 0; color: #1a1a2e; text-align: center; }
+    h2 { font-size: 1.3em; font-weight: normal; font-style: italic; color: #555; margin-top: 5px; text-align: center; margin-bottom: 30px; }
+    .intro { font-size: 1.05em; text-align: center; max-width: 700px; margin: 0 auto 15px; color: #444; }
+    .disclaimer { font-size: 0.85em; text-align: center; color: #888; font-style: italic; margin: 10px auto 25px; max-width: 700px; }
+    .back-link { margin-bottom: 10px; }
+    .back-link a { color: #c5a55a; text-decoration: none; font-size: 0.95em; }
+    .back-link a:hover { text-decoration: underline; }
+
+    /* Tip box */
+    .tip-box { background: #1a1a2e; color: #eee; border-radius: 8px; padding: 20px 25px; margin: 20px 0 30px; }
+    .tip-box strong { color: #c5a55a; }
+    .tip-box ul { margin: 10px 0 0; padding-left: 20px; }
+    .tip-box li { margin: 5px 0; color: #ccc; }
+
+    /* Category heading */
+    .category-heading { font-size: 1.4em; font-weight: bold; font-style: normal; color: #1a1a2e; margin-top: 40px; border-bottom: 2px solid #c5a55a; padding-bottom: 8px; text-align: left; }
+
+    /* Scholarship cards */
+    .scholarship-card { background: #fff; border-radius: 8px; padding: 25px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.08); border-left: 4px solid #c5a55a; cursor: pointer; transition: box-shadow 0.15s; }
+    .scholarship-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+    .scholarship-card.expanded { border-left-color: #1a1a2e; }
+    .scholarship-header { display: flex; justify-content: space-between; align-items: flex-start; }
+    .scholarship-name { font-weight: bold; font-size: 1.15em; color: #1a1a2e; }
+    .scholarship-toggle { color: #c5a55a; font-size: 1.2em; transition: transform 0.2s; flex-shrink: 0; margin-left: 10px; margin-top: 3px; }
+    .scholarship-card.expanded .scholarship-toggle { transform: rotate(180deg); }
+    .scholarship-meta { font-size: 0.9em; color: #777; margin-top: 5px; }
+    .amount-badge { display: inline-block; background: #d4edda; color: #155724; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; font-weight: bold; }
+    .deadline-badge { display: inline-block; background: #fff3cd; color: #856404; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; font-weight: bold; }
+
+    /* Scholarship details */
+    .scholarship-details { display: none; margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; }
+    .scholarship-card.expanded .scholarship-details { display: block; }
+    .detail-row { margin: 10px 0; }
+    .detail-label { font-weight: bold; font-size: 0.9em; color: #1a1a2e; margin-bottom: 3px; }
+    .detail-value { font-size: 0.95em; color: #444; }
+    .detail-value a { color: #c5a55a; font-weight: bold; text-decoration: none; }
+    .detail-value a:hover { text-decoration: underline; }
+    .updated-tag { font-size: 0.75em; color: #aaa; font-style: italic; margin-top: 10px; }
+
+    /* Loading */
+    .loading { text-align: center; padding: 60px 20px; color: #888; }
+    .loading-spinner { display: inline-block; width: 30px; height: 30px; border: 3px solid #ddd; border-top-color: #c5a55a; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 15px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Footer */
+    .book-plug { text-align: center; margin: 30px 0; padding: 15px; background: #1a1a2e; border-radius: 8px; color: #ccc; }
+    .book-plug em { color: #c5a55a; }
+    .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #999; }
+    .footer a { color: #c5a55a; }
+
+    @media (max-width: 500px) { h1 { font-size: 1.6em; } .scholarship-card { padding: 18px; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <p class="back-link"><a href="index.html">&larr; Back to Resource Hub</a></p>
+  <h1>Scholarships &amp; NGO Benefits</h1>
+  <h2>Veteran Service Organizations, National Programs &amp; More</h2>
+  <p class="intro">Scholarships and programs from veteran service organizations and nonprofits. These stack on top of federal and state benefits — apply to as many as you qualify for.</p>
+  <p class="disclaimer">Deadlines, amounts, and eligibility change annually. Always verify with the organization's website before applying.</p>
+
+  <div class="tip-box">
+    <strong>Stacking Strategy:</strong> The goal is to layer benefits so that free money covers your costs before you touch the GI Bill.
+    <ul>
+      <li><strong>Layer 1:</strong> State programs (tuition waivers like Conroy, Hazlewood, etc.)</li>
+      <li><strong>Layer 2:</strong> Federal benefits (Ch. 35 DEA stipend, TA, etc.)</li>
+      <li><strong>Layer 3:</strong> Scholarships below (cover remaining housing, meals, books)</li>
+      <li><strong>Layer 4:</strong> GI Bill (preserve as backstop or transfer to dependents)</li>
+    </ul>
+  </div>
+
+  <div class="tip-box">
+    <strong>Memberships Worth Joining:</strong>
+    <ul>
+      <li><strong>American Legion</strong> (~$50/yr) — Required for Legacy Scholarship ($5K/kid). No waiting period.</li>
+      <li><strong>DAV</strong> (FREE) — Opens Auxiliary scholarships for dependents.</li>
+      <li><strong>ALA Junior</strong> (~$25-35/yr per child) — Start the 2-3 year clock for Auxiliary scholarships. Enroll younger kids NOW.</li>
+      <li><strong>VFW</strong> (~$45/yr) — OEF/OIF qualifies. Opens essay contests and scholarships.</li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading scholarship data...</p>
+    </div>
+  </div>
+
+  <div class="book-plug"><p>From <em>The Brief You Deserved: One Veteran's Take on Career, Education, and Financial Freedom</em></p></div>
+  <div class="footer">
+    <p>&copy; The Brief You Deserved &middot; <a href="mailto:the.brief.you.deserved@gmail.com">Contact</a></p>
+  </div>
+</div>
+
+<script>
+console.log('[Scholarships] Loading data...');
+
+fetch('data/scholarships.json')
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    console.log('[Scholarships] Data loaded:', data.length, 'categories');
+    renderScholarships(data);
+  })
+  .catch(function(err) {
+    console.error('[Scholarships] Error:', err);
+    document.getElementById('content').innerHTML = '<p style="text-align:center;color:#c00;">Error loading data. Please try refreshing the page.</p>';
+  });
+
+function esc(text) {
+  if (!text) return '';
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+function renderScholarships(categories) {
+  var html = '';
+
+  for (var c = 0; c < categories.length; c++) {
+    var cat = categories[c];
+    html += '<h2 class="category-heading">' + esc(cat.category) + '</h2>';
+
+    var orgs = cat.organizations;
+    for (var o = 0; o < orgs.length; o++) {
+      var org = orgs[o];
+
+      html += '<div class="scholarship-card" onclick="this.classList.toggle(\'expanded\')">';
+      html += '<div class="scholarship-header">';
+      html += '<div><div class="scholarship-name">' + esc(org.name) + '</div>';
+      html += '<div class="scholarship-meta">';
+      if (org.amount) {
+        html += '<span class="amount-badge">' + esc(org.amount) + '</span> ';
+      }
+      if (org.deadline) {
+        html += '<span class="deadline-badge">Deadline: ' + esc(org.deadline) + '</span>';
+      }
+      html += '</div></div>';
+      html += '<div class="scholarship-toggle">&#9660;</div>';
+      html += '</div>';
+
+      html += '<div class="scholarship-details">';
+
+      html += '<div class="detail-row"><div class="detail-label">Eligibility</div><div class="detail-value">' + esc(org.eligibility) + '</div></div>';
+      html += '<div class="detail-row"><div class="detail-label">Coverage</div><div class="detail-value">' + esc(org.coverage) + '</div></div>';
+
+      if (org.requirements) {
+        html += '<div class="detail-row"><div class="detail-label">Requirements</div><div class="detail-value">' + esc(org.requirements) + '</div></div>';
+      }
+
+      html += '<div class="detail-row"><div class="detail-label">Notes</div><div class="detail-value">' + esc(org.notes) + '</div></div>';
+
+      if (org.website) {
+        html += '<div class="detail-row"><div class="detail-value"><a href="' + org.website + '" target="_blank">Official Website &rarr;</a></div></div>';
+      }
+
+      if (org.lastUpdated) {
+        html += '<div class="updated-tag">Last updated: ' + esc(org.lastUpdated) + '</div>';
+      }
+
+      html += '</div>'; // scholarship-details
+      html += '</div>'; // scholarship-card
+    }
+  }
+
+  document.getElementById('content').innerHTML = html;
+  console.log('[Scholarships] Rendered successfully');
+}
+</script>
+</body>
+</html>

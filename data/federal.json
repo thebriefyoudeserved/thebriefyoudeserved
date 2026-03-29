@@ -1,0 +1,192 @@
+[
+  {
+    "category": "Education Benefits",
+    "programs": [
+      {
+        "name": "Post-9/11 GI Bill (Chapter 33)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/",
+        "eligibility": "Veterans who served at least 90 days on active duty on or after September 11, 2001. Benefit percentage scales with time served.",
+        "coverage": "Tuition and fees paid directly to school (up to in-state public rates), monthly housing allowance (E-5 w/dependents BAH rate), book stipend up to $1,000/year. Up to 36 months of benefits.",
+        "transferable": "Yes — can transfer to spouse or dependent children with 6+ years of service and 4-year commitment.",
+        "notes": "Most valuable education benefit. Use it last — exhaust TA and in-service programs first. Benefits don't expire for those discharged after Jan 1, 2013.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Montgomery GI Bill (Chapter 30)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/",
+        "eligibility": "Service members who opted in and paid $1,200 buy-in during first year of service.",
+        "coverage": "Monthly stipend paid to the student (not the school). Rate depends on enrollment status. Up to 36 months.",
+        "transferable": "No — cannot be transferred to dependents.",
+        "notes": "Generally less valuable than Post-9/11 GI Bill. Can switch from Montgomery to Post-9/11, but not back. If switching, understand the refund rules — they're complicated.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Chapter 35 — Dependents' Educational Assistance (DEA)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/",
+        "eligibility": "Spouse or child of a veteran who is permanently and totally disabled (100% P&T), died of a service-connected disability, or was captured/detained by a foreign government.",
+        "coverage": "Monthly stipend (~$1,574/mo for full-time as of 2026). Paid directly to the student. Up to 36 months of benefits.",
+        "transferable": "No — this is a separate entitlement for each eligible dependent. Does NOT consume the veteran's GI Bill.",
+        "notes": "This is independent of the GI Bill. Your kids can use Ch. 35 AND you keep your GI Bill. Key benefit for 100% P&T families. Stacks with state programs like Conroy (MD), Hazlewood (TX), etc.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Fry Scholarship (Chapter 33)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/",
+        "eligibility": "Child or surviving spouse of a service member who died in the line of duty on or after September 10, 2001.",
+        "coverage": "Same as Post-9/11 GI Bill — tuition/fees, housing allowance, book stipend. Up to 36 months.",
+        "transferable": "No.",
+        "notes": "Cannot be used simultaneously with Ch. 35 DEA — must choose one. Typically more generous than DEA.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Veteran Readiness and Employment (VR&E / Chapter 31)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+        "eligibility": "Veterans with a service-connected disability rating of at least 10% and an employment barrier.",
+        "coverage": "Tuition, fees, books, supplies, and a monthly subsistence allowance. Can also cover tools, equipment, and job placement services.",
+        "transferable": "No.",
+        "notes": "Broader than just education — includes career counseling, resume help, job placement. Can be used in combination with GI Bill in some cases. Worth exploring if you have any service-connected disability.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Tuition Assistance (TA)",
+        "agency": "Department of Defense (each branch administers)",
+        "website": "https://www.militaryonesource.mil/education-employment/for-service-members/tuition-assistance/",
+        "eligibility": "Active duty service members. Branch-specific requirements (time in service, command approval, etc.).",
+        "coverage": "$250 per semester credit hour, capped at $4,500 per fiscal year. Paid directly to the school.",
+        "transferable": "No.",
+        "notes": "Use this FIRST for your bachelor's degree. Does not reduce GI Bill entitlement. Some schools match TA at $250/credit, making tuition effectively free.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Yellow Ribbon Program",
+        "agency": "U.S. Department of Veterans Affairs + Participating Schools",
+        "website": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/",
+        "eligibility": "Veterans eligible for 100% Post-9/11 GI Bill benefits attending a participating school where tuition exceeds the GI Bill cap.",
+        "coverage": "School agrees to cover a portion of excess tuition, VA matches it. Can eliminate out-of-pocket costs at expensive private schools.",
+        "transferable": "Applies to transferred benefits as well, if the dependent qualifies for 100% benefit level.",
+        "notes": "Not all schools participate, and participating schools set their own caps. Check the VA's Yellow Ribbon school finder before enrolling.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Edith Nourse Rogers STEM Scholarship",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/education/other-va-education-benefits/stem-scholarship/",
+        "eligibility": "Post-9/11 GI Bill or Fry Scholarship recipients enrolled in a STEM degree program who have exhausted or are about to exhaust their benefits.",
+        "coverage": "Up to 9 additional months of Post-9/11 GI Bill benefits (or up to $30,000).",
+        "transferable": "No.",
+        "notes": "Specifically for students in science, technology, engineering, math, or certain healthcare programs. Must have 6 months or fewer of remaining entitlement.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  },
+  {
+    "category": "Healthcare Benefits",
+    "programs": [
+      {
+        "name": "TRICARE (Active Duty / Retiree)",
+        "agency": "Defense Health Agency",
+        "website": "https://www.tricare.mil/",
+        "eligibility": "Active duty (TRICARE Prime, no cost), retirees (TRICARE Prime/Select, enrollment fees apply), dependents.",
+        "coverage": "Medical, dental, pharmacy coverage. Multiple plan options with varying costs and provider networks.",
+        "transferable": "Covers eligible dependents enrolled in DEERS.",
+        "notes": "TRICARE For Life kicks in at 65 (with Medicare Part B). TAMP provides 180 days of transitional coverage after qualifying separations.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "VA Healthcare",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/",
+        "eligibility": "Veterans enrolled in VA healthcare. Priority based on service-connected disability rating, income, and other factors.",
+        "coverage": "Medical, mental health, pharmacy, some dental. Copays vary by priority group. 100% P&T = no copays.",
+        "transferable": "No — veteran only. CHAMPVA available for dependents of 100% P&T veterans.",
+        "notes": "Enroll even if you have other insurance. VA healthcare can serve as primary or supplemental coverage.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "CHAMPVA",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/family-caregiver-benefits/champva/",
+        "eligibility": "Spouse or child of a veteran who is 100% permanently and totally disabled, or who died from a service-connected condition.",
+        "coverage": "Shares cost of covered healthcare services. Covers most medically necessary services.",
+        "transferable": "N/A — directly covers eligible dependents.",
+        "notes": "If eligible for TRICARE, you must use TRICARE (CHAMPVA is secondary). Good safety net for dependents of P&T veterans who don't have employer insurance.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  },
+  {
+    "category": "Financial Benefits",
+    "programs": [
+      {
+        "name": "VA Disability Compensation",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/disability/",
+        "eligibility": "Veterans with service-connected disabilities. Rating from 0% to 100%.",
+        "coverage": "Monthly tax-free payment based on disability rating and number of dependents. 100% with dependents = ~$4,000+/mo (2026 rates).",
+        "transferable": "No.",
+        "notes": "File claims before separation using BDD (180-90 days out). Use a VSO — they're free and know the system. 100% P&T unlocks additional benefits (Ch. 35, property tax exemptions, CHAMPVA, commissary access).",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Thrift Savings Plan (TSP)",
+        "agency": "Federal Retirement Thrift Investment Board",
+        "website": "https://www.tsp.gov/",
+        "eligibility": "All uniformed service members. BRS members receive matching contributions.",
+        "coverage": "Tax-advantaged retirement savings. Traditional and Roth options. Six fund choices (G, F, C, S, I, L).",
+        "transferable": "Can roll over to IRA or 401(k) after separation.",
+        "notes": "Lowest expense ratios in the industry. Start contributing early — compound interest is your biggest weapon. BRS members: contribute at least 5% to get full match.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Military Pension (20-Year Retirement)",
+        "agency": "Defense Finance and Accounting Service (DFAS)",
+        "website": "https://www.dfas.mil/retiredmilitary/",
+        "eligibility": "Service members who complete 20+ years of active duty service.",
+        "coverage": "Legacy/High-3: 2.5% × years of service × average of highest 36 months of base pay. BRS: 2.0% × years × high-3, plus TSP matching.",
+        "transferable": "Survivor Benefit Plan (SBP) provides up to 55% of pension to surviving spouse.",
+        "notes": "Pension is taxable income (unlike VA disability). CRDP allows 20-year retirees with 50%+ VA disability to receive both pension and disability without offset.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  },
+  {
+    "category": "Transition Programs",
+    "programs": [
+      {
+        "name": "SkillBridge",
+        "agency": "Department of Defense",
+        "website": "https://skillbridge.osd.mil/",
+        "eligibility": "Service members within 180 days of separation. Command approval required.",
+        "coverage": "Work for a civilian employer full-time while still receiving military pay and benefits. Essentially a paid internship/apprenticeship.",
+        "transferable": "No.",
+        "notes": "Best kept secret in the military. Companies get a free trial employee, you get experience and often a job offer. Start researching 12+ months before your separation date.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "Transition Assistance Program (TAP)",
+        "agency": "Department of Defense / Department of Labor",
+        "website": "https://www.dodtap.mil/",
+        "eligibility": "All separating and retiring service members. Mandatory attendance.",
+        "coverage": "Workshops on resume writing, job searching, VA benefits, financial planning, entrepreneurship.",
+        "transferable": "Spouses can attend.",
+        "notes": "Start early — don't wait until your last month. The earlier you engage with TAP resources, the smoother your transition will be.",
+        "lastUpdated": "2026-03-29"
+      },
+      {
+        "name": "USMAP (United Services Military Apprenticeship Program)",
+        "agency": "Department of Defense / Department of Labor",
+        "website": "https://usmap.osd.mil/",
+        "eligibility": "Active duty service members in qualifying ratings/MOSes.",
+        "coverage": "Converts on-the-job military training into nationally recognized Department of Labor apprenticeship certificates.",
+        "transferable": "No.",
+        "notes": "Free credential that validates your military experience for civilian employers. If your job qualifies, sign up early — it tracks hours over time.",
+        "lastUpdated": "2026-03-29"
+      }
+    ]
+  }
+]
