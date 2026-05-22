@@ -19,8 +19,7 @@
     '<a href="https://www.tricare.mil/" target="_blank">TRICARE</a>' +
     '<a href="https://www.dfas.mil/retiredmilitary/" target="_blank">DFAS (Pay)</a>' +
     '<a href="https://milconnect.dmdc.osd.mil/" target="_blank">milConnect</a>' +
-    '<a href="https://www.ebenefits.va.gov/" target="_blank">eBenefits</a>' +
-    '<a href="https://skillbridge.osd.mil/" target="_blank">SkillBridge</a>' +
+    '<a href="https://www.skillbridge.mil/" target="_blank">SkillBridge</a>' +
     '<a href="https://www.militaryonesource.mil/" target="_blank">Military OneSource</a>' +
     '<a href="https://www.dodtap.mil/" target="_blank">TAP</a>' +
     '</div>' +

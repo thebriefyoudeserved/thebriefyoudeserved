@@ -35,6 +35,9 @@
     .scholarship-meta { font-size: 0.9em; color: #777; margin-top: 5px; }
     .amount-badge { display: inline-block; background: #d4edda; color: #155724; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; font-weight: bold; }
     .deadline-badge { display: inline-block; background: #fff3cd; color: #856404; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; font-weight: bold; }
+    .defunct-badge { display: inline-block; background: #f8d7da; color: #721c24; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; font-weight: bold; }
+    .scholarship-card.defunct { border-left-color: #dc3545; opacity: 0.75; }
+    .defunct-notice { background: #f8d7da; color: #721c24; border-radius: 6px; padding: 10px 14px; margin-bottom: 12px; font-size: 0.9em; }
 
     /* Scholarship details */
     .scholarship-details { display: none; margin-top: 15px; padding-top: 15px; border-top: 1px solid #eee; }
@@ -133,10 +136,14 @@ function renderScholarships(categories) {
     for (var o = 0; o < orgs.length; o++) {
       var org = orgs[o];
 
-      html += '<div class="scholarship-card" onclick="this.classList.toggle(\'expanded\')">';
+      var isDefunct = org.status === 'defunct';
+      html += '<div class="scholarship-card' + (isDefunct ? ' defunct' : '') + '" onclick="this.classList.toggle(\'expanded\')">';
       html += '<div class="scholarship-header">';
       html += '<div><div class="scholarship-name">' + esc(org.name) + '</div>';
       html += '<div class="scholarship-meta">';
+      if (isDefunct) {
+        html += '<span class="defunct-badge">Website Inactive</span> ';
+      }
       if (org.amount) {
         html += '<span class="amount-badge">' + esc(org.amount) + '</span> ';
       }
@@ -149,6 +156,10 @@ function renderScholarships(categories) {
 
       html += '<div class="scholarship-details">';
 
+      if (isDefunct) {
+        html += '<div class="defunct-notice">This organization\'s website appears to be inactive. The scholarship information below was accurate as of the last update, but may no longer be current. Verify availability through other sources before applying.</div>';
+      }
+
       html += '<div class="detail-row"><div class="detail-label">Eligibility</div><div class="detail-value">' + esc(org.eligibility) + '</div></div>';
       html += '<div class="detail-row"><div class="detail-label">Coverage</div><div class="detail-value">' + esc(org.coverage) + '</div></div>';
 
@@ -159,7 +170,11 @@ function renderScholarships(categories) {
       html += '<div class="detail-row"><div class="detail-label">Notes</div><div class="detail-value">' + esc(org.notes) + '</div></div>';
 
       if (org.website) {
-        html += '<div class="detail-row"><div class="detail-value"><a href="' + org.website + '" target="_blank">Official Website &rarr;</a></div></div>';
+        if (isDefunct) {
+          html += '<div class="detail-row"><div class="detail-value" style="color:#999;text-decoration:line-through;">' + esc(org.website) + ' (inactive)</div></div>';
+        } else {
+          html += '<div class="detail-row"><div class="detail-value"><a href="' + org.website + '" target="_blank">Official Website &rarr;</a></div></div>';
+        }
       }
 
       if (org.lastUpdated) {

@@ -2,7 +2,7 @@
   "Alabama": {
     "program": "Alabama G.I. Dependent Scholarship Program",
     "agency": "Alabama Department of Veterans Affairs (ADVA)",
-    "website": "https://va.alabama.gov/dependents-scholarship/",
+    "website": "https://va.alabama.gov/education-training/alabama-g-i-dependent-scholarship-program/",
     "vetBenefit": "PH",
     "spouseEligible": "≥40%, KIA, SD",
     "childrenEligible": "≥40%, KIA, SD",
@@ -42,18 +42,18 @@
     "application": "Complete Tuition Waiver Verification Form from ADVS website. Submit with supporting documents to benefits@azdvs.gov or by mail. Must meet admission requirements and maintain SAP."
   },
   "Arkansas": {
-    "program": "Military Dependents Scholarship Program (MDS)",
+    "program": "Arkansas Heroes Scholarship (formerly Military Dependents Scholarship)",
     "agency": "Arkansas Division of Higher Education (ADHE)",
-    "website": "https://sams.adhe.edu/Scholarship/Details/MDS",
+    "website": "https://sams.adhe.edu/Scholarship/Details/HEROES",
     "vetBenefit": "—",
     "spouseEligible": "KIA, POW, PT",
     "childrenEligible": "KIA, POW, PT",
     "keyNotes": "Tuition + fees + room/board. Top-tier.",
-    "vetEligibility": "Veteran must be AR resident at time of entry into service or official AR residence, AND declared 100% totally and permanently disabled (service-connected), KIA, POW, MIA, or killed on ordnance delivery.",
-    "depEligibility": "Spouse (not remarried) or dependent child of qualifying veteran. Must be current AR resident. Must be enrolled or accepted at an approved AR public or private institution.",
-    "coverage": "Covers tuition, mandatory fees, AND on-campus room and board (one of the best state programs). Coverage = unpaid portion AFTER Ch 35 DEA benefits are deducted. Limited to 8 semesters or bachelor's degree, whichever comes first. Full-time (12+ credit hours) enrollment required.",
-    "stacking": "MUST apply for Ch 35 DEA first — MDS covers the gap. DEA is applied first, then MDS covers remaining tuition/fees/room&board. Applicants must provide proof of DEA application by June 15.",
-    "application": "Apply online via Arkansas Scholarship Application Management System (SAMS). Required docs: DD-214, VA rating letter (100% P&T), proof of relationship, DEA acceptance/denial letter, FAFSA. Renewable annually."
+    "vetEligibility": "Veteran must have been killed or permanently disabled through military service. Also covers first responders (law enforcement, firefighters, teachers, foresters, correctional officers) killed or permanently disabled in the line of duty.",
+    "depEligibility": "Dependent children (under 26) or spouses of qualifying service member/first responder. Must be AR resident for 1+ year. Must be U.S. citizen or permanent resident. Must be enrolled at an approved AR institution.",
+    "coverage": "Covers in-state tuition, on-campus housing, and mandatory fees. Coverage = unpaid portion AFTER Ch 35 DEA benefits are deducted. Up to 8 semesters. Does NOT cover books, parking, or room damage.",
+    "stacking": "MUST apply for Ch 35 DEA first — Heroes Scholarship covers the gap. DEA is applied first, then scholarship covers remaining tuition/fees/housing.",
+    "application": "Apply online via Arkansas SAMS (sams.adhe.edu). Annual deadline: July 1. Required docs: DD-214, VA rating letter, proof of relationship, DEA acceptance/denial letter, FAFSA. Renewable annually."
   },
   "California": {
     "program": "College Fee Waiver for Veteran Dependents (CVFW)",
@@ -78,10 +78,10 @@
     "childrenEligible": "—",
     "keyNotes": "Guard DTAP only. SB26-067 pending.",
     "vetEligibility": "Currently limited to dependents of CO National Guard members who were disabled or killed on duty.",
-    "depEligibility": "Children and spouses of CO National Guard members killed or permanently disabled while performing Guard duty. Must enroll before age 24.",
-    "coverage": "Tuition + on-campus room & board at CO public institutions. Up to 8 semesters within 6 years.",
+    "depEligibility": "Children and spouses of CO National Guard members (or law enforcement/firefighters) killed or permanently disabled in the line of duty, or POW/MIA. Must enroll before age 24. Must maintain 2.5+ GPA.",
+    "coverage": "Tuition + on-campus room & board at CO public institutions. Out-of-state: tuition only (capped at comparable CO public rate). Undergraduate study toward first bachelor's or certificate.",
     "stacking": "Can be used in conjunction with federal DEA benefits.",
-    "application": "Apply through CDHE. Must complete FAFSA and FERPA release annually."
+    "application": "Apply through CDHE. Application window: March 1 — June 30. Must complete FAFSA annually. Contact: DTAP.mailbox@dhe.state.co.us."
   },
   "Connecticut": {
     "program": "Veterans and Dependents Tuition Waiver",
@@ -170,7 +170,7 @@
   "Illinois": {
     "program": "Illinois MIA/POW Scholarship + Illinois Veterans' Grant (IVG)",
     "agency": "Illinois Department of Veterans' Affairs / ISAC",
-    "website": "https://www2.illinois.gov/veterans/services%20benefits/Pages/education.aspx",
+    "website": "https://veterans.illinois.gov/services-benefits/education.html",
     "vetBenefit": "Vet",
     "spouseEligible": "POW, PT, SD",
     "childrenEligible": "POW, PT, SD",
@@ -198,7 +198,7 @@
   "Iowa": {
     "program": "War Orphans Educational Assistance",
     "agency": "Iowa Department of Veterans Affairs",
-    "website": "https://va.iowa.gov/",
+    "website": "https://dva.iowa.gov/",
     "vetBenefit": "—",
     "spouseEligible": "—",
     "childrenEligible": "KIA",
@@ -212,7 +212,7 @@
   "Kansas": {
     "program": "Kansas Educational Benefits for Dependents of Deceased/Disabled Veterans",
     "agency": "Kansas Board of Regents",
-    "website": "https://www.kansasregents.org/students/student_financial_aid/scholarships_and_grants",
+    "website": "https://www.kansasregents.gov/students/student_financial_aid/scholarships_and_grants",
     "vetBenefit": "POW, Vet",
     "spouseEligible": "KIA, POW, SD",
     "childrenEligible": "KIA, POW, SD",
@@ -269,11 +269,11 @@
     "program": "Edward T. and Mary A. Conroy Memorial Scholarship Program",
     "agency": "Maryland Higher Education Commission (MHEC)",
     "website": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_conroy.aspx",
-    "vetBenefit": "≥30%",
+    "vetBenefit": "≥25%",
     "spouseEligible": "KIA, POW, PT",
     "childrenEligible": "KIA, PT, SD, POW",
     "keyNotes": "CONROY + Ch 35 DEA = your strategy.",
-    "vetEligibility": "Veteran rated ≥30% SC disabled who has exhausted or is no longer eligible for federal VA education benefits.",
+    "vetEligibility": "Veteran rated ≥25% SC disabled who has exhausted or is no longer eligible for federal VA education benefits.",
     "depEligibility": "Children of veterans who are KIA, P&T SC disabled, died of SC disability, POW, MIA, or P&T who died of non-SC causes. Must be MD resident. Must be under age 24 at time of application. Must attend MD institution.",
     "coverage": "Tuition and mandatory fees waiver (up to 5 years at a 2-year institution or equivalent at 4-year). Amount = actual tuition/fees up to the highest in-state undergraduate rate at a public 4-year institution.",
     "stacking": "Can stack with Ch 35 DEA. Conroy covers tuition/fees; DEA provides living stipend.",
@@ -345,9 +345,9 @@
     "keyNotes": "Combat disabilities ONLY.",
     "vetEligibility": "Veteran rated ≥80% SC disabled (disabilities MUST stem from combat), or KIA, or died of SC disability.",
     "depEligibility": "Spouse or child of qualifying veteran. Must be MO resident.",
-    "coverage": "Tuition waiver at MO state-supported institutions.",
+    "coverage": "Tuition (capped at University of Missouri-Columbia rates) + up to $2,000/semester for room and board + up to $500/semester for books. Limited to 25 recipients per year — competitive.",
     "stacking": "Can be used with federal VA benefits.",
-    "application": "Apply through Missouri DHEWD."
+    "application": "Apply electronically through the State Financial Aid Portal. Renewal students have priority deadline of May 1. Apply early — 25-recipient cap."
   },
   "Montana": {
     "program": "Montana Veterans' Fee Waiver",
@@ -408,7 +408,7 @@
   "New Jersey": {
     "program": "NJ POW/MIA Tuition Benefit",
     "agency": "NJ Department of Military and Veterans Affairs",
-    "website": "https://www.nj.gov/military/veterans/benefits-resources/",
+    "website": "https://www.nj.gov/dva/veterans/benefits-resources/",
     "vetBenefit": "—",
     "spouseEligible": "—",
     "childrenEligible": "POW",
@@ -422,7 +422,7 @@
   "New Mexico": {
     "program": "Vietnam Veterans' Scholarship + Children of Deceased Military Personnel Scholarship",
     "agency": "New Mexico Higher Education Department",
-    "website": "https://hed.state.nm.us/",
+    "website": "https://hed.nm.gov/financial-aid/scholarships/vietnam-veterans",
     "vetBenefit": "Vet",
     "spouseEligible": "—",
     "childrenEligible": "SD",
@@ -464,7 +464,7 @@
   "North Dakota": {
     "program": "ND Tuition Waiver for Dependents of Deceased/Disabled Veterans",
     "agency": "ND Department of Veterans Affairs",
-    "website": "https://www.nd.gov/veterans/",
+    "website": "https://www.veterans.nd.gov/",
     "vetBenefit": "—",
     "spouseEligible": "POW, SD, 100%",
     "childrenEligible": "KIA, POW, SD, 100%",
@@ -478,14 +478,14 @@
   "Ohio": {
     "program": "Ohio War Orphans Scholarship",
     "agency": "Ohio Department of Higher Education",
-    "website": "https://highered.ohio.gov/educators/financial-aid/sgs/wos",
+    "website": "https://highered.ohio.gov/",
     "vetBenefit": "—",
     "spouseEligible": "—",
     "childrenEligible": "≥60%, KIA, POW, SD",
-    "keyNotes": "~79% tuition reduction. Partial.",
+    "keyNotes": "~77% tuition reduction. Partial.",
     "vetEligibility": "N/A (dependent-only benefit).",
     "depEligibility": "Children of veterans ≥60% SC disabled, KIA, POW, died of SC disability, or receiving VA pension (P&T). Age 16-25. Must be OH resident.",
-    "coverage": "~79% off tuition and general fees at OH state-supported institutions.",
+    "coverage": "77% of tuition and general fees at OH public institutions ($6,330/year at private institutions). Deadline: May 15 annually.",
     "stacking": "Can be used with federal VA benefits.",
     "application": "Apply through Ohio Department of Higher Education."
   },

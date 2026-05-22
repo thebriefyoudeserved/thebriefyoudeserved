@@ -26,7 +26,7 @@
       },
       {
         "name": "American Legion Auxiliary Scholarships",
-        "website": "https://www.alaforveterans.org/scholarships/",
+        "website": "https://www.legion-aux.org/scholarships/",
         "amount": "$1,500 — $5,000/year",
         "eligibility": "Dependents must be ALA members. Various programs have different requirements.",
         "coverage": "Tuition, fees, books, room and board depending on program.",
@@ -120,6 +120,7 @@
       {
         "name": "Fight4Vets Dependent Scholarship",
         "website": "https://www.fight4vets.org/",
+        "status": "defunct",
         "amount": "Varies",
         "eligibility": "Dependents of any veteran.",
         "coverage": "Education expenses.",
@@ -130,7 +131,7 @@
       },
       {
         "name": "MOAA Scholarship Fund",
-        "website": "https://www.moaa.org/content/benefits-and-discounts/education/moaa-scholarship-fund/",
+        "website": "https://charities.moaa.org/scholarship-fund/aboutSF/",
         "amount": "Varies (scholarships, grants, and interest-free loans)",
         "eligibility": "Students with veteran or active-duty military parents from all ranks and branches.",
         "coverage": "Education expenses.",
@@ -157,7 +158,7 @@
       },
       {
         "name": "Semper Fi & America's Fund",
-        "website": "https://semperfifund.org/",
+        "website": "https://thefund.org/",
         "amount": "Varies",
         "eligibility": "Combat wounded, critically ill, or catastrophically injured service members and veterans (all branches despite the name).",
         "coverage": "Education assistance, family support, adaptive housing, transportation.",
