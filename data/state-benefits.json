@@ -1016,5 +1016,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Minnesota",
+    "programs": [
+      {
+        "name": "Market Value Exclusion for Veterans with a Disability",
+        "agency": "Minnesota Department of Revenue (administered by county assessors)",
+        "website": "https://www.revenue.state.mn.us/market-value-exclusion-veterans-disability",
+        "eligibility": "Honorably discharged veteran who owns and occupies a Minnesota homestead with a VA service-connected disability rating of 70% or higher. Surviving spouses receiving dependency and indemnity compensation, and primary family caregivers, may also qualify. Apply to the county assessor by Dec 31.",
+        "coverage": "$150,000 market value exclusion for a 70%+ service-connected disability; $300,000 exclusion for 100% permanent and total (or permanent Individual Unemployability). Surviving spouses of 100% P&T veterans may continue the $300,000 exclusion until remarriage or property transfer.",
+        "notes": "Reduces the taxable market value of the homestead. Work with a County Veterans Service Officer; the caregiver exclusion matches the veteran's tier.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Vehicle Fee Exemption & Veteran License Plates",
+        "agency": "Minnesota Department of Public Safety — Driver and Vehicle Services (DVS)",
+        "website": "https://dps.mn.gov/divisions/dvs/vehicle/license-plates/specialized-license-plates/military-and-veteran-specialized-license-plates",
+        "eligibility": "Veterans with a 100% total and permanent service-connected disability rating or a VA Individual Unemployability rating qualify for full registration/title/plate fee and sales-tax exemption. A range of military and veteran specialty plates are available to eligible veterans more broadly.",
+        "coverage": "Free motor vehicle registration, plate, and title services for up to two vehicles for 100%/TDIU disabled veterans (fee exemption effective Jan 1, 2024; sales-tax exemption effective July 1, 2024). Plates can include the disability parking symbol for qualified applicants.",
+        "notes": "The exemption does not cover personalized-plate fees or required specialty-plate contributions.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Hunting & Fishing Licenses for Disabled Veterans",
+        "agency": "Minnesota Department of Natural Resources (DNR)",
+        "website": "https://www.dnr.state.mn.us/licenses/special/index.html",
+        "eligibility": "Resident veterans. 100% permanently and totally disabled veterans (including TDIU) qualify for a free permanent angling license and a 100% Disabled Veteran license card (priority in bear and deer lotteries). Veterans with a 50–99% service-connected disability qualify for reduced-fee deer, small game, and angling licenses.",
+        "coverage": "Free permanent angling license for 100% P&T disabled veterans. For 50–99% service-connected disabled veterans, a $5 reduced rate applies to deer, small game, and angling licenses — but this $5 rate takes effect March 1, 2027; until then 50–99% veterans pay standard fees.",
+        "notes": "Apply through the DNR License Center (888-646-6367). The $5 reduced fee for 50–99% veterans is enacted but not yet in effect as of June 2026.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Minnesota Veterans Homes (Skilled Nursing / Long-Term Care)",
+        "agency": "Minnesota Department of Veterans Affairs (MDVA)",
+        "website": "https://mn.gov/mdva/homes/",
+        "eligibility": "Veterans discharged under honorable conditions who are current Minnesota residents and served 181 consecutive days of active duty (unless discharged earlier for a line-of-duty disability) and require skilled nursing care. Spouses of eligible veterans may apply if at least 55 and meeting residency requirements.",
+        "coverage": "Eight state Veterans Homes: Bemidji, Fergus Falls, Hastings, Luverne, Minneapolis, Montevideo, Preston, and Silver Bay. Skilled nursing, dementia/Alzheimer's special care, domiciliary care, and rehabilitation. Residents contribute to the cost of care according to their means.",
+        "notes": "Bemidji, Montevideo, and Preston are newer additions to the original five.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Retirement Pay Subtraction",
+        "agency": "Minnesota Department of Revenue",
+        "website": "https://www.revenue.state.mn.us/military-pension-subtraction",
+        "eligibility": "Taxpayers receiving federally taxable military retirement pay, including active-component and reserve-component retirement and Survivor Benefit Plan (SBP) payments. Pensions solely from dual-status technician service do not qualify.",
+        "coverage": "100% of qualifying military retirement pay may be subtracted from Minnesota taxable income — no dollar cap or age limit.",
+        "notes": "Claimed on Schedule M1M. Cannot be combined with the Credit for Past Military Service; choose whichever gives the greater benefit.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Oklahoma",
+    "programs": [
+      {
+        "name": "100% Disabled Veterans Real Property Tax Exemption (Homestead)",
+        "agency": "Oklahoma Tax Commission / county assessor (registration via Oklahoma Department of Veterans Affairs)",
+        "website": "https://oklahoma.gov/veterans.html",
+        "eligibility": "Honorably-discharged Oklahoma resident veteran (or Oklahoma National Guard) certified by the VA as 100% permanent, service-connected disabled; must own and occupy the homestead as primary residence on January 1. Unremarried surviving spouse may also qualify.",
+        "coverage": "100% of the fair cash value of the homestead (full property tax exemption; no dollar cap).",
+        "notes": "Apply with OTC Form 998 plus VA certification to the local county assessor. First enroll in the Oklahoma Veterans Registry through ODVA (888-655-2838).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "100% DAV Sales Tax Exemption & DAV License Plate / Reduced Registration",
+        "agency": "Oklahoma Tax Commission (sales tax) and Service Oklahoma (license plate / registration)",
+        "website": "https://oklahoma.gov/tax/individuals/exemptions.html",
+        "eligibility": "Oklahoma resident veteran certified by the VA as receiving compensation at the 100% rate for a permanent, service-connected disability. Unremarried surviving spouse may also qualify at a reduced limit.",
+        "coverage": "Sales tax exemption on qualifying purchases up to $25,000 per year (surviving spouse: $1,000 per year); a DAV specialty license plate with a $5 flat annual registration fee.",
+        "notes": "Register with the Oklahoma Veterans Registry at ODVA to obtain Form 599.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Resident Disabled Veteran Hunting & Fishing License",
+        "agency": "Oklahoma Department of Wildlife Conservation (ODWC)",
+        "website": "https://www.wildlifedepartment.com/licensing/veteran-licensing",
+        "eligibility": "Legal Oklahoma resident veterans disabled as certified by the VA. The license-purchase exemption requires a 60%+ VA disability rating; the deer-license exemption requires a 100% rating.",
+        "coverage": "Free (exempt from purchasing) annual hunting and fishing licenses at 60%+ disability, plus exemption from deer licenses at 100%. Discounted lifetime combination license: $25 (60%+ disability) or $200 (under 60%).",
+        "notes": "Obtain proof of exemption through ODVA (888-655-2838).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Oklahoma Veterans Centers (State Veterans Homes)",
+        "agency": "Oklahoma Department of Veterans Affairs (ODVA)",
+        "website": "https://oklahoma.gov/veterans/veterans-homes.html",
+        "eligibility": "Honorable or general-under-honorable discharge; served at least 90 days with one or more days on active duty (or discharged earlier due to a service-connected disability); Oklahoma residency at application; and a clinical assessment establishing need for nursing or domiciliary care.",
+        "coverage": "Long-term skilled nursing, intermediate, memory, and domiciliary care; veterans with a 70%+ service-connected VA disability rating receive full cost of care. Seven homes: Ardmore, Claremore, Clinton, Lawton, Norman, Sallisaw, and Sulphur.",
+        "notes": "The Sallisaw home replaced the Talihina home (Talihina closed Oct 2023; Sallisaw opened June 2025).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Oklahoma Tax Commission",
+        "website": "https://oklahoma.gov/tax/individuals/exemptions.html",
+        "eligibility": "Recipients of military retirement pay/pension filing Oklahoma income tax.",
+        "coverage": "100% of military retirement income is exempt from Oklahoma state income tax.",
+        "notes": "Oklahoma fully exempts military retired pay beginning with the 2022 tax year (Senate Bill 401); prior law allowed a deduction of the greater of $10,000 or 75%.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Oregon",
+    "programs": [
+      {
+        "name": "Disabled Veteran or Surviving Spouse Property Tax Exemption",
+        "agency": "Oregon Department of Revenue / county assessors (program info via ODVA)",
+        "website": "https://www.oregon.gov/odva/benefits/pages/taxes.aspx",
+        "eligibility": "Oregon veteran (or active-duty member) certified as 40% or more disabled by the VA, or certified annually by a licensed physician as 40%+ disabled; surviving spouses/registered domestic partners may also qualify. Must own and live in the home as primary residence. File with the county assessor between Jan 1 and Apr 1.",
+        "coverage": "Reduction of homestead assessed value for tax year 2026–2027: $32,512 (service-connected disability) or $27,092 (non-service-connected disability). Both amounts increase about 3% each July 1.",
+        "notes": "Statutory base amounts ($18,000 / $15,000 under ORS 307.250–307.283) are indexed 3%/yr. Confirm the current-year figure on the live DOR form before relying on it.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plates",
+        "agency": "Oregon Department of Transportation — DMV (program info via ODVA)",
+        "website": "https://www.oregon.gov/odva/benefits/pages/licenses.aspx",
+        "eligibility": "Veteran with an honorable discharge and a VA service-connected disability rating. Apply with the DMV application plus DD-214/DD-215 and a VA letter confirming the service-connected disability. One set of plates per qualifying veteran.",
+        "coverage": "A one-time $15 fee for permanent vehicle registration with the disabled veteran plate; no recurring registration fee thereafter (only standard plate/replacement fees apply).",
+        "notes": "The plate does not grant disabled-parking privileges.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Disabled Veteran Hunting & Fishing Combination License",
+        "agency": "Oregon Department of Fish & Wildlife (ODFW)",
+        "website": "https://myodfw.com/articles/benefits-uniformed-service-members",
+        "eligibility": "Oregon resident with a service-connected disability rating of at least 25% from any branch of the U.S. Armed Forces. Apply by submitting the ODFW disabled veteran license form with a copy of the most recent VA letter showing the 25%+ rating.",
+        "coverage": "Free resident combination license (hunting, angling, shellfish) including the Columbia River Basin/Ocean endorsement. Eligible disabled veterans may also purchase a $25 elk tag.",
+        "notes": "Distinct from the separate Oregon Disabilities Hunting and Fishing Permit (65%+ disability) that grants access to certain restricted ponds/docks.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Oregon Veterans' Homes (The Dalles & Lebanon)",
+        "agency": "Oregon Department of Veterans' Affairs (ODVA)",
+        "website": "https://www.oregon.gov/odva/vets-homes/pages/default.aspx",
+        "eligibility": "A U.S. Armed Forces veteran discharged under general or honorable conditions, OR a spouse/surviving spouse, OR a Gold Star Parent. Must need skilled or intermediate nursing care, be able to pay the resident's portion of cost, and not require care the home is not equipped to provide.",
+        "coverage": "Long-term skilled/intermediate nursing care. Residents may combine private pay, federal benefits, and Medicare/Medicaid. If a VA physician certifies nursing care is needed due to a service-connected disability, the VA may cover some or all of the cost.",
+        "notes": "Two homes: The Dalles and Lebanon. Contact ODVA 800-692-9666.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax Subtraction for Military Retired Pay (Pre-Oct 1991)",
+        "agency": "Oregon Department of Revenue (program info via ODVA)",
+        "website": "https://www.oregon.gov/odva/benefits/pages/taxes.aspx",
+        "eligibility": "Recipients of federal/military retired pay. The subtraction applies only to retired pay attributable to service before October 1, 1991.",
+        "coverage": "Subtract 100% of taxable federal pension if all service was before Oct 1, 1991; 0% if all service was on/after that date; for mixed service, a pro-rata percentage (months/points before Oct 1, 1991 divided by total).",
+        "notes": "Oregon has no separate blanket military-retirement exemption beyond this pre-Oct-1991 federal pension subtraction. Claimed on Oregon Schedule OR-ASC.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Louisiana",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Additional Homestead Tiers)",
+        "agency": "Louisiana Department of Veterans Affairs / Local Parish Assessors",
+        "website": "https://vetaffairs.la.gov/benefits/state",
+        "eligibility": "Louisiana homeowner with a VA service-connected disability rating, occupying the property as primary residence; surviving spouse remains eligible while occupying and owning the home. Tiers per Constitutional Amendment No. 2 (2022), effective Jan 1, 2023.",
+        "coverage": "On top of the standard homestead exemption ($7,500 assessed value / $75,000 fair market value): a 50–69% rating exempts the next $2,500 of assessed value; 70–99% exempts the next $4,500; 100% exempts all remaining ad valorem taxation on the homestead (except certain municipal assessments).",
+        "notes": "Amounts are assessed-value exemptions. Administered by each parish assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Military Honor License Plates",
+        "agency": "Louisiana Office of Motor Vehicles (OMV)",
+        "website": "https://expresslane.org",
+        "eligibility": "Resident veterans with a VA service-connected disability rating of 50% or more qualify for a free Disabled Veteran plate; veterans rated 100% qualify for the '100% DAV' plate. Also eligible for a free disabled-veteran hang tag and exemption from Class D/E and CDL driver-license fees.",
+        "coverage": "$0 — no fee for the plate and no renewal registration fee. Other purchasable veteran specialty plates (e.g., 'Support Our Veterans') cost $25.",
+        "notes": "OMV waived fees for several military honor plates (announced Feb 2024). Statutory basis La. R.S. 47:490.4.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Louisiana Disabled Veteran Hunting & Fishing License",
+        "agency": "Louisiana Department of Wildlife and Fisheries (LDWF)",
+        "website": "https://www.wlf.louisiana.gov/page/special-licenses-and-permits",
+        "eligibility": "Veterans with a permanent VA service-connected disability classification of 50% or more. Available to both residents and nonresidents. Requires application plus a VA Benefit Summary Letter (or LDVA certification).",
+        "coverage": "Free (the Louisiana Wildlife and Fisheries Foundation covers the fee). Includes Basic and Saltwater Fishing; Basic, Deer, Waterfowl, and Turkey Hunting; and a WMA Access Permit. Does not include the Federal Duck Stamp.",
+        "notes": "Renewed annually. LDWF separately offers an 80%-discounted combo license for honorably discharged resident veterans (broader eligibility).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Louisiana Veterans Homes (State Veterans Homes)",
+        "agency": "Louisiana Department of Veterans Affairs",
+        "website": "https://vetaffairs.la.gov/homes",
+        "eligibility": "Louisiana residents honorably discharged with 90 days active duty (or eligible Guard/Reservists); spouses of veterans and Gold Star parents are also eligible. Apply via the admissions/interest form to the selected home.",
+        "coverage": "No monthly fee for veterans with a service-connected disability rating of 70–100%; others pay below typical private nursing-home rates. Per-diem and care charges vary by income/disability.",
+        "notes": "Five homes: Jackson, Monroe, Bossier City, Reserve, and Jennings.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Louisiana Department of Revenue",
+        "website": "https://revenue.louisiana.gov/individual-income-tax",
+        "eligibility": "All recipients of federal military retirement pay (and federal civilian retirement); includes federal military Survivor Benefit Plan payments. Not age-restricted.",
+        "coverage": "100% of military retirement pay is excluded from Louisiana taxable income (full exemption).",
+        "notes": "The exemption remained intact under Louisiana's 2025 flat 3% individual income tax reform. Separate from the general 65+ retirement-income exclusion.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Nevada",
+    "programs": [
+      {
+        "name": "Nevada Disabled Veteran's Exemption (Property / Vehicle Tax)",
+        "agency": "Nevada Department of Veterans Services / County Assessors (NRS 361.091)",
+        "website": "https://veterans.nv.gov/",
+        "eligibility": "Nevada resident veteran with honorable discharge and a permanent service-connected disability of 60% or more. A surviving spouse who was eligible at the veteran's time of death may also qualify.",
+        "coverage": "Exemption of assessed valuation, tiered by disability rating (FY 2025/2026): 60–79% = $17,700; 80–99% = $26,550; 100% = $35,400. Amounts are indexed annually by CPI.",
+        "notes": "Filed through the County Assessor. The veteran chooses to apply the exemption to real/personal property tax OR to the Governmental Services Tax portion of DMV vehicle registration (not both).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran & Disabled Veteran License Plates",
+        "agency": "Nevada Department of Motor Vehicles (DMV)",
+        "website": "https://dmv.nv.gov/platesveterans.htm",
+        "eligibility": "Standard Veteran plate: any veteran or their spouse, parent, or child. Disabled Veteran plate: veteran with a service-connected disability rated 100% (or combined ratings totaling 100%+), with VA/DoD documentation.",
+        "coverage": "Disabled Veteran (and Medal of Honor, Purple Heart, POW, Gold Star) plates: $8.50 initial / $0 renewal. Standard Veteran plate: $61 initial / $30 renewal. Disabled Veteran plates also exempt the holder from state/local government parking fees.",
+        "notes": "Separately, the Disabled Veteran's Exemption can offset the Governmental Services Tax portion of registration via the County Assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Reduced-Fee Disabled Veteran Hunting & Fishing License",
+        "agency": "Nevada Department of Wildlife (NDOW), via Nevada Dept. of Veterans Services",
+        "website": "https://veterans.nv.gov/hunting-fishing-licenses/",
+        "eligibility": "Nevada resident veteran with a service-connected disability of 50% or more and an honorable discharge or certificate of satisfactory service. Residents only.",
+        "coverage": "A $15 specialty combination hunting and fishing license, valid one year from date of purchase.",
+        "notes": "The 50% threshold here differs from the 60% threshold for the property/vehicle tax exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Nevada State Veterans Homes (Boulder City & Sparks)",
+        "agency": "Nevada Department of Veterans Services",
+        "website": "https://veterans.nv.gov/benefits-and-services/southern-nevada-state-veterans-home-boulder-city-nv/",
+        "eligibility": "Eligible veterans (active-duty service with honorable discharge), their spouses, and Gold Star parents who require skilled nursing care. Admission begins with an application packet at veterans.nv.gov.",
+        "coverage": "Two homes: Southern Nevada State Veterans Home (Boulder City, 180-bed skilled nursing) and Northern Nevada State Veterans Home (Sparks/Reno). Skilled nursing, therapy, memory/dementia care, and hospice; cost offset by Medicare/Medicaid, VA per diem/pension, and private pay.",
+        "notes": "Southern home admissions: (702) 668-5806. Northern home: (775) 827-2955.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "State of Nevada (no state income tax)",
+        "website": "https://tax.nv.gov/",
+        "eligibility": "All Nevada residents, including military retirees.",
+        "coverage": "Nevada has NO state personal income tax. Military retired pay, active-duty pay, and survivor benefit annuities are entirely exempt from state income taxation.",
+        "notes": "One of the states with no personal income tax; no state-level taxation of any retirement or military income.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
