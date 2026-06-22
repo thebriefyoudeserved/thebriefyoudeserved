@@ -1266,5 +1266,264 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Arkansas",
+    "programs": [
+      {
+        "name": "Disabled Veteran Homestead & Personal Property Tax Exemption",
+        "agency": "Arkansas Assessment Coordination Division / County Collectors (Ark. Code Ann. 26-3-306)",
+        "website": "https://www.veterans.arkansas.gov",
+        "eligibility": "Veteran with a VA award of special monthly compensation for loss/loss of use of one or more limbs, total blindness in one or both eyes, OR a service-connected 100% total and permanent disability rating. Unremarried surviving spouse and minor dependent children may also qualify.",
+        "coverage": "100% exemption of all state taxes on the homestead and personal property owned by the qualifying disabled veteran (no dollar cap).",
+        "notes": "Codified at Ark. Code Ann. 26-3-306. Apply via county collector/treasurer with a VA Summary of Benefits letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate (Free)",
+        "agency": "Arkansas Department of Finance and Administration (DFA) — Office of Motor Vehicle",
+        "website": "https://www.dfa.arkansas.gov/specialty-plates/disabled-veteran-license-plate-free/",
+        "eligibility": "Service-connected disabled veteran rated 10% or greater, OR a veteran rated by the VA as 100% permanent and total non-service-connected disabled. VA verification letter required.",
+        "coverage": "First plate issued free of charge (no registration fee); one additional plate $4.00; surviving-spouse reissue $4.00.",
+        "notes": "Issued under Ark. Code 27-24-206.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Resident Disabled Military Veteran Lifetime Hunting & Fishing Licenses",
+        "agency": "Arkansas Game & Fish Commission (AGFC)",
+        "website": "https://www.agfc.com/resources/licensing/disability-mobility-impaired-65-plus-military-retiree-lifetime-licenses/",
+        "eligibility": "100% totally and permanently disabled with VA certification, OR a service-connected rating of 70%+, OR a service-connected rating of 50%+ with a Purple Heart. One year of Arkansas residency required.",
+        "coverage": "Lifetime Fishing $1.50; Lifetime Hunting $1.50; Lifetime Combination $3.00; Lifetime Combination License & Permit (incl. trout and state duck stamp) $52.50.",
+        "notes": "Resident-only. Federal stamps/HIP registration may still be required for migratory birds.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Arkansas State Veterans Homes",
+        "agency": "Arkansas Department of Veterans Affairs (ADVA)",
+        "website": "https://www.veterans.arkansas.gov/veteran-homes-1",
+        "eligibility": "Honorable discharge and a medical need for nursing-home placement. Veterans, a veteran's spouse, or Gold Star parents may apply. Arkansas residents have first priority.",
+        "coverage": "Skilled nursing care at two homes: Fayetteville and North Little Rock. Cost is per-diem with VA per-diem offset.",
+        "notes": "Services include skilled nursing, hospice, therapy, and 24-hour nursing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Arkansas Department of Finance and Administration (DFA)",
+        "website": "https://www.dfa.arkansas.gov/income-tax/individual-income-tax/",
+        "eligibility": "Any retired member of the uniformed services receiving military retirement benefits.",
+        "coverage": "100% of military retirement / uniformed services retirement pay is exempt from Arkansas state income tax.",
+        "notes": "Enacted by Act 141 of 2017, effective tax year 2018; replaced the prior $6,000 retirement-income exclusion.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Mississippi",
+    "programs": [
+      {
+        "name": "Disabled Veteran Homestead Ad Valorem (Property) Tax Exemption",
+        "agency": "Mississippi Veterans Affairs Board (MSVA) / MS Department of Revenue (county Tax Assessor)",
+        "website": "https://www.msva.ms.gov/state-benefits",
+        "eligibility": "Honorably discharged veteran with a 100% service-connected total and permanent disability rating from the VA (also veterans 90+ years old); benefit extends to the unmarried surviving spouse.",
+        "coverage": "100% exemption from all ad valorem taxes on the assessed value of the homestead.",
+        "notes": "Application filed at the county Tax Assessor's office Jan 1–Apr 1 each year, with a VA letter stating the 100% rating.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plates (Ad Valorem & Privilege Tax Exemption)",
+        "agency": "Mississippi Department of Revenue / Mississippi Veterans Affairs Board",
+        "website": "https://www.msva.ms.gov/state-benefits",
+        "eligibility": "Mississippi legal resident rated 100% permanent service-connected disability, OR at least 70% nonpermanent service-connected disability, by the VA. Unmarried surviving spouse retains the benefit.",
+        "coverage": "$1.00 total cost per plate/tag; up to two motor vehicle tags plus one motorcycle tag. Vehicles bearing these tags are exempt from all ad valorem and privilege (road & bridge) taxes.",
+        "notes": "Per Miss. Code Ann. Sec. 27-19-53. Additional vehicles require standard taxes and fees.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Hunting & Fishing License Exemption for Disabled Veterans",
+        "agency": "Mississippi Department of Wildlife, Fisheries, and Parks (MDWFP)",
+        "website": "https://www.mdwfp.com/licenses-permits/hunting-license-requirements",
+        "eligibility": "Resident veterans with a 100% total service-connected disability rating from the VA are not required to purchase a hunting or fishing license.",
+        "coverage": "Free — no hunting or fishing license required. An optional $5.00 Disabled Exempt License is available as a single proof-of-eligibility document.",
+        "notes": "Carry proof of age, residency, and the 100% service-connected disability while hunting or fishing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Mississippi State Veterans Homes",
+        "agency": "Mississippi Veterans Affairs Board (MSVA)",
+        "website": "https://www.msva.ms.gov/homes",
+        "eligibility": "Must be or have been a Mississippi resident; active duty discharged under other-than-dishonorable conditions (DD-214 required); physician's exam within 30 days. Spouses of resident veterans may also qualify. Out-of-state veterans admitted only if no MS residents are waiting.",
+        "coverage": "No resident charge for veterans with a single service-connected rating of 70% or more, or rated 100% disabled / unemployable; assistance may be available for indigent veterans. Other residents pay a cost-of-care rate.",
+        "notes": "Homes located at Collins, Jackson, Kosciusko, Oxford, and Tradition/Biloxi.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Mississippi Department of Revenue (DOR)",
+        "website": "https://www.dor.ms.gov/individual/individual-income-tax-frequently-asked-questions",
+        "eligibility": "All recipients of military retired pay / qualified retirement income; no age or disability requirement.",
+        "coverage": "100% exempt — military retired pay (and other qualified retirement income) is not subject to Mississippi income tax.",
+        "notes": "SBP survivor annuities and VA disability pay are also not taxed; combat-zone hazardous duty pay is exempt.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Kansas",
+    "programs": [
+      {
+        "name": "Property Tax Relief Claim for Seniors and Disabled Veterans (K-40SVR)",
+        "agency": "Kansas Department of Revenue",
+        "website": "https://www.ksrevenue.gov/faqs-SVR.html",
+        "eligibility": "Kansas resident the entire year who owned and occupied a Kansas home, AND is either age 65+, an honorably-discharged veteran with a service-connected disability rating of 50% or greater, or a surviving spouse of a qualifying claimant. Household income $58,041 or less (2025) and base-year home value not exceeding $350,000. Filed Jan 1 – Apr 15.",
+        "coverage": "Refund equal to the difference between the claimant's homestead property tax for the base year and the current year (freezes property tax at the base-year amount).",
+        "notes": "This is the program serving 50%+ disabled veterans (Form K-40SVR), distinct from the general Homestead Refund and the SAFESR senior program.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate",
+        "agency": "Kansas Department of Revenue, Division of Vehicles",
+        "website": "https://www.ksrevenue.gov/dov-disabledvet.html",
+        "eligibility": "Kansas resident who served in the U.S. armed forces and is entitled to compensation for a service-connected disability of at least 50%, OR has loss/permanent loss of use of one or both feet or hands, OR permanent visual impairment of both eyes. Vehicle must be titled in Kansas in the applicant's name.",
+        "coverage": "Initial plate: no registration fee at application or renewal (free). Additional Disabled Veteran plates: standard registration fees apply. Vehicle property tax is still due in all cases.",
+        "notes": "Application form is TR-103. Two plate versions exist (with/without the international wheelchair emblem).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veterans Hunting & Fishing License",
+        "agency": "Kansas Department of Wildlife and Parks (KDWP)",
+        "website": "https://www.ksoutdoors.gov/licenses-permits-fees/special-licenses-permits",
+        "eligibility": "Any Kansas resident who is an honorably-discharged military veteran with certified service-connected disabilities of 30% or more. Must apply each year with VA entitlement papers.",
+        "coverage": "Free annual hunting, fishing, and hunt/fish combination license (funded by legislative appropriation).",
+        "notes": "Applied for via Go Outdoors Kansas annually; allow ~2 weeks processing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Kansas State Veterans Homes (Fort Dodge & Winfield)",
+        "agency": "Kansas Office of Veterans Services (KOVS)",
+        "website": "https://www.kovs.ks.gov/veteran-homes",
+        "eligibility": "Veterans who served on active duty with a discharge other than dishonorable. Preference for honorably-discharged wartime veterans; peacetime veterans, spouses, surviving spouses, and Gold Star parents on a space-available basis. Kansas residency not required but Kansas residents receive admission preference.",
+        "coverage": "Two homes: Kansas Soldiers' Home (Fort Dodge) and Kansas Veterans' Home (Winfield). Charges are based on ability to pay; no veteran is denied for lack of income.",
+        "notes": "The agency rebranded from the Kansas Commission on Veterans Affairs (kcva) to the Kansas Office of Veterans Services (kovs.ks.gov).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Kansas Department of Revenue",
+        "website": "https://www.ksrevenue.gov/faqs-taxii.html",
+        "eligibility": "Any recipient of U.S. Armed Forces retirement benefits, regardless of disability status. The benefit must be included in federal AGI before being subtracted on the Kansas return.",
+        "coverage": "100% of military retirement pay is exempt from Kansas income tax (subtracted on Kansas Schedule S, Part A), including TSP distributions attributable to military service.",
+        "notes": "Kansas fully exempts military retired pay.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Iowa",
+    "programs": [
+      {
+        "name": "Disabled Veteran Homestead Property Tax Credit",
+        "agency": "Iowa Department of Revenue (administered via county assessor)",
+        "website": "https://revenue.iowa.gov/taxes/tax-guidance/tax-credits-deductions-exemption/disabled-veteran-homestead-property-tax-credit",
+        "eligibility": "Iowa resident who owns and occupies the homestead and is a veteran who acquired the homestead under specified federal programs (e.g., VA Specially Adapted Housing grant), OR has a permanent 100% service-connected disability rating (or permanent and total individual unemployability paid at the 100% rate). Surviving spouses/children receiving DIC may also qualify.",
+        "coverage": "100% of the actual property tax levied on the homestead.",
+        "notes": "Separate from the general Military Service Property Tax Exemption; apply to the assessor by July 1 with a DD-214 and a current VA benefits letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Service Property Tax Exemption",
+        "agency": "Iowa Department of Revenue (administered via county assessor)",
+        "website": "https://revenue.iowa.gov/taxes/tax-guidance/tax-credits-deductions-exemption/tax-credits-and-exemptions",
+        "eligibility": "Iowa resident honorably discharged veterans who served on active duty (generally 18 months, or qualifying wartime/Guard/Reserve service). Apply to the assessor by July 1.",
+        "coverage": "Reduction of taxable value: $4,000 for assessment years beginning on or after Jan 1, 2026 (raised from $1,852). This is a reduction in taxable value, not a dollar-for-dollar tax cut.",
+        "notes": "Distinct from the Disabled Veteran Homestead Credit; both can apply to the same property.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate & Registration Fee Exemption",
+        "agency": "Iowa Department of Transportation (Motor Vehicle Division), via county treasurer",
+        "website": "https://ia.iowadot.gov/mvd/vehicleregistration/vehicleregistration/plates/dveteran",
+        "eligibility": "A seriously disabled veteran who received federal financial assistance to purchase a vehicle under Title 38 U.S.C. §§ 3901–3904 (tied to the specific assisted vehicle). Separately, veterans rated 100% service-connected may be exempt from registration fees on up to three vehicles.",
+        "coverage": "DV plate issued at no cost, and the annual vehicle registration fee is waived for the qualifying vehicle. The 100%-rating exemption covers up to three vehicles (one free set of standard plates each).",
+        "notes": "Submit a DD-214 and IDVA documentation to the county treasurer. Confirm the 3-vehicle exemption detail with the county treasurer.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Resident Disabled Veteran Lifetime Hunting & Fishing License",
+        "agency": "Iowa Department of Natural Resources (DNR)",
+        "website": "https://www.iowadnr.gov/things-do/fishing/fishing-licenses",
+        "eligibility": "Iowa resident (resident at least 90 days prior to applying) with a service-connected disability rating under Title 38, or a former POW. Requires a VA letter confirming the rating (and a Hunter Safety Certificate if applicable).",
+        "coverage": "$7.00 one-time total cost for the combined lifetime hunting AND fishing license.",
+        "notes": "A nominal flat lifetime fee, not strictly free.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Iowa Veterans Home (Marshalltown)",
+        "agency": "Iowa Department of Veterans Affairs (IDVA)",
+        "website": "https://dva.iowa.gov/veterans-home",
+        "eligibility": "Honorably discharged veterans, plus dependent/surviving spouses of honorably discharged veterans and Gold Star parents. Must meet Iowa residency on the date of admission and need residential or nursing care. Referrals through the county Veterans Service Office.",
+        "coverage": "State-operated residential and nursing/long-term care; resident cost share based on income/ability to pay.",
+        "notes": "Located in Marshalltown. Admissions: 800-645-4591.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Iowa Department of Revenue",
+        "website": "https://revenue.iowa.gov/taxes/tax-guidance/individual-income-tax/military-tax-information",
+        "eligibility": "Any recipient of military retirement benefits, regardless of age; residents and nonresidents. Also applies to military survivor benefits under 10 U.S.C. 1447.",
+        "coverage": "100% exclusion from Iowa individual income tax (full exemption of military retirement pay).",
+        "notes": "Enacted via Senate File 303 (2014), retroactive to tax years beginning on or after Jan 1, 2014. In addition to the general pension exclusion.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Utah",
+    "programs": [
+      {
+        "name": "Utah Veteran with a Disability Property Tax Exemption",
+        "agency": "Utah State Tax Commission (administered by county; certification via Utah Dept. of Veterans and Military Affairs)",
+        "website": "https://tax.utah.gov/forms-pubs/pub-36/",
+        "eligibility": "Veterans with a service-connected disability of at least 10% (line-of-duty), their unmarried surviving spouse, or minor orphans. Must be a Utah resident; primary residence with up to 1 acre.",
+        "coverage": "Up to $535,459 of taxable value exempted (2026 maximum, CPI-adjusted annually). Benefit = maximum × disability percentage (e.g., a 50% rating exempts ~$267,730). No exemption below 10% disability.",
+        "notes": "Can apply to a primary residence and/or tangible personal property such as motor vehicles. Filing deadline Sept 1. Per Tax Commission Pub 36.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plate",
+        "agency": "Utah Division of Motor Vehicles (DMV)",
+        "website": "https://dmv.utah.gov/plates/disabledveteran",
+        "eligibility": "Veterans with a certified disabled status, documented by a letter from the Utah Department of Veterans and Military Affairs or another U.S. military entity.",
+        "coverage": "Standard plate fee $12.50 plus a $4.00 registration certificate fee; no special-plate contribution. The official DMV page does not state that registration or uniform fees are waived for the DV plate.",
+        "notes": "Vehicle fee relief in Utah is generally achieved via the Disabled Veteran Property Tax Exemption applied to the vehicle (tangible personal property), not via the plate itself. The DV plate does not confer handicapped parking.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting, Fishing, or Combination License (Discount)",
+        "agency": "Utah Division of Wildlife Resources (DWR)",
+        "website": "https://wildlife.utah.gov/accessibility/veteran",
+        "eligibility": "Utah residents with a service-connected disability rating of 20% or greater, with VA or armed-forces verification.",
+        "coverage": "Discounted (not free): hunting license $25.50 (vs $34 standard); combination license $28.50 (vs $38); fishing license $12. One-time application; renews automatically at the discounted rate.",
+        "notes": "A reduced-rate program, not a free-license program.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Utah State Veterans Homes (Nursing Homes)",
+        "agency": "Utah Department of Veterans and Military Affairs",
+        "website": "https://veterans.utah.gov/veterans-homes/",
+        "eligibility": "Utah residents who served on active duty (or deployed while serving in the reserves), or have a service-connected injury/disability. Spouses of veterans and Gold Star Parents may also apply (their care is not VA-subsidized).",
+        "coverage": "No cost to veterans with a 70%+ service-connected disability. For veterans with lower/no service-connected disability, the VA provides a per-diem subsidy (about $120/day) toward the cost of care.",
+        "notes": "Four homes: William E. Christoffersen (Salt Lake City), George E. Wahlen (Ogden), Central Utah (Payson), and Southern Utah (Ivins).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Retirement Income Tax Credit",
+        "agency": "Utah State Tax Commission",
+        "website": "https://incometax.utah.gov/credits/military-retirement",
+        "eligibility": "Taxpayer (or spouse, if filing jointly) who received taxable military retirement pay, including a survivor of a deceased service member. Military retirement income must be included in adjusted gross income.",
+        "coverage": "A nonrefundable credit equal to 4.5% of military retirement pay (multiply taxable military retirement pay by 0.045). Because Utah's income tax rate is effectively the same, the credit largely offsets state tax on military retirement income.",
+        "notes": "In place since the 2021 tax year. Cannot be claimed together with the general Retirement Credit. No carryforward of unused credit.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
