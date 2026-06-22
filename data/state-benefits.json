@@ -1775,5 +1775,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Hawaii",
+    "programs": [
+      {
+        "name": "Real Property Tax Exemption for Totally Disabled Veterans",
+        "agency": "Hawaii county real property tax offices (Honolulu, Hawaii, Maui, Kauai) — referred by the State Office of Veterans' Services",
+        "website": "https://realproperty.honolulu.gov/tax-relief-and-forms/exemptions/totally-disabled-veterans/",
+        "eligibility": "Veteran totally disabled (100%) due to injuries sustained on active duty, owning and occupying the property as a home; honorable discharge and VA certification required. An unremarried widow(er) who continues to own and occupy the home also qualifies. Administered at the county level.",
+        "coverage": "Exempts the home from all real property taxes except the county minimum tax (e.g., Honolulu's annual minimum). Each county sets its own minimum-tax amount.",
+        "notes": "Property tax is county-administered in Hawaii (no statewide rate). Honolulu uses Form E-8-10.5. Confirm the exact minimum-tax figure with your county office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plates & Registration Fee Exemption",
+        "agency": "Hawaii Office of Veterans' Services / county motor vehicle registration offices",
+        "website": "https://dod.hawaii.gov/ovs/benefits-and-services/",
+        "eligibility": "Hawaii resident, honorable discharge, and a 100% service-connected disability rating from the VA. Veteran/specialty plates are available to qualifying veterans more broadly.",
+        "coverage": "A $46.00 state registration fee exemption on one vehicle for 100% service-connected disabled veterans. Specialty/veteran license plates are issued for the same cost as a regular plate.",
+        "notes": "County weight tax is separate; some islands offer a county-level vehicle/weight-tax exemption for totally disabled veterans — confirm with the county.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Hunting & Fishing License (No Veteran-Specific Discount)",
+        "agency": "Hawaii Dept. of Land and Natural Resources (DLNR)",
+        "website": "https://dlnr.hawaii.gov/recreation/hunting/",
+        "eligibility": "General resident licensing. DLNR runs a Disabled Public Hunting program offering accommodations for disabled hunters, but eligibility is not veteran-specific.",
+        "coverage": "Resident hunting license $10.00. Hawaii has no veteran-specific free or reduced hunting license, and the state issues no resident marine recreational fishing license at all.",
+        "notes": "Unlike most states, Hawaii does not offer a disabled-veteran hunting/fishing discount. The Disabled Public Hunting program serves disabled hunters generally, not veterans specifically.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Yukio Okutsu State Veterans Home (Hilo)",
+        "agency": "Hawaii Office of Veterans' Services; operated via Hilo Medical Center",
+        "website": "https://dod.hawaii.gov/ovs/advisory-board/state-veteran-homes/hilo-veterans-homes/",
+        "eligibility": "Requires skilled or long-term nursing care; at least 55 years old (younger cases reviewed individually); honorably discharged; a Hawaii resident either before entering the Armed Forces or for at least one year prior to applying; able to cover the resident's share of care costs. Spouses, surviving spouses, and Gold Star parents may be admitted as space allows.",
+        "coverage": "A 95-bed skilled nursing / long-term care facility in Hilo. Cost is shared; VA per-diem and the resident's share apply.",
+        "notes": "Contact (808) 961-1500 for availability.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Hawaii Department of Taxation",
+        "website": "https://tax.hawaii.gov/",
+        "eligibility": "Recipients of military retired pay (all branches). SBP, RCSBP, and RSFPP survivor annuities are likewise exempt.",
+        "coverage": "100% exempt from Hawaii state income tax (military retired pay remains taxable at the federal level).",
+        "notes": "Hawaii fully exempts military retirement pay under the public-pension exclusion (HRS §235-7). National Guard/Reserve drill pay also has a partial exemption.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "New Hampshire",
+    "programs": [
+      {
+        "name": "Veterans' Property Tax Credits & Adapted-Homestead Exemption",
+        "agency": "New Hampshire municipalities (local assessors) under state statute; NH Division of Veterans Services for guidance",
+        "website": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-V-72.htm",
+        "eligibility": "Honorably discharged/separated veterans who own NH residential property. The standard/All Veterans' credit applies to qualifying veterans (the All Veterans' credit requires the town to have adopted it). The service-connected total disability credit (RSA 72:35) applies to veterans with a permanent and total service-connected disability. The adapted-homestead exemption (RSA 72:36-a) applies to a 100% permanently and totally disabled veteran whose home was acquired/adapted with a VA SAH/SHA grant.",
+        "coverage": "Standard veterans' tax credit: $50 (town may adopt $51 up to $750). All Veterans' tax credit: same amount as the town's standard/optional credit. Service-connected total disability credit: $700 (town may adopt $701 up to $5,000). Adapted-homestead: FULL exemption of the homestead from property tax.",
+        "notes": "Amounts are set by each city/town within these state ranges, so the actual credit varies by municipality; figures shown are the statutory minimums/maximums.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plate",
+        "agency": "NH Department of Safety, Division of Motor Vehicles (DMV)",
+        "website": "https://www.dmv.nh.gov/vehicles-boats-and-titles/plate-types",
+        "eligibility": "Honorably discharged veteran who is rated totally and permanently disabled from a service-connected disability, totally blind from a service-connected cause, or a service-connected amputee/paraplegic who received federal funds for a specially adapted vehicle. One plate per eligible veteran (RSA 261:86).",
+        "coverage": "$0 — plate issued at no charge; vehicles displaying the DV plate with the international accessibility symbol park free in any NH city or town when under the owner's direct control.",
+        "notes": "Statutory basis RSA 261:86 (plate) and RSA 265:73 (free parking).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran's Hunting and Fishing License",
+        "agency": "New Hampshire Fish and Game Department",
+        "website": "https://www.wildlife.nh.gov/licenses-and-permits/license-forms",
+        "eligibility": "NH resident, discharge other than dishonorable. Full benefit: totally and permanently disabled from a service-connected disability. Reduced benefit: at least 80% but less than 100% permanently service-connected disabled for more than 2 years.",
+        "coverage": "100% permanently/totally service-connected disabled: a perpetual (lifetime) combination hunting/fishing license for a one-time $10 administrative fee. 80–99% (2+ years): a lifetime license at 50% of the standard lifetime cost.",
+        "notes": "Authority RSA 214:13. The 100% license is effectively free aside from the single $10 admin fee.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "New Hampshire Veterans Home (Tilton)",
+        "agency": "New Hampshire Veterans Home",
+        "website": "https://www.nh.gov/veterans/admissions/eligibility.htm",
+        "eligibility": "Honorably discharged veteran who is medically qualified for the level of care provided; must have been a NH resident for at least one year prior to application OR have had NH as 'home of record' on discharge papers. Financial certification required (one-year asset look-back).",
+        "coverage": "A state veterans long-term care/skilled nursing home; resident contribution toward room and board is based on assets and income (means-tested). A residence is not counted as an asset while occupied by a spouse, partner, or dependent.",
+        "notes": "Located in Tilton; Admissions (603) 527-4400.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "New Hampshire Department of Revenue Administration",
+        "website": "https://www.revenue.nh.gov/",
+        "eligibility": "All New Hampshire residents, including military retirees.",
+        "coverage": "New Hampshire imposes no state tax on earned income or on pensions/retirement income, including military retired pay.",
+        "notes": "NH never taxed earned income or pensions; its only personal income-type tax (the Interest & Dividends tax) was fully repealed effective for tax periods beginning on or after Jan 1, 2025. As of 2025 NH has no individual income tax of any kind.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Maine",
+    "programs": [
+      {
+        "name": "Veteran Property Tax Exemption",
+        "agency": "Maine Revenue Services / Municipal Assessors",
+        "website": "https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/property-tax-relief-programs/property-tax-exemptions",
+        "eligibility": "Maine resident veteran with a discharge other than dishonorable who served during a recognized war period AND is age 62+, OR is receiving 100% VA disability, OR became 100% disabled while serving. Also extends to surviving spouses, minor children, and surviving parents. A separate paraplegic exemption applies to veterans who received a federal specially adapted housing grant.",
+        "coverage": "$6,000 deducted from the just (assessed) value of the estate for qualifying wartime veterans; $50,000 deducted for paraplegic veterans (or those who received a federal specially adapted housing grant).",
+        "notes": "Applied through the local municipal tax assessor; written notice with proof of eligibility required only with the first application.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate & Vehicle Fee Exemption",
+        "agency": "Maine Secretary of State, Bureau of Motor Vehicles (BMV)",
+        "website": "https://www.maine.gov/sos/bmv/registration/availablevet.html",
+        "eligibility": "Veteran with a 100% service-connected disability that is permanent and total and receiving 100% benefits, OR a veteran with loss of/loss of use of both legs. Vehicle registered gross weight cannot exceed 26,000 lbs.",
+        "coverage": "Disabled Veteran plate: exempt from excise tax, registration fee, and title fee. Other no-fee veteran plates (Purple Heart, Medal of Honor, Former POW, Pearl Harbor Survivor, Gold Star Family) are registration-fee exempt up to 10,000 lbs.",
+        "notes": "Requires a DD-214 and VA rating letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Complimentary Hunting & Fishing License",
+        "agency": "Maine Dept. of Inland Fisheries & Wildlife / Bureau of Maine Veterans' Services",
+        "website": "https://www.maine.gov/veterans/node/125",
+        "eligibility": "Veteran with a service-connected disability rated at 50% or more who meets Maine residency requirements (also available to residents of certain reciprocal states).",
+        "coverage": "A free (complimentary) lifetime combination license covering fishing, trapping, hunting, archery, muzzleloader, bear, migratory bird, pheasant, turkey, coyote night hunt, and crossbow.",
+        "notes": "Valid for the life of the holder while residency is maintained. Any-deer and moose permits must still be applied for each year. Obtained via the Bureau of Maine Veterans' Services (Augusta).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Maine Veterans' Homes",
+        "agency": "Maine Veterans' Homes (state-chartered) / Bureau of Maine Veterans' Services",
+        "website": "https://www.maine.gov/veterans/benefits/housing",
+        "eligibility": "Honorably discharged veteran who served one or more days of active duty and was a Maine resident at time of entry into service OR is a Maine resident at time of application. Spouses, widows/widowers, and Gold Star parents may also be eligible (spouses must qualify for nursing-home or assisted-living level of care).",
+        "coverage": "Six facilities: Augusta, Bangor, Caribou, Machias, Scarborough, and South Paris. Long-term/nursing care, assisted living, rehabilitation, and therapy. Cost via private pay, VA per-diem, or MaineCare.",
+        "notes": "No combat service or service-connected disability required.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Maine Revenue Services",
+        "website": "https://www.maine.gov/revenue/taxes/income-estate-tax",
+        "eligibility": "Any Maine taxpayer receiving benefits under a military retirement plan (active or reserve), including survivor benefit payments.",
+        "coverage": "100% exempt from Maine state income tax. For tax years beginning on or after Jan 1, 2016, military retirement benefits (including survivor benefits) are fully exempt. Unlike the general pension deduction, the military exemption is not reduced by Social Security and is not capped.",
+        "notes": "Claimed as a subtraction on Form 1040ME Schedule 1S. SBP annuities are also not taxed.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Montana",
+    "programs": [
+      {
+        "name": "Montana Disabled Veteran (MDV) Property Tax Assistance Program",
+        "agency": "Montana Department of Revenue",
+        "website": "https://revenue.mt.gov/property/property-tax-help/mdv",
+        "eligibility": "Veteran rated 100% service-connected disabled (or paid at the 100% rate), who owns and occupies the home as a primary residence at least 7 months/year; or an unmarried surviving spouse. Must meet income limits and apply by April 15.",
+        "coverage": "A property tax rate reduction of 100%, 80%, 70%, or 50% based on income (Tax Year 2026). Single: 100% up to $48,152, scaling down to 50% at $57,782–$62,598. Married/Head of Household and surviving-spouse brackets differ. Applies to the home and up to 1 acre.",
+        "notes": "The reduction applies to the property tax rate, not a flat dollar amount. Income brackets are inflation-adjusted each year.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plate & Registration Fee Waiver",
+        "agency": "Montana Motor Vehicle Division (Dept. of Justice); administered at county treasurer offices",
+        "website": "https://mvdmt.gov/military-resources/military-veteran-license-plates/",
+        "eligibility": "Per MCA 61-3-460: a complete fee waiver for veterans rated 100% disabled (or paid at the 100% rate), former POWs, and unmarried surviving spouses of service members killed on active duty. Purple Heart recipients rated 50%+ get the registration fee waived but still owe the cemetery fee. Applies to up to two non-commercial vehicles.",
+        "coverage": "100% waiver of motor vehicle registration fees (and the veterans' cemetery fee for the fully-exempt categories) on up to two non-commercial vehicles.",
+        "notes": "Apply at the local county treasurer with a VA disability letter and DD-214. Statutory basis MCA 61-3-460.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran & Military Hunting/Fishing Licenses",
+        "agency": "Montana Fish, Wildlife & Parks (FWP)",
+        "website": "https://fwp.mt.gov/buyandapply/hunting-licenses/disabled-licenses",
+        "eligibility": "Resident veterans with certain combat-connected injuries qualify for half-price deer and antelope licenses (via the FWP Combat Disabled Application). A separate donated-license program serves disabled veterans sponsored by a qualifying nonprofit. Resident Purple Heart recipients may fish and hunt upland game birds with a Conservation License.",
+        "coverage": "Half price (50% off) on deer and antelope licenses for combat-disabled resident veterans; up to 50 such licenses issued annually.",
+        "notes": "FWP Licensing 406-444-2950 for specifics on disability-percentage thresholds.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Veterans' Homes (Columbia Falls & Glendive)",
+        "agency": "Montana Department of Public Health and Human Services (DPHHS)",
+        "website": "https://dphhs.mt.gov/healthcarefacilities/mvh/",
+        "eligibility": "Honorably discharged veterans; spouses and unmarried surviving spouses (admitted on a space-available basis). The applicant must qualify medically for skilled/intermediate nursing or domiciliary care. Open-admission policy regardless of ability to pay.",
+        "coverage": "Montana Veterans' Home (Columbia Falls): 105 intermediate/skilled-care beds plus 12 domiciliary beds. Eastern Montana Veterans' Home (Glendive): 80 intermediate/skilled-care beds including a 16-bed Special Care Unit. Cost offset by VA per diem, Medicare/Medicaid, and resident contribution.",
+        "notes": "Verify the age requirement and current criteria with the Admission Coordinator (406-897-6091).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Partial Exemption)",
+        "agency": "Montana Department of Revenue",
+        "website": "https://revenue.mt.gov/taxes/individual-income-tax/working-military-retirement-exemption",
+        "eligibility": "Montana resident military retirees receiving retired pay from DFAS, and resident recipients of military survivor benefits. Must have become a MT resident after June 30, 2023, OR have been a resident before receiving the retirement income and remained one. Claimed on Form WMRE.",
+        "coverage": "Exempts 50% of military retirement income (and qualifying survivor benefits) received from DFAS from Montana taxable income.",
+        "notes": "Partial 50% exemption effective tax year 2024. SB 93 (2025) eliminated the prior sunset, effective for tax years after Dec 31, 2025. Confirm the current claim mechanics against DOR guidance.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Rhode Island",
+    "programs": [
+      {
+        "name": "Veterans' Property Tax Exemption (incl. Disabled / Totally Disabled)",
+        "agency": "RI Office of Veterans Services / local city & town tax assessors",
+        "website": "https://vets.ri.gov/i-am-find-your-benefits/world-war-ii-korean-war-veteran/property-tax-exemptions",
+        "eligibility": "Honorably discharged veteran (and unmarried surviving spouse). Enhanced tiers for service-connected totally disabled veterans, recipients of VA specially-adapted-housing grants, and ex-POWs. Apply through your town tax assessor with a DD-214.",
+        "coverage": "State minimums (off assessed value): $1,000 base veteran exemption; $10,000 for service-connected totally disabled; an additional $10,000 for VA specially-adapted housing; $15,000 ex-POW. Cities/towns MAY increase any amount by local ordinance, so the actual benefit varies by municipality.",
+        "notes": "State law sets mandatory minimum exemptions; larger amounts are local-option. Gold Star parents are covered separately under RIGL 44-3-5.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran & Disabled Veteran License Plates + Fee Exemption",
+        "agency": "RI Division of Motor Vehicles (DMV)",
+        "website": "https://dmv.ri.gov/registrations-plates-titles/license-plates/plate-types/military-veteran-plates",
+        "eligibility": "Veteran, Disabled Veteran, Ex-POW, Purple Heart, and Gold Star Family plates available with documentation. The Disabled Veteran registration & license fee exemption requires an honorable wartime-period discharge AND one of: loss/loss-of-use of a limb; a VA specially-adapted-vehicle grant; a 100% combined service-connected rating; or VA individual unemployability.",
+        "coverage": "Qualifying wartime disabled veterans are exempt from RI vehicle registration fees and driver's license fees (per RIGL 31-6-8). A 100% service-connected Disabled Veteran license holder is exempt from license costs for life.",
+        "notes": "Plate types confirmed on dmv.ri.gov; fee-exemption criteria codified at RIGL 31-6-8.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting & Fishing License for 100% Disabled Veterans",
+        "agency": "RI Department of Environmental Management (DEM)",
+        "website": "https://dem.ri.gov/about-us/dem-offices/boating-registration-licenses/rhode-island-outdoors",
+        "eligibility": "Rhode Island resident veteran with 100% (total) VA disability status. Must present a current original final-decision document from the VA.",
+        "coverage": "A no-cost (free) freshwater fishing, hunting, or combination license. 100%-disabled veterans are also exempt from needing a saltwater fishing license (must carry the original VA decision document while fishing).",
+        "notes": "Reissued annually after confirmation the status is still 100%. Statutory basis RIGL 20-2-31.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Rhode Island Veterans Home (Bristol)",
+        "agency": "RI Office of Veterans Services",
+        "website": "https://vets.ri.gov/find-your-benefits/ri-veterans-home",
+        "eligibility": "Honorably discharged veteran with at least 90 days of active wartime service, AND either inducted/enlisted to RI's quota OR a Rhode Island resident for 2 consecutive years immediately prior to application. All ages eligible if the wartime requirement is met. Voluntary admission subject to medical director approval.",
+        "coverage": "Residents contribute to their care based on financial means, typically set at 80% of adjusted net income.",
+        "notes": "Located in Bristol; (401) 253-8000.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "RI Division of Taxation",
+        "website": "https://tax.ri.gov/",
+        "eligibility": "Any taxpayer receiving military service pension benefits included in federal AGI. No age limit and no income cap.",
+        "coverage": "100% exemption — full subtraction of military service pension income from RI taxable income. Effective for tax years beginning on or after Jan 1, 2023. Service-connected disability retired pay is also exempt.",
+        "notes": "Codified at RIGL 44-30-12(c). Note: TSP distributions remain taxable by RI; only military service pension is exempted.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
