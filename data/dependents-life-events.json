@@ -1,1 +1,125 @@
-[]
+[
+  {
+    "category": "Dependents & ID",
+    "programs": [
+      {
+        "name": "DEERS (Defense Enrollment Eligibility Reporting System)",
+        "agency": "Department of Defense (DMDC)",
+        "website": "https://tricare.mil/deers",
+        "eligibility": "All uniformed service members (active, retired, Reserve/Guard) are registered automatically. Eligible family members (spouse, children, certain dependents) must be registered by the sponsor to receive TRICARE and other DoD benefits.",
+        "coverage": "DEERS is the DoD database that determines eligibility for TRICARE health care, the military ID card, and other benefits. Dependents must be enrolled and kept current. Sponsors add/update family members via milConnect, ID Card Office Online, or a local ID card/RAPIDS office (DD Form 1172-2 required to add a member).",
+        "notes": "Check your DEERS record at least once every three months; outdated info causes denied or delayed TRICARE claims, referrals, and prescriptions. DMDC/DEERS Support Office: 800-538-9552.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Uniformed Services (Dependent) ID Card",
+        "agency": "Department of Defense (DMDC) / RAPIDS",
+        "website": "https://idco.dmdc.osd.mil/idco/",
+        "eligibility": "Eligible family members registered in DEERS. Dependent children generally must be ID-carded at age 10 (some exceptions allow earlier issuance).",
+        "coverage": "The Uniformed Services ID card provides installation access and verifies eligibility for TRICARE, commissary, and exchange benefits. Apply online via ID Card Office Online or in person at a RAPIDS site (appointments recommended). Required: a completed DD Form 1172-2 signed by the sponsor, two forms of ID, and proof of relationship.",
+        "notes": "Enroll the dependent in DEERS first; the sponsor must be present or have pre-signed the DD Form 1172-2 (or granted a power of attorney) for the appointment.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Adding Dependents to VA Disability Compensation (VA Form 21-686c)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/manage-dependents/",
+        "eligibility": "Veterans eligible for VA disability compensation with a combined disability rating of at least 30%. Qualifying dependents: a spouse, unmarried children under 18 (or 18–23 if in school full-time, or permanently disabled before 18), and dependent parents in the veteran's direct care who meet income/net-worth limits.",
+        "coverage": "A veteran rated 30% or higher receives additional monthly compensation for eligible dependents. Add, remove, or update dependents online at va.gov/manage-dependents or via VA Form 21-686c (dependent parents use VA Form 21P-509).",
+        "notes": "File within one year of the marriage, birth, or adoption (if already rated 30%+ at the time) to receive benefits retroactive to that event date.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Life Events",
+    "programs": [
+      {
+        "name": "Marriage — Update DEERS & VA Benefits",
+        "agency": "DoD (DMDC/DEERS, TRICARE) & VA",
+        "website": "https://tricare.mil/LifeEvents/Marriage",
+        "eligibility": "A spouse becomes TRICARE-eligible once registered in DEERS. For VA, a veteran rated 30% or higher can add a spouse as a dependent for additional compensation.",
+        "coverage": "TRICARE health coverage for the spouse; increased monthly VA disability compensation when a spouse is added (only at 30%+ rating).",
+        "notes": "Marriage is a TRICARE Qualifying Life Event giving a 90-day window from the marriage date to register the spouse in DEERS and enroll in a plan. DEERS and VA are separate systems — do both.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "New Child / Adoption — Add to DEERS & VA",
+        "agency": "DoD (DMDC/DEERS, TRICARE) & VA",
+        "website": "https://tricare.mil/LifeEvents/Baby",
+        "eligibility": "A newborn or newly adopted/court-placed child of a sponsor; the child must be registered in DEERS. For VA, a veteran rated 30% or higher can add the child as a dependent.",
+        "coverage": "TRICARE coverage for the child once enrolled; increased VA disability compensation for a dependent child (at 30%+ rating).",
+        "notes": "Birth/adoption is a Qualifying Life Event with a 90-day window (120 days overseas) to register the child in DEERS and enroll in a plan; claims aren't paid after the window. Add the child to VA disability separately on VA.gov.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Divorce — Remove Former Spouse from DEERS (20/20/20 Rule)",
+        "agency": "DoD (DMDC/DEERS, TRICARE)",
+        "website": "https://tricare.mil/Plans/Eligibility/FormerSpouses",
+        "eligibility": "A former spouse's TRICARE ends on the date of divorce UNLESS they qualify as an unremarried former spouse: 20/20/20 = sponsor has 20+ years creditable service, 20+ years of marriage, and all 20 marriage years overlap the service years (full TRICARE). 20/20/15 = same but only 15 years overlap (one year of transitional coverage).",
+        "coverage": "Loss of TRICARE/ID privileges for a non-qualifying former spouse; full retiree-equivalent TRICARE for 20/20/20 former spouses (lost upon remarriage).",
+        "notes": "The sponsor must update DEERS with a certified copy of the divorce decree. Children keep eligibility. A qualifying 20/20/20 former spouse who remarries permanently loses the benefit.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Transfer Post-9/11 GI Bill to Dependents (TEB)",
+        "agency": "DoD (milConnect) & VA",
+        "website": "https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/",
+        "eligibility": "An active-duty or Selected Reserve service member who, on the approval date, has completed at least 6 years of service AND agrees to add 4 more. The dependent receiving benefits must be enrolled in DEERS.",
+        "coverage": "Up to 36 months of Post-9/11 GI Bill (Chapter 33) entitlement transferable to a spouse and/or children.",
+        "notes": "The transfer MUST be requested while still serving, via milConnect — you cannot start one after leaving service. A spouse can use benefits after 6 years of service; a child only after 10 years.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "When a Veteran Dies (Survivor Checklist)",
+    "programs": [
+      {
+        "name": "Report the Veteran's Death to VA",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/resources/how-to-report-the-death-of-a-veteran-to-va/",
+        "eligibility": "Any survivor or legal representative of a deceased veteran may report the death. The one-time 'month of death' payment is payable only if the veteran was receiving VA compensation or pension at the time of death.",
+        "coverage": "Reporting the death stops the veteran's benefit payments (preventing overpayment debt) and triggers redirection of benefits. A surviving spouse may be paid the amount of compensation/pension the veteran would have received for the month in which the veteran died.",
+        "notes": "Calling is fastest: 800-827-1000 (option 5). Report promptly to avoid overpayment debt. Unpaid benefits owed at death (accrued benefits) are claimed separately via VA Form 21P-601.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Apply for DIC / Survivors Pension",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/",
+        "eligibility": "Surviving spouse, child, or parent of a service member who died in the line of duty, or of a veteran who died from a service-connected condition. Marriage-duration and other rules apply. Survivors Pension is a separate needs-based benefit for low-income survivors.",
+        "coverage": "A tax-free monthly monetary benefit to eligible survivors.",
+        "notes": "A surviving spouse/child files VA Form 21P-534EZ; a survivor of an active-duty member files 21P-534a with a casualty assistance officer. One application covers DIC, Survivors Pension, and accrued benefits.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Burial Benefits, Burial Flag, and Headstone/Marker",
+        "agency": "U.S. Department of Veterans Affairs — National Cemetery Administration",
+        "website": "https://www.va.gov/burials-memorials/",
+        "eligibility": "Eligible veterans and certain family members. A headstone/marker/medallion may be applied for by a family member, personal representative, VSO, qualifying official, or the person responsible for the remains.",
+        "coverage": "A burial allowance (funeral/burial/transport costs), a gravesite in a VA national cemetery, a government headstone/marker/medallion, a burial flag, and a Presidential Memorial Certificate — at no cost to the family.",
+        "notes": "Burial flag: VA Form 27-2008. Headstone/marker: VA Form 40-1330. Headstone help line: 800-697-6947; burial scheduling: 800-535-1117.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Survivor Benefit Plan (SBP) Annuity Activation",
+        "agency": "Defense Finance and Accounting Service (DFAS)",
+        "website": "https://www.dfas.mil/RetiredMilitary/survivors/ApplySBP/",
+        "eligibility": "A surviving spouse (or former spouse/child) of a deceased military retiree who had SBP coverage in effect; surviving spouses are eligible for the SBP annuity for life.",
+        "coverage": "An inflation-adjusted monthly lifetime annuity based on a percentage of the retiree's pay.",
+        "notes": "First report the retiree's death to DFAS at 800-321-1080; DFAS then mails the SBP claim package. The surviving spouse activates the annuity with DD Form 2656-7. Payments typically begin about 45–60 days after death if paperwork is prompt.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Survivor Education & Health Benefits (CHAMPVA, DEA, Fry Scholarship)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/",
+        "eligibility": "DEA (Chapter 35): spouse/child of a veteran who died, is captured/missing, or is permanently and totally disabled from a service-connected condition. Fry Scholarship: child or surviving spouse of a service member who died in the line of duty on or after 9/11/2001. CHAMPVA: survivor of a veteran who died of (or was P&T-rated for) a service-connected disability, or who died in the line of duty.",
+        "coverage": "DEA: monthly education and job-training assistance. Fry Scholarship: tuition, housing, books, and supplies. CHAMPVA: health coverage for medically necessary services.",
+        "notes": "A survivor generally cannot use both DEA and the Fry Scholarship for the same period — compare which gives more before electing. These benefits also appear on the Federal Benefits and Family/Survivor/Retiree Benefits pages.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  }
+]

@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "category": "Caregiver Support",
+    "programs": [
+      {
+        "name": "Program of Comprehensive Assistance for Family Caregivers (PCAFC)",
+        "agency": "U.S. Department of Veterans Affairs (VHA Caregiver Support Program)",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/",
+        "eligibility": "Veteran must have a VA disability rating of 70% or higher (or be unable to perform daily activities due to a serious injury), be enrolled in VA health care, and need at least 6 months of continuous, in-person personal care services. The caregiver must be 18+ and either related to the veteran or live with them full-time.",
+        "coverage": "The designated Primary Family Caregiver receives a monthly stipend, plus CHAMPVA health coverage (if not otherwise covered), mental health counseling, financial/legal planning assistance, and at least 30 days of respite care per year. The stipend is not a fixed national figure — it is based on the federal GS-4, step 1 annual rate for the veteran's locality, divided by 12, times a level multiplier (0.625 or 1.00).",
+        "notes": "Apply via VA Form 10-10CG. Call the Caregiver Support Line at 1-855-260-3274 to be matched with a local Caregiver Support Coordinator first.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Program of General Caregiver Support Services (PGCSS)",
+        "agency": "U.S. Department of Veterans Affairs (VHA Caregiver Support Program)",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/general-caregiver-support-services/",
+        "eligibility": "No disability-rating threshold. Available to any caregiver of a veteran enrolled in VA health care and receiving personal care services, as long as the veteran agrees to receive care from that caregiver. The caregiver need not be a relative or live with the veteran.",
+        "coverage": "Skills training and coaching, peer-support mentoring, support groups, telephone support, online self-care programs, and referrals. No monthly stipend and no enhanced respite care (those are PCAFC-only).",
+        "notes": "No formal application — contact your VA facility's Caregiver Support Coordinator or call 1-855-260-3274. A good entry point when the veteran doesn't meet PCAFC's 70% threshold.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Caregiver Support Line",
+        "agency": "U.S. Department of Veterans Affairs (VHA Caregiver Support Program)",
+        "website": "https://www.caregiver.va.gov/",
+        "eligibility": "Open to all caregivers and family members of veterans; no enrollment required to call.",
+        "coverage": "Toll-free phone support at 1-855-260-3274, staffed by licensed professionals (Mon–Fri, 8:00 a.m.–8:00 p.m. ET). Provides referrals, emotional support, and help enrolling in PCAFC or PGCSS.",
+        "notes": "As of April 2024 this line also handles the calls formerly taken by Coaching Into Care, making it the single front door for both caregiver questions and help getting a veteran into care.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Mental Health & Crisis",
+    "programs": [
+      {
+        "name": "Veterans Crisis Line",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.veteranscrisisline.net/",
+        "eligibility": "Any veteran, service member (including National Guard/Reserve), and their family or friends. No VA enrollment or benefits required.",
+        "coverage": "Free, confidential, 24/7 crisis support: call 988 then press 1, text 838255, or chat online. Responders can connect callers to local VA resources and emergency services.",
+        "notes": "You don't have to be in suicidal crisis to call — it's also for stress, sleep, relationship, or transition problems. Callers control what personal information they share.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Vet Centers (Readjustment Counseling)",
+        "agency": "U.S. Department of Veterans Affairs (VHA Readjustment Counseling Service)",
+        "website": "https://www.vetcenter.va.gov/",
+        "eligibility": "Veterans and service members who served in a combat zone/area of hostility, experienced military sexual trauma (MST), provided mortuary/drone services, or meet other criteria — plus their families. Bereaved family members of those who died on active duty are also eligible.",
+        "coverage": "Free individual, group, marriage, and family counseling; MST counseling; bereavement counseling; and readjustment/PTSD/depression counseling. Delivered at community Vet Centers (and mobile Vet Centers), separate from VA medical centers.",
+        "notes": "Vet Center records are kept confidential and separate from VA medical/benefits files, lowering the barrier for veterans wary of a formal paper trail. The 24/7 Vet Center Call Center is 1-877-927-8387.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Mental Health Services",
+        "agency": "U.S. Department of Veterans Affairs (Veterans Health Administration)",
+        "website": "https://www.va.gov/health-care/health-needs-conditions/mental-health/",
+        "eligibility": "Veterans enrolled in VA health care can access the full range of services; some services (MST-related care, readjustment counseling, crisis care) are available even without enrollment.",
+        "coverage": "Assessment and treatment for PTSD, depression, anxiety, bipolar disorder, schizophrenia, suicidal thoughts, MST, and substance use — including individual/group/couples/family therapy, medication, inpatient and outpatient care, telehealth, peer support, and same-day services.",
+        "notes": "You can get same-day mental health help by walking into any VA medical center or calling 1-877-222-8387; you don't have to wait for a scheduled appointment.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Sexual Trauma (MST) Care",
+        "agency": "U.S. Department of Veterans Affairs (Veterans Health Administration)",
+        "website": "https://www.va.gov/health-care/health-needs-conditions/military-sexual-trauma/",
+        "eligibility": "Veterans and most former service members — including those with an Other Than Honorable discharge or who served fewer than two years — regardless of disability rating or VA health-care enrollment. No need to have reported the MST when it happened or to prove it occurred.",
+        "coverage": "Free treatment for any physical or mental health condition related to MST: psychological assessment, individual and group therapy, medication evaluation, and related physical health care. Available to all genders.",
+        "notes": "Ask for the MST Coordinator at your nearest VA facility (or use a Vet Center) — they can arrange care discreetly.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Substance Use Disorder Treatment",
+        "agency": "U.S. Department of Veterans Affairs (Veterans Health Administration)",
+        "website": "https://www.va.gov/health-care/health-needs-conditions/substance-use-problems/",
+        "eligibility": "Veterans enrolled in VA health care; combat veterans without VA benefits can also access free counseling through Vet Centers.",
+        "coverage": "Medically managed detox; medication-assisted treatment (e.g., buprenorphine for opioids, nicotine replacement for tobacco); outpatient counseling; residential treatment; marital/family therapy; peer support; and integrated treatment for co-occurring PTSD/depression.",
+        "notes": "Start by asking any VA primary care provider for a substance-use screening and referral — you don't need a separate specialty intake to begin.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Family & Bereavement Support",
+    "programs": [
+      {
+        "name": "Bereavement Counseling (Vet Centers)",
+        "agency": "U.S. Department of Veterans Affairs (VHA Readjustment Counseling Service)",
+        "website": "https://www.va.gov/burials-memorials/bereavement-counseling/",
+        "eligibility": "Family members of Armed Forces personnel who died in service; Reserve/National Guard members who died while on duty; family members of veterans who were receiving Vet Center services at the time of an unexpected death or death during hospice care; and families of veterans or service members who died by suicide.",
+        "coverage": "Free outreach, counseling, and referral services for surviving spouses, children, and parents, provided through community Vet Centers.",
+        "notes": "Request it through any Vet Center via the 24/7 Vet Center Call Center at 1-877-927-8387.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  }
+]
