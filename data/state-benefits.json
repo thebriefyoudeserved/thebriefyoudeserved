@@ -1209,7 +1209,7 @@
       {
         "name": "State Income Tax on Military Retired Pay (Exempt)",
         "agency": "Louisiana Department of Revenue",
-        "website": "https://revenue.louisiana.gov/individual-income-tax",
+        "website": "https://revenue.louisiana.gov/individuals/general-resources/individual-income-tax/",
         "eligibility": "All recipients of federal military retirement pay (and federal civilian retirement); includes federal military Survivor Benefit Plan payments. Not age-restricted.",
         "coverage": "100% of military retirement pay is excluded from Louisiana taxable income (full exemption).",
         "notes": "The exemption remained intact under Louisiana's 2025 flat 3% individual income tax reform. Separate from the general 65+ retirement-income exclusion.",
@@ -2159,7 +2159,7 @@
       {
         "name": "Delaware Veterans Home (Milford)",
         "agency": "State of Delaware — Delaware Veterans Home",
-        "website": "https://vethome.delaware.gov/eligibility-requirements/",
+        "website": "https://vethome.delaware.gov/",
         "eligibility": "Honorably discharged from active service (or qualifying National Guard/Reservist); must currently reside in Delaware for at least 1 year prior to application; and must meet federal and state requirements for skilled nursing home level of care. Spouses of veteran residents are also eligible, subject to space availability.",
         "coverage": "A 144-bed skilled nursing facility in Milford. Costs are means-based with VA per-diem support.",
         "notes": "Admissions: (302) 424-8572.",
@@ -2427,7 +2427,7 @@
       {
         "name": "State Income Tax on Military Retired Pay (Exempt)",
         "agency": "Michigan Department of Treasury",
-        "website": "https://www.michigan.gov/taxes/iit/retirement-and-pension-benefits",
+        "website": "https://www.michigan.gov/taxes/questions/iit/accordion/military/are-military-retirement-benefits-exempt-from-michigan-individual-income-tax",
         "eligibility": "Retirees of the U.S. Armed Forces receiving military retired pay; a surviving spouse may claim in case of the retiree's death.",
         "coverage": "100% exempt — military retired pay is fully exempt from Michigan individual income tax with no dollar limit, separate from the general retirement subtraction limits.",
         "notes": "Claimed as a subtraction on Michigan Schedule 1 to the extent included in federal AGI.",
