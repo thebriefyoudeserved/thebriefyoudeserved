@@ -1525,5 +1525,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Connecticut",
+    "programs": [
+      {
+        "name": "Veterans' Property Tax Exemption (Base + Disabled-Veteran Additions)",
+        "agency": "Connecticut municipalities under CT OPM (CGS §§ 12-81, 12-81f, 12-81g)",
+        "website": "https://portal.ct.gov/opm/igpp/grants/tax-relief-grants/additional-veterans-tax-relief-program",
+        "eligibility": "Honorably discharged wartime veterans with 90+ days active service (or survivors). Additional disabled-veteran amounts require a VA service-connected disability rating. Income-tested additional exemptions available to qualifying veterans who meet state income limits. Towns may adopt higher local-option amounts.",
+        "coverage": "Base wartime-veteran exemption: $1,000 of assessed value (statutory minimum). Disabled veterans: an additional exemption scaled by VA rating, with enhanced minimums for severe disabilities. Beginning the 2024 assessment year, veterans rated 100% permanent and total receive a FULL exemption on one primary dwelling or motor vehicle.",
+        "notes": "Administered locally by each town assessor; exact dollar amounts vary by municipality, rating, and any local-option increase. Confirm specifics with the local assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran and Disabled Veteran License Plates",
+        "agency": "Connecticut Department of Motor Vehicles (DMV) / CT Dept. of Veterans Affairs",
+        "website": "https://portal.ct.gov/dva/knowledge-base/articles/advocacy-and-assistance/state-veterans-resources/veterans-license-plates",
+        "eligibility": "Veteran plate: honorably discharged (or released under honorable conditions) from active service. Campaign-specific plates require proof of service via the appropriate Campaign Medal. Disabled American Veterans (DAV) plate: must be a DAV member with a vehicle registered in Connecticut.",
+        "coverage": "A fee is associated with the Veteran Plate Program; the exact dollar amount is not published on the official pages. Plate options include standard Veteran, Flag-Style Veteran, and wartime/campaign plates.",
+        "notes": "Apply via DMV Form M-46. Vehicle registration must not expire within 45 days of the request.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting/Fishing/Trapping License for Disabled Residents",
+        "agency": "Connecticut Department of Energy & Environmental Protection (DEEP)",
+        "website": "https://portal.ct.gov/deep/hunting/2026-connecticut-hunting-and-trapping-guide/hunting-and-trapping-licenses",
+        "eligibility": "Connecticut resident who has lost, or permanently lost the use of, one or more limbs may receive a free hunting/trapping license; a free recreational fishing license is available to residents who are permanently disabled (physician certification required). CT statute frames this around qualifying disability rather than a veteran-specific category.",
+        "coverage": "License issued free of charge (does not include required stamps/permits, which are still charged).",
+        "notes": "CT has no veteran-specific free-license code; many service-connected disabled veterans qualify under the general limb-loss/permanent-disability provisions. Confirm individual eligibility with DEEP.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Connecticut State Veterans Home (Rocky Hill)",
+        "agency": "Connecticut Department of Veterans Affairs (DVA)",
+        "website": "https://portal.ct.gov/dva/pages/apply-for-admission-to-the-residential-facility/eligibility",
+        "eligibility": "Honorably discharged or released under honorable conditions from active service, AND a current Connecticut resident or a Connecticut resident at the time of enlistment/induction. The residential facility requires 90+ days of active duty (other than training); the Healthcare Center additionally requires a chronic medical condition needing skilled nursing.",
+        "coverage": "State-operated domiciliary (residential) and skilled-nursing/healthcare facility. Resident cost-share is not a fixed published amount.",
+        "notes": "Located in Rocky Hill. Admission can be initiated by the veteran, a service officer, or a social-service agency.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Connecticut Department of Revenue Services (DRS)",
+        "website": "https://portal.ct.gov/drs",
+        "eligibility": "Retired members of the U.S. armed forces or National Guard, and beneficiaries receiving survivor benefits under an election made by a deceased retired military member.",
+        "coverage": "100% of military retirement pay is exempt from Connecticut income tax (full subtraction modification), regardless of AGI.",
+        "notes": "Claimed as a subtraction modification on the CT return; military retirement pay is excluded from the pension/annuity income calculation.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "New Mexico",
+    "programs": [
+      {
+        "name": "Veteran & Disabled Veteran Property Tax Exemption",
+        "agency": "NM Department of Veterans' Services / County Assessors (NM Taxation & Revenue)",
+        "website": "https://www.nmdvs.org/",
+        "eligibility": "Honorably discharged veteran who is a NM resident (base exemption). Disabled veteran exemption: veteran with a VA service-connected disability rating (10%–100%) occupying the property as principal residence; surviving spouses may retain it.",
+        "coverage": "Base exemption: $10,000 of taxable value (raised from $4,000 by HB47/2025, effective tax year 2025, inflation-indexed thereafter). Disabled veteran exemption: a property tax reduction proportional to the VA disability rating (e.g., a 70% rating = 70% reduction; 100% = full waiver), effective tax year 2026.",
+        "notes": "Implemented by 2024 Constitutional Amendments 1 and 2 via HB47 (signed March 2025). Previously only 100%-rated veterans received a full exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) & Military Service License Plates",
+        "agency": "NM Motor Vehicle Division (MVD), Taxation & Revenue Dept.",
+        "website": "https://www.mvd.newmexico.gov/vehicles/license-plates/military-and-veterans/",
+        "eligibility": "50% or greater service-connected disability rating (DV plate). Other veteran specialty plates available to qualifying veterans.",
+        "coverage": "Up to two free DV plates per qualifying veteran with no fees, including the regular registration fee waived. May instead choose up to two specialty plates with the registration fee waived (paying only the special-plate fee). Plates are permanent (no annual sticker).",
+        "notes": "Apply by mail using Form MVD10353 with a DD-214 and proof of disability.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting & Fishing License",
+        "agency": "NM Department of Game and Fish (NMDGF) / NM Dept. of Veterans' Services",
+        "website": "https://wildlife.dgf.nm.gov/hunting/licenses-and-permits/exceptions-license-information/",
+        "eligibility": "NM resident veterans. The free lifetime card requires a 100% service-connected VA disability rating; a reduced rate applies for resident disabled veterans below 100%. Resident active-duty/honorably discharged veterans also get 50% off most licenses.",
+        "coverage": "100% disabled: FREE lifetime Disabled Veteran Game-Hunting & Fishing license. Below 100% disabled: a $10 combination Game-Hunting & Fishing license. General military/veteran resident: 50% off most licenses, permits, and stamps.",
+        "notes": "100%-disabled applicants submit the NMDGF Lifetime Resident Disabled Veteran Card Application with a DD-214 and VA Benefit Summary Letter. The 50% discount excludes federal duck stamps.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "New Mexico State Veterans' Home",
+        "agency": "NM Department of Health (operates the facility); NM Dept. of Veterans' Services (benefits)",
+        "website": "https://www.nmhealth.org/about/ofm/ltcf/nmsvh",
+        "eligibility": "Any honorably discharged U.S. Armed Forces veteran who was a NM resident at time of entering/discharge from service OR is a NM resident at date of admission. Gold Star Parents also eligible. Subject to bed availability.",
+        "coverage": "Long-term skilled nursing / domiciliary care. Costs offset by VA per diem and resident contribution. Located in Truth or Consequences, NM.",
+        "notes": "Contact (575) 894-4200.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Partial Exemption)",
+        "agency": "NM Taxation & Revenue Department",
+        "website": "https://www.tax.newmexico.gov/individuals/",
+        "eligibility": "Armed forces retirees and their surviving spouses filing NM personal income tax (NMSA 1978, Sec. 7-2-5.13).",
+        "coverage": "Up to $30,000 of armed forces retirement pay exempt from NM personal income for tax year 2026 (and ongoing). Phase-in was $10,000 (2022), $20,000 (2023), $30,000 (2024 onward). Active-duty pay of NM-resident service members is separately 100% exempt.",
+        "notes": "The $30,000 exemption was made permanent by a 2024 amendment (effective Jan 1, 2025) that removed the prior sunset and extended eligibility to surviving spouses.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Nebraska",
+    "programs": [
+      {
+        "name": "Homestead Exemption for 100% Service-Connected Disabled Veterans",
+        "agency": "Nebraska Department of Revenue (Property Assessment Division) / Nebraska Dept. of Veterans' Affairs",
+        "website": "https://revenue.nebraska.gov/PAD/homestead-exemption",
+        "eligibility": "Nebraska resident veteran with an honorable or general discharge who draws VA compensation for a 100% service-connected permanent disability OR holds a 100% Individual Unemployability rating; must own and occupy the homestead from Jan 1 through Aug 15, with the rating effective on or before Jan 1. Certain surviving spouses also qualify.",
+        "coverage": "100% exemption of the homestead's taxable value. No income limitation and no homestead value maximum for this category.",
+        "notes": "File Form 458 plus VA certification. This category is filed once and re-certified only in years ending in 0 or 5.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Plate & Motor Vehicle Tax/Fee Exemption",
+        "agency": "Nebraska Department of Motor Vehicles / Nebraska Dept. of Veterans' Affairs",
+        "website": "https://dmv.nebraska.gov/dvr/dav-plate",
+        "eligibility": "DV License Plate: Nebraska veteran with honorable or general discharge and at least a 10% service-connected disability rating; must be enrolled in the NDVA Registry. Motor Vehicle Tax/Fee Exemption (effective Jan 1, 2026): disabled and/or blind veterans receiving VA compensation, also requiring Registry enrollment.",
+        "coverage": "DV plate: alphanumeric plate issued at no plate fee (a message/specialty DV plate is $40/year). Tax exemption: full exemption of the Motor Vehicle Tax and Motor Vehicle Fee on one personal-use vehicle (other charges still apply).",
+        "notes": "DV plate approval and the tax exemption are separate processes. The exemption covers only one vehicle and does not auto-transfer.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunt/Fish/Fur-Harvest Permit & Lifetime Park Entry Permit",
+        "agency": "Nebraska Game and Parks Commission",
+        "website": "https://outdoornebraska.gov/permits/veterans-and-military-permits/",
+        "eligibility": "Legal Nebraska resident rated by the VA as 50% or more disabled as a result of service, OR receiving a VA pension for total and permanent non-service-connected disability; honorable or general discharge.",
+        "coverage": "$0 — a combination fishing, fur-harvesting, and hunting permit plus habitat stamp, aquatic habitat stamp, and migratory waterfowl stamp; plus one perpetual Disabled Veterans' Lifetime Annual Park Entry Permit at no fee.",
+        "notes": "The free combination permit is perpetual and voids only if the veteran loses eligibility. (Non-disabled resident veterans 64+ qualify for a $5 Veteran's Annual Small Game permit.)",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Nebraska Veterans' Homes (Bellevue, Kearney, Norfolk, Scottsbluff)",
+        "agency": "Nebraska Department of Veterans' Affairs",
+        "website": "https://veterans.nebraska.gov/nebraska-veterans-homes",
+        "eligibility": "Veterans who served on active duty with an honorable or general discharge and lived in Nebraska at least two years during their lifetime, and who are disabled by reason of service, age, or otherwise unable to earn a living. Spouses, surviving spouses, and Gold Star spouses/parents may also qualify.",
+        "coverage": "Members are admitted regardless of financial situation; those able to pay contribute a portion based on income and assets. Services: domiciliary, assisted living, skilled nursing, and memory care.",
+        "notes": "Four state homes: Eastern (Bellevue), Central (Kearney), Norfolk, and Western (Scottsbluff). Apply via the County Veterans' Service Officer.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Nebraska Department of Revenue",
+        "website": "https://revenue.nebraska.gov/about/frequently-asked-questions/military-retirement-benefits-exclusion",
+        "eligibility": "Any military retiree receiving qualifying military retirement benefits (including Coast Guard, USPHS Commissioned Corps, and NOAA Commissioned Officer Corps), to the extent included in federal AGI.",
+        "coverage": "100% of military retirement benefits excluded from Nebraska taxable income, for tax years beginning on or after January 1, 2022.",
+        "notes": "No election or form is required (the former one-time election was eliminated). Enacted by LB387.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "West Virginia",
+    "programs": [
+      {
+        "name": "Disabled Veteran Real Property Tax Credit",
+        "agency": "West Virginia Tax Division (with WV Dept. of Veterans Assistance certification)",
+        "website": "https://tax.wv.gov/Documents/TSD/tsd455.pdf",
+        "eligibility": "Honorably discharged veterans with a 90% or greater combined service-connected disability rating (or eligible widowed spouse) who own and have occupied their WV homestead for at least 6 months. Property taxes must be paid on time.",
+        "coverage": "A refundable income tax credit equal to 100% of the WV ad valorem real property taxes timely paid on the homestead for the year. If the credit exceeds income tax liability, the excess is refunded.",
+        "notes": "Enacted under WV Code Art. 11-13MM; claimed by filing Form DV-1 with the IT-140. A separate general $20,000 assessed-value homestead exemption also exists for residents 65+ or permanently/totally disabled.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate (DV plate)",
+        "agency": "WV Division of Motor Vehicles (DMV)",
+        "website": "https://transportation.wv.gov/DMV/Vehicle-Services/License-Plates/Special-Plates/Pages/default.aspx",
+        "eligibility": "100% total and permanent service-connected disability rating, or recipient of a federal Specially Adapted Vehicle grant. Part 2 of the application must be certified by the WV Dept. of Veterans Assistance. Free plates also available to former POWs, Purple Heart recipients, and Pearl Harbor survivors.",
+        "coverage": "No registration fee for one DV plate; applicant pays only the $0.50 insurance enforcement fee and $1.00 litter fee per remaining year of the 10-year cycle. Other (non-disabled) veteran plates cost a one-time $10 over the regular fee.",
+        "notes": "Apply with DMV-48-D / DMV-48-DI.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting & Fishing License (Disabled Veterans / Former POWs)",
+        "agency": "WV Division of Natural Resources (WVDNR)",
+        "website": "https://wvdnr.gov/programs-publications/disability-services/",
+        "eligibility": "WV resident, honorably discharged, who receives VA compensation/pension for a 100% total and permanent service-connected disability; was a prisoner of war; or is eligible for the motor-vehicle registration fee exemption. Authority: WV Code 20-2-28.",
+        "coverage": "Free — may hunt, trap, and fish in WV without purchasing a license.",
+        "notes": "WVDNR License Unit: (304) 558-2758.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Veterans Home (Barboursville) & Veterans Nursing Facility (Clarksburg)",
+        "agency": "WV Dept. of Veterans Assistance",
+        "website": "https://veterans.wv.gov/facilities/Pages/veteranshome.aspx",
+        "eligibility": "Barboursville (domiciliary): honorable/general discharge; ambulatory and independent in activities of daily living; eligible for VA Medical Center care; minimum active-duty service requirement. Clarksburg (skilled nursing): WV resident for 12 consecutive months and served on active duty.",
+        "coverage": "Income is not a factor for admission; residents contribute one-half of their monthly income as a maintenance contribution. The nursing facility provides skilled nursing care (varies by care/VA per-diem).",
+        "notes": "Two distinct facilities. Pre-admission medical tests required.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "West Virginia Tax Division",
+        "website": "https://tax.wv.gov/Documents/TSD/tsd443.pdf",
+        "eligibility": "All military retirees — regular Armed Forces, Reserves, National Guard, U.S. Public Health Service Commissioned Corps, and NOAA Commissioned Officer Corps; survivorship annuitants also qualify.",
+        "coverage": "100% exempt — West Virginia does not tax any military retired pay (effective tax years on or after Jan 1, 2019).",
+        "notes": "Claimed as a decreasing modification on Schedule M of Form IT-140.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Idaho",
+    "programs": [
+      {
+        "name": "Property Tax Benefit for Veterans with a 100% Service-Connected Disability",
+        "agency": "Idaho State Tax Commission",
+        "website": "https://tax.idaho.gov/taxes/property/homeowners/veteran-benefit/",
+        "eligibility": "Veteran recognized by the VA as having a 100% service-connected disability, or receiving 100% compensation due to individual unemployability, as of January 1. Must own and occupy an Idaho home as primary residence and have a current homeowner's exemption. No income limit.",
+        "coverage": "Reduces property tax by up to $1,500 on the home and up to one acre of land.",
+        "notes": "Only a 100% rating (or 100% IU) qualifies. Apply Jan 1 – Apr 15; auto-renews if the disability is permanent and total. Separate from the income-based Property Tax Reduction (circuit breaker).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plates (Registration Fee Exemption)",
+        "agency": "Idaho Transportation Department — Division of Motor Vehicles",
+        "website": "https://itd.idaho.gov/dmv/",
+        "eligibility": "Veteran receiving VA compensation for a 100% service-connected disability, OR with loss/permanent loss of use of one or both feet or hands, or virtual blindness in both eyes. Requires an ITD Eligibility Letter (via the VA Regional Office Boise) plus Form ITD 3397.",
+        "coverage": "$0 registration/reregistration fee on one vehicle; a DV plate is issued.",
+        "notes": "Per Idaho Code 49-403. The fee exemption applies to one motor vehicle.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled American Veteran (DAV) Reduced-Fee Hunting & Fishing License",
+        "agency": "Idaho Department of Fish and Game",
+        "website": "https://idfg.idaho.gov/licenses/dav-programs",
+        "eligibility": "Idaho resident veteran with a VA-verified service-connected disability rating of 40% or greater (submit VA letter). A nonresident DAV program is also available.",
+        "coverage": "Resident DAV combination license $5; reduced-fee DAV tags (deer $10.75, elk $16.50, bear $6.75, turkey $10.75). Resident veterans rated 100% service-connected also get free State Park campsite and day-use access.",
+        "notes": "A separate Disabled Veterans Special Big Game Tag Program lets a qualified organization obtain a free special hunt tag on behalf of a disabled veteran.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Idaho State Veterans Homes",
+        "agency": "Idaho Division of Veterans Services",
+        "website": "https://veterans.idaho.gov/veterans-homes/",
+        "eligibility": "Veterans who can no longer provide for themselves and need long-term care; admission via the Idaho State Veterans Home Application for Admission.",
+        "coverage": "Long-term skilled nursing / supportive care at four facilities: Boise, Lewiston, Pocatello, and Post Falls. Cost-share based on VA per diem, veteran income, and applicable rates.",
+        "notes": "Contact the Central Support Office (208) 780-1300 for the admission application and detailed criteria.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Retirement Benefits Deduction)",
+        "agency": "Idaho State Tax Commission",
+        "website": "https://tax.idaho.gov/taxes/income-tax/individual-income/popular-credits-and-deductions/idaho-retirement-benefits-deduction/",
+        "eligibility": "Recipient of qualifying military retired pay who is at least age 65, OR at least age 62 and classified as disabled. The maximum is reduced dollar-for-dollar by Social Security and Railroad Retirement benefits received.",
+        "coverage": "Tax year 2025 maximum deduction: $48,216 single / $72,324 married filing jointly, less any Social Security and Railroad Retirement benefits received. The state recalculates the maximum each year.",
+        "notes": "Idaho has no separate blanket military-retirement exemption beyond this age/disability-gated deduction. The TY2026 amounts were not yet published as of mid-2026.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
