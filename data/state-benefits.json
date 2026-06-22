@@ -516,5 +516,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Arizona",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Prop 130)",
+        "agency": "County Assessors (per A.R.S. § 42-11111; authorized by Prop 130, 2022)",
+        "website": "https://www.mcassessor.maricopa.gov/page/valuation_relief/",
+        "eligibility": "Arizona-resident veteran with a VA service-connected disability rating; the exemption is prorated by the VA disability percentage. Subject to household income and assessed-value caps. Surviving spouses and certain disabled persons may also qualify. Apply through the county assessor.",
+        "coverage": "2026: up to $4,873 of assessed (Limited Property) value, multiplied by the VA disability rating (e.g., a 60% rating = $2,924). Property assessed value may not exceed $36,454; qualifying household income may not exceed $39,865 (or $47,826 with minor children). Amounts are indexed annually.",
+        "notes": "Prop 130 (2022) restored constitutional authority for the veteran exemption; the operative statute is A.R.S. § 42-11111. It is an assessed-value exemption on a primary residence. Confirm the current year's figures with your county assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plate & VLT/Registration Fee Exemption",
+        "agency": "Arizona Department of Transportation, Motor Vehicle Division (ADOT MVD)",
+        "website": "https://azdot.gov/mvd/services/vehicle-services/military-personnel/resident-exemptions",
+        "eligibility": "Veteran certified as 100% disabled by the VA (including those rated less than 100% but compensated at the 100% rate due to individual unemployability). Surviving spouses qualify until remarriage, with annual recertification.",
+        "coverage": "Full waiver of Vehicle License Tax (VLT) and registration/public-safety fees on one vehicle (transferable to a replacement vehicle). VLT varies by vehicle value/age, so this is a 100% waiver rather than a fixed dollar amount.",
+        "notes": "The VLT exemption must be processed in person or by mail at an MVD or authorized Third Party office with VA certification — not through the online portal. Statutory basis A.R.S. § 28-5802.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Complimentary Disabled Veteran's Hunting & Fishing License",
+        "agency": "Arizona Game and Fish Department (AZGFD)",
+        "website": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/special-licenses-2/disabled-veteran-license/",
+        "eligibility": "Resident veteran with VA certification of permanent 100% service-connected disability who has been a bona fide Arizona resident for at least one consecutive year.",
+        "coverage": "Complimentary (free) license granting all privileges of the Combination Hunting & Fishing License plus the Urban Fishing License (paper license free; a plastic card costs $4). Additional stamps/tags purchased separately.",
+        "notes": "If the VA letter states the 100% rating is permanent and won't be re-evaluated, the license is valid for life; otherwise it expires three years from issuance. Apply at an AZGFD office or by mail with the VA benefits letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Arizona State Veteran Homes",
+        "agency": "Arizona Department of Veterans' Services (ADVS)",
+        "website": "https://dvs.az.gov/services/arizona-state-veteran-homes",
+        "eligibility": "Honorably-separated veteran (or the spouse of a veteran) who requires skilled nursing care as determined by a physician, with documented absence of tuberculosis. Admission arranged through each home's Admissions Coordinator.",
+        "coverage": "Skilled nursing / long-term care at four state homes: Phoenix, Tucson, Flagstaff (opened fall 2024), and Yuma. Cost is offset by VA per-diem payments; the resident pays remaining care costs based on income/benefits.",
+        "notes": "Four homes total as of 2026. ADVS site WAF-blocks scripted fetch; locations and eligibility confirmed via cached official pages and the NASVH directory.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Arizona Department of Revenue (ADOR)",
+        "website": "https://azdor.gov/individuals/income-tax-filing-assistance/military-tax-filing",
+        "eligibility": "Any recipient of benefits, annuities, and pensions received as retired or retainer pay of the U.S. uniformed services. Both spouses may each claim if each receives such pay.",
+        "coverage": "100% of military retired/retainer pay is subtracted from Arizona adjusted gross income (fully exempt). No dollar cap.",
+        "notes": "Effective for tax years 2021 onward (prior caps were $2,500, then $3,500). Applies to military retired pay, not VA disability compensation (which is federally tax-exempt regardless).",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Tennessee",
+    "programs": [
+      {
+        "name": "Property Tax Relief for Disabled Veterans",
+        "agency": "Tennessee Comptroller of the Treasury (administered through your County Trustee's office)",
+        "website": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/homeowners/property-tax-relief-for-disabled-veterans.html",
+        "eligibility": "Tennessee homeowner who owns and occupies the property as a primary residence and is a disabled veteran meeting one of: service-connected paraplegia/permanent paralysis of both legs, loss/loss of use of two or more limbs, or legal blindness; service-connected permanent and total (100%) disability per the VA; or 100% total and permanent disability from being a prisoner of war. Unremarried surviving spouses may also qualify. No income limit for the veteran benefit.",
+        "coverage": "The state reimburses property tax on the first $175,000 of the home's full market value (per T.C.A. § 67-5-704).",
+        "notes": "Apply through your County Trustee's office. The largest single state-funded veterans benefit in Tennessee.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Disabled Veteran License Plate",
+        "agency": "Tennessee Department of Revenue (Vehicle Services)",
+        "website": "https://www.tn.gov/content/tn/revenue/title-and-registration/license-plates/available-license-plates/military-and-memorial/disabled-veteran.html",
+        "eligibility": "Veteran with a VA letter verifying a permanent and total (100%) service-connected disability rating, or otherwise entitled to VA compensation for disabilities incurred in/aggravated by active service. VA documentation required.",
+        "coverage": "First plate is free (no registration fee). A second plate costs $26.50 annually. Veterans grandfathered before May 19, 2014 may receive two free plates. 100% permanent-and-total disabled veterans are also exempt from the motor vehicle privilege/wheel tax.",
+        "notes": "Apply on Form VR-13.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Sport Hunting & Fishing License",
+        "agency": "Tennessee Wildlife Resources Agency (TWRA)",
+        "website": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/state-parks/hunting-and-fishing-licenses.html",
+        "eligibility": "Tennessee resident veteran who is either 100% permanently and totally disabled from a service-connected cause, or 30% or more disabled by reason of service in any war.",
+        "coverage": "A one-time $10 fee for a combination sport fishing and hunting license (lifetime; not an annual renewal).",
+        "notes": "Apply via the TWRA Miscellaneous Licenses Application.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Tennessee State Veterans' Homes",
+        "agency": "Tennessee State Veterans' Homes (TSVH) Board",
+        "website": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/state-veterans-homes.html",
+        "eligibility": "Honorably discharged veteran needing skilled care who also meets at least one of: entered the U.S. Armed Forces in Tennessee; has Tennessee as official Home of Record; has an immediate-family primary caregiver who is a Tennessee resident; or is a Tennessee resident at admission. DD-214 required. Spouses and Gold Star parents eligible on a space-available basis.",
+        "coverage": "Skilled nursing / long-term care. Cost is offset by VA per-diem payments plus Medicare/Medicaid/private pay.",
+        "notes": "Locations: Murfreesboro, Humboldt, Knoxville, Clarksville, and Cleveland.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "Tennessee Department of Revenue",
+        "website": "https://www.tn.gov/revenue/taxes/hall-income-tax.html",
+        "eligibility": "All Tennessee residents, including military retirees.",
+        "coverage": "Tennessee imposes no state income tax on wages, salaries, or any retirement income, including military retired pay.",
+        "notes": "Tennessee has never taxed earned income, and the Hall income tax (on certain interest/dividends only) was fully repealed for tax years beginning on or after Jan 1, 2021.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Missouri",
+    "programs": [
+      {
+        "name": "Property Tax Credit ('Circuit Breaker') & Former POW Homestead Exemption",
+        "agency": "Missouri Department of Revenue / Missouri State Tax Commission",
+        "website": "https://dor.mo.gov/taxation/individual/tax-types/property-tax-credit/",
+        "eligibility": "Property Tax Credit: Missouri seniors (65+), certain disabled, and 100% disabled individuals (including 100% disabled veterans) who paid real estate tax or rent, subject to household income limits. Former POW Homestead Exemption (MO Constitution Art. X, Sec. 6): a former prisoner of war who is 100% service-connected disabled, owning and occupying a Missouri homestead (max 5 acres) as primary residence, is fully exempt from real property tax.",
+        "coverage": "Property Tax Credit: max $750 (renters) or $1,100 (owners), scaled by tax/rent paid and household income. Former POW homestead: 100% exemption from real property tax.",
+        "notes": "These are the two property-tax benefits that exist in 2026. A broad tiered disabled-veteran property tax exemption circulating online is NOT law — it is a pending constitutional amendment requiring Senate passage and November 2026 voter approval. Credit claimed on Form MO-PTC; POW exemption filed via the county assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plates",
+        "agency": "Missouri Department of Revenue, Motor Vehicle Bureau",
+        "website": "https://dor.mo.gov/motor-vehicle/plates/disabled-veteran.html",
+        "eligibility": "Missouri resident honorably discharged from the U.S. Armed Forces with a service-connected disability (documented by a VA statement no more than one year old). Apply via Form 4601.",
+        "coverage": "One free set of DV plates — no specialty-plate, transfer, processing, or replacement fees (personalization also free). Additional sets are subject to standard fees.",
+        "notes": "Plates confer disabled parking only if they display the wheelchair symbol (requires a physician statement).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / POW Free Hunting & Fishing Permit Exemption",
+        "agency": "Missouri Department of Conservation",
+        "website": "https://mdc.mo.gov/permits/veteran-benefits",
+        "eligibility": "Honorably discharged resident or nonresident veteran with a service-related disability of 60% or greater, OR a former prisoner of war, OR currently assigned as a patient to a Warrior Transition Brigade/Unit or military medical center. A certified VA statement must be carried.",
+        "coverage": "No permit required (free) to hunt small game and fish. Excludes black bears, deer, elk, and turkeys (these still require the applicable permit). Trout permit, Migratory Bird Permit, and Federal Duck Stamp still required where applicable.",
+        "notes": "Trapping is not covered. Other qualifying veterans may buy permits at resident prices.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Missouri Veterans Homes (Long-Term Skilled Nursing Care)",
+        "agency": "Missouri Veterans Commission (MO Dept. of Public Safety)",
+        "website": "https://mvc.dps.mo.gov/homes/admissions/",
+        "eligibility": "Meet VA criteria for veteran status; be a Missouri citizen with 180 consecutive days of physical residency immediately prior to application; have physician documentation requiring 24-hour skilled nursing care; not appear on any sex offender registry; no Class A or B felony history.",
+        "coverage": "Seven homes statewide (Cameron, Cape Girardeau, Mexico, Mt. Vernon, St. James, St. Louis, Warrensburg), ~1,238 skilled-nursing beds. Current monthly residency rate is $2,773, adjusted each January.",
+        "notes": "Long-term skilled nursing care (not assisted living).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Missouri Department of Revenue",
+        "website": "https://dor.mo.gov/military/",
+        "eligibility": "Recipients of U.S. Armed Forces military retirement/pension income filing a Missouri return (all branches).",
+        "coverage": "100% of military retirement benefits are deductible from Missouri taxable income (full exemption), claimed on Form MO-A, Part 1.",
+        "notes": "Fully phased in and in effect for 2026.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Colorado",
+    "programs": [
+      {
+        "name": "Property Tax Exemption for Veterans with a Disability & Gold Star Spouses",
+        "agency": "Colorado Division of Veterans Affairs (applications) / Dept. of Local Affairs, Division of Property Taxation; filed with County Assessor",
+        "website": "https://vets.colorado.gov/property-tax-exemption",
+        "eligibility": "Veteran with a 100% permanent-and-total service-connected disability (including those rated at least 70% but paid at the 100% rate via Individual Unemployability), who served 24+ months active duty with an honorable discharge and occupies the property as primary residence since Jan 1 of the application year. Gold Star spouses also qualify; remarriage does not disqualify.",
+        "coverage": "Exempts 50% of the first $200,000 of actual value of the primary residence (the state reimburses the local property tax on that exempted value).",
+        "notes": "Application deadline is July 1, filed with the County Assessor. Same 50%/$200k structure as the senior homestead exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (D.V.) License Plate",
+        "agency": "Colorado Department of Revenue, Division of Motor Vehicles (verified via Colorado Division of Veterans Affairs)",
+        "website": "https://dmv.colorado.gov/license-plates-military",
+        "eligibility": "Veteran rated 50% or more service-connected disabled by the VA, OR with loss of use of one/both feet or hands, OR permanent blindness in both eyes, plus proof of honorable discharge. VA qualification letter required.",
+        "coverage": "The first set of D.V. plates is exempt from fees under C.R.S. 42-3-213; a second/additional set carries a one-time $50.00 issuance fee plus applicable taxes and fees.",
+        "notes": "A separate U.S. Disabled Woman Veteran plate also exists. Apply via the County Motor Vehicle Office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Lifetime Fishing / Small-Game Combination License for Disabled Veterans",
+        "agency": "Colorado Parks and Wildlife (CPW)",
+        "website": "https://cpw.state.co.us/activities/hunting/hunters-military",
+        "eligibility": "Colorado residents who are military veterans with a service-connected disability rated 50% or more (combined) by the VA, or Purple Heart recipients. Valid only while Colorado residency is maintained.",
+        "coverage": "Free lifetime license (Lifetime Fishing, or Lifetime Fishing & Small Game Hunting Combination); holders are exempt from buying the annual Habitat Stamp.",
+        "notes": "Authorized by the Colorado Heroes Hunting & Fishing Act. Can serve as a qualifying license for big-game draws. Apply via a CPW account; allow ~15 business days for verification.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Colorado Veterans Community Living Centers (VCLCs)",
+        "agency": "Colorado Department of Human Services (CDHS)",
+        "website": "https://cdhs.colorado.gov/VCLCs",
+        "eligibility": "Honorably discharged veterans, veterans' spouses or widow(er)s, and Gold Star parents, who also meet medical/clinical criteria for long-term care or short-term rehabilitation.",
+        "coverage": "Long-term care and short-term rehabilitation; accepts Medicaid and private pay. VA per-diem and income/asset-based VA benefits may apply for wartime veterans and spouses/widows.",
+        "notes": "Five centers: Florence (Bruce McCandless), Homelake (Monte Vista), Rifle, Walsenburg, and Fitzsimons (Aurora). Secure memory-care units at Fitzsimons, Florence, Rifle, and Walsenburg.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax Subtraction for Military Retirement Pay",
+        "agency": "Colorado Department of Revenue, Division of Taxation",
+        "website": "https://tax.colorado.gov/retired-servicemembers",
+        "eligibility": "Retired servicemembers receiving military retirement benefits included in federal taxable income. Two tracks based on age at year-end: a military-specific subtraction for those under 55, and the general pension/annuity subtraction for those 55+.",
+        "coverage": "Under age 55: subtract up to $15,000 of military retirement benefits. Age 55–64: up to $20,000 via the general pension/annuity subtraction. Age 65+: up to $24,000 via the general pension/annuity subtraction.",
+        "notes": "Claimed on the Subtractions from Income Schedule (DR 0104AD). The $20k/$24k pension caps are shared across all qualifying retirement income, not military-only. A 2025 bill to remove the caps for TY2026 was postponed indefinitely and did not become law.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Maryland",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Dwelling House)",
+        "agency": "Maryland State Department of Assessments and Taxation (SDAT), via local county assessment offices",
+        "website": "https://dat.maryland.gov/realproperty/Pages/Property-Tax-Exemptions.aspx",
+        "eligibility": "Veteran whom the VA has determined to have a 100% service-connected, permanent and total disability; applies to the veteran's principal dwelling. Also available to disabled active-duty service members, certain unremarried surviving spouses of qualifying disabled veterans, and surviving spouses of service members killed in the line of duty.",
+        "coverage": "100% (full) exemption from real property tax on the dwelling house and surrounding yard/curtilage. Retroactive refunds available up to 3 years when the exemption was authorized but not yet granted.",
+        "notes": "Statutory basis MD Tax-Property Article 7-208. Surviving spouses must generally remain unremarried. Apply to the local county office with DD-214 and the most recent VA rating notification.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Veteran License Plates & Registration Fee Waiver",
+        "agency": "Maryland Department of Transportation Motor Vehicle Administration (MDOT MVA)",
+        "website": "https://mva.maryland.gov/your-mva-guide/military-service-members/license-plates",
+        "eligibility": "Veterans with a VA service-connected disability rating. DV plates issued to those rated 50–99% (recognition plates) and to those rated 100%/totally and permanently disabled. Apply via Form VR-120 with VA documentation.",
+        "coverage": "Veterans rated 100% service-connected: plates issued free and annual registration fees waived. Veterans rated 50–99%: plates issued free, but annual registration fee and surcharge still apply. The $25 organizational plate fee is waived for disabled veterans rated over 50% and Gold Star families.",
+        "notes": "MVA: 410-768-7000.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Complimentary Lifetime Hunting & Fishing License (Disabled Veterans / Former POWs)",
+        "agency": "Maryland Department of Natural Resources (DNR)",
+        "website": "https://dnr.maryland.gov/pages/service_fishing_license.aspx",
+        "eligibility": "Maryland residents who are 100% service-connected disabled veterans, former prisoners of war, or deemed unemployable by the VA. Present a VA letter and completed application in person at a DNR Licensing and Registration Service Center.",
+        "coverage": "Free (complimentary) lifetime license. Hunting license includes lifetime archery, muzzleloader, and sika deer stamps and a furbearer permit (excludes the annual MD Migratory Game Bird Stamp). Fishing license includes the non-tidal angler's license, trout stamp, Chesapeake Bay sport fishing license, and recreational oyster license.",
+        "notes": "Available only at DNR service centers (not online). DNR customer service: 866-344-8889.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Charlotte Hall Veterans Home",
+        "agency": "Maryland Department of Veterans and Military Families (DVMF), operated with PruittHealth",
+        "website": "https://veterans.maryland.gov/benefits-services/healthcare/charlotte-hall-veterans-home",
+        "eligibility": "Maryland veteran who served full-time active duty (other than for training) and was discharged under honorable conditions; at least 62 years old OR deemed disabled by SSA or the VA; and meets Maryland residency requirements.",
+        "coverage": "Cost varies by the veteran's income and service-connected disability rating; all residents receive a VA per-diem subsidy. A veteran rated 70% or greater service-connected may be entitled to the full cost of nursing home care. A continuum of care: 126-bed assisted living, 318-bed skilled nursing, and secure memory care in St. Mary's County.",
+        "notes": "Apply via the on-site Veterans Service Officer: 301-884-8171 ext. 5112.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Retirement Income Tax Subtraction",
+        "agency": "Comptroller of Maryland (administered) / Maryland Dept. of Veterans and Military Families (guidance)",
+        "website": "https://veterans.maryland.gov/benefits-services/tax-exemptions/retirement-pay-and-pension-tax-deductions-and-exclusion",
+        "eligibility": "Individuals receiving military retirement income from qualifying U.S. Armed Forces service. Claimed on Maryland Form 502.",
+        "coverage": "Up to $20,000 of military retirement income subtracted if the taxpayer is at least 55 on the last day of the tax year; up to $12,500 if under age 55 (the currently enacted 'Keep Our Heroes Home Act' amounts, in effect for tax year 2026).",
+        "notes": "Verify the current figures on veterans.maryland.gov before relying on them: a $40,000 increase has been proposed several times (2025 HB60/SB99; 2026 HB761) but has not become law as of this writing — the enacted amounts remain $12,500/$20,000.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
