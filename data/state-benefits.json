@@ -266,5 +266,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Georgia",
+    "programs": [
+      {
+        "name": "Disabled Veteran Homestead Tax Exemption",
+        "agency": "Georgia Department of Veterans Service (administered by county tax commissioners) / Georgia Department of Revenue",
+        "website": "https://veterans.georgia.gov/disabled-veteran-homestead-tax-exemption",
+        "eligibility": "Georgia resident veteran, honorably discharged, who is VA-rated 100% totally disabled; OR rated less than 100% but paid at the 100% rate due to individual unemployability; OR entitled to VA statutory awards for loss/loss of use of hands, feet, or sight. Extends to the unremarried surviving spouse and surviving minor children while they occupy the home.",
+        "coverage": "$121,812 deducted from the 40% assessed value of the homestead (2025 figure currently in effect); the amount is indexed annually to the federal figure under 38 U.S.C. 2102. Property value above the exemption remains taxable. Applies across state, county, municipal, and school ad valorem taxes.",
+        "notes": "Apply through your county tax commissioner. The exemption amount rises most years with federal indexing — confirm the current year's figure with your county before relying on it.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Disabled Veteran (DV) License Plate",
+        "agency": "Georgia Department of Veterans Service / Georgia Department of Revenue, Motor Vehicle Division",
+        "website": "https://veterans.georgia.gov/license-plates-disabled-veteran",
+        "eligibility": "Honorably discharged Georgia-resident veteran who is VA-rated 100% totally disabled, or who has a VA statutory award for loss/loss of use of feet, hands, or sight. Also available to unremarried surviving spouses (and minor children) of qualified deceased veterans.",
+        "coverage": "No registration fee, manufacturing fee, or annual fee. Allowed on up to 2 motorcycles or passenger vehicles for personal use. Veterans with a 100% service-connected rating are also exempt from ad valorem (title) tax on one vehicle.",
+        "notes": "Statutory basis O.C.G.A. 40-2-69. Motor homes excluded. Apply via local county tag office (with VA letter) or a GDVS Veterans Field Service Office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Veterans Hunting & Fishing Licenses",
+        "agency": "Georgia Department of Natural Resources, Wildlife Resources Division (with GDVS)",
+        "website": "https://georgiawildlife.com/licenses-permits-passes/disability",
+        "eligibility": "Disability Sportsman's License: Georgia resident with a permanent and total VA disability rating (provide VA Benefit Summary letter, residency proof, and the WRD Certification of Disability application; not available online). One-Time Veterans License (separate): Georgia resident who served 90+ days active federal duty and was honorably discharged on/after July 1, 2005.",
+        "coverage": "Disability Sportsman's License (full hunting + big game + migratory bird + salt/freshwater fishing + trout): $18.00 for 3 years or $8.00 annual. Hunting-only or fishing-only: $12.00/3 years or $6.00 annual. One-Time Veterans License: FREE, full sportsman privileges, valid 1 year, issued once. Totally blind residents qualify for a free lifetime honorary fishing license.",
+        "notes": "The disability license is steeply discounted (not free) for disabled vets; the only free veteran license is the one-time post-9/11-era license. Both administered jointly by GDVS and DNR (800-366-2661).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Georgia War Veterans Homes (Milledgeville & Augusta)",
+        "agency": "Georgia Department of Veterans Service",
+        "website": "https://veterans.georgia.gov/services/nursing-homes/eligibility-criteria",
+        "eligibility": "Skilled nursing care for war veterans who are domiciled in Georgia (resided 2 years immediately preceding application OR 5 of the last 15 years); served on active duty during a recognized wartime period; were discharged under other than dishonorable conditions; are VA-approved as eligible for skilled nursing care; and are free of contagious disease and serious behavioral/psychiatric problems.",
+        "coverage": "A nominal daily fee applies. For veterans with a service-connected disability rating of 70% or higher, or whose admission is for a service-connected condition, the VA pays the daily fee in full ($0 to the veteran). Others may apply for VA Aid & Attendance to offset the fee.",
+        "notes": "Two locations: Milledgeville (478-445-4295) and Augusta. Both are state-owned skilled nursing facilities for eligible wartime veterans.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income-Tax Exclusion of Military Retirement Pay",
+        "agency": "Georgia Department of Revenue",
+        "website": "https://dor.georgia.gov/retirement-income-exclusion",
+        "eligibility": "Individuals receiving military retirement benefits. Stacks with Georgia's general retirement income exclusion for those age 62+ or permanently and totally disabled (but the same income cannot use both the military exclusion and the general exclusion).",
+        "coverage": "For tax year 2026: military exclusion up to $17,500 for taxpayers under 62, plus an additional $17,500 if the taxpayer has more than $17,500 of Georgia earned income; veterans 62–64 may instead use the general retirement exclusion (up to $35,000) and 65+ (up to $65,000). Beginning tax year 2027 (HB 266, signed May 13, 2025), the military exclusion rises to up to $65,000 for individuals under age 65.",
+        "notes": "Verified against the enrolled HB 266 (O.C.G.A. 48-7-27). The $65,000/under-65 expansion takes effect tax year 2027 (NOT 2026) and is age-capped at under 65, despite some secondary sources stating otherwise.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Pennsylvania",
+    "programs": [
+      {
+        "name": "Disabled Veterans' Real Estate Tax Exemption",
+        "agency": "PA Department of Military and Veterans Affairs (DMVA) / State Veterans' Commission; administered through County Veterans Affairs Directors",
+        "website": "https://www.dmva.pa.gov/veteransaffairs/pages/programs%20and%20services/real-estate-tax-exemption.aspx",
+        "eligibility": "Honorably discharged PA-resident wartime veteran with a 100% permanent total service-connected disability rating (or, from military service, blind, paraplegic, or loss of two or more limbs), who has a financial need. Annual income of $114,637 or less (effective Jan 1, 2025) is presumed to meet the need test; above that, income vs. expenses are compared. Veterans benefits are now excluded from the income assessment. Unremarried surviving spouses may continue the exemption.",
+        "coverage": "100% exemption from real estate (property) tax on the veteran's principal residence (dwelling and the land it sits on). Recertification typically every 5 years.",
+        "notes": "Apply through your County Veterans Affairs Director. The income threshold is indexed and rises over time; veterans previously denied for financial need are encouraged to reapply due to the new benefits-exclusion law.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Vehicle Registration for Eligible Veterans & Disabled Veteran Plate",
+        "agency": "PennDOT — Driver and Vehicle Services",
+        "website": "https://www.pa.gov/services/dmv/apply-for-free-registration-for-eligible-veterans",
+        "eligibility": "One passenger vehicle or truck of 9,000 lbs or less owned by a veteran who, from military service: lost a limb or an eye or became permanently paralyzed; OR was a prisoner of war; OR was awarded the Medal of Honor; OR was awarded the Purple Heart.",
+        "coverage": "Registration fee and title fee waived ($0). The license PLATE fee is charged separately (e.g., the Severely Disabled Veteran plate carries an $11 fee). Separate 'Disabled Veteran' / 'Severely Disabled Veteran' special plates available via form MV-145V / MV-371DV.",
+        "notes": "Eligibility on the official free-registration page is condition-based (limb/eye loss, paralysis, POW, MOH, Purple Heart) — not a blanket 'any 100% disabled' rule.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting & Fishing Licenses",
+        "agency": "PA Game Commission (hunting) / PA Fish and Boat Commission (fishing)",
+        "website": "https://www.pa.gov/services/fishandboat/apply-for-fishing-license-disabled-veteran",
+        "eligibility": "Pennsylvania resident with a VA-certified service-connected disability. Free license for those who are blind or certified 100% disabled; reduced-fee license for those rated 60–99% (service-connected, injuries received in time of war or armed conflict). VA documentation required.",
+        "coverage": "Free hunting/furtaker license and free fishing license (with a free Combination Trout/Lake Erie Permit) for 100%/blind veterans. Disabled-veteran antlerless deer licenses at the resident fee ($6.97) and guaranteed in the WMU of choice. Reduced-fee licenses for 60–99% disabled.",
+        "notes": "Initial/free applications processed at county treasurers, the commission offices, or regional offices; renewals at any issuing agent or online.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Pennsylvania State Veterans' Homes (Six Locations)",
+        "agency": "PA Department of Military and Veterans Affairs (DMVA)",
+        "website": "https://www.pa.gov/agencies/dmva/pa-veterans-homes/veterans-homes-locations",
+        "eligibility": "Veteran who served in the U.S. Armed Forces or PA Military Forces and was discharged under honorable conditions; must be a bona fide PA resident or have had PA as home of record upon entry into service. Spouses and surviving spouses may also be admitted. Levels of care vary (skilled nursing, personal care, domiciliary).",
+        "coverage": "Residents make monthly payments against a maintenance-fee liability based on ability to pay (income/assets); VA per-diem payments offset cost for eligible veterans.",
+        "notes": "Six homes: Delaware Valley (NE Philadelphia), Gino J. Merli (Scranton), Hollidaysburg, PA Soldiers' & Sailors' Home (Erie), Southeastern (Spring City), and Southwestern (near Pittsburgh).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "PA Department of Revenue",
+        "website": "https://www.pa.gov/agencies/revenue/forms-and-publications/pa-personal-income-tax-guide/gross-compensation",
+        "eligibility": "All PA residents receiving qualifying military retired/retainer pay calculated under Chapter 71 of Title 10, U.S. Code.",
+        "coverage": "100% exempt from Pennsylvania personal income tax (flat 3.07% rate). No age or income limit. Local Earned Income Tax also does not reach retirement/pension income.",
+        "notes": "Confirmed via the official PA Personal Income Tax Guide. Active-duty pay rules differ (active duty inside PA by a PA resident is generally taxable) — separate from the retired-pay exemption.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Ohio",
+    "programs": [
+      {
+        "name": "Enhanced Homestead Exemption for Disabled Veterans",
+        "agency": "Ohio Department of Taxation (administered by county auditors)",
+        "website": "https://tax.ohio.gov/individual/resources/homestead-exemption-disabled-veterans",
+        "eligibility": "Honorably discharged veteran with a 100% service-connected disability rating, OR rated/compensated at the 100% level due to individual unemployability (TDIU). No age or income limit. Surviving spouses of qualifying veterans may also qualify. Apply via form DTE 105I.",
+        "coverage": "Exempts up to $58,000 of the home's true (market) value from property taxation (tax year 2025; statutory base of $50,000 indexed annually by the GDP deflator per ORC 323.152). Actual dollar savings depend on the local tax rate.",
+        "notes": "This 'enhanced' exemption is roughly double the standard senior/disabled exemption. Confirm the current tax-year indexed figure with your county auditor, as it adjusts annually.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veterans with Disabilities License Plate (Free Registration)",
+        "agency": "Ohio Bureau of Motor Vehicles (BMV)",
+        "website": "https://www.bmv.ohio.gov/military-veterans-with-disabilities-plates.aspx",
+        "eligibility": "Veteran with a service-connected disability rated or compensated at 100% by the VA, OR who received a VA monetary allowance toward the purchase of a motor vehicle due to service-connected disabilities. Requires a VA award letter (dated within the past year).",
+        "coverage": "No registration fee, service fee, local motor vehicle (permissive) tax, or registration-transfer fee. One plate issued at no charge; eligible veterans may instead obtain up to two free military plates they qualify for.",
+        "notes": "Statutory basis ORC 4503.41. Contact BMV Registration Support Services (614) 752-7518.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting & Fishing Licenses for Disabled Veterans and Former POWs",
+        "agency": "Ohio Department of Natural Resources, Division of Wildlife (certified by Ohio Dept. of Veterans Services)",
+        "website": "https://ohiodnr.gov/buy-and-apply/hunting-fishing-boating/fishing-resources/fishing-licenses",
+        "eligibility": "Ohio resident (resided in Ohio the last 6 consecutive months) who is either a former prisoner of war, OR a veteran with a 100% service-connected (permanent and total) disability who receives VA pension or compensation. Application certified by the Ohio Dept. of Veterans Services using form DNR 9032-B.",
+        "coverage": "Free: fishing license, hunting license, fur taker permit, deer permit, wild turkey permit, and/or wetlands habitat stamp (any combination). Issued for a 5-year period.",
+        "notes": "Statutory basis ORC 1533.12. Status updates via 1-800-WILDLIFE.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Ohio Veterans Homes (Sandusky & Georgetown)",
+        "agency": "Ohio Department of Veterans Services (DVS)",
+        "website": "https://dvs.ohio.gov/veterans-homes/determining-eligibility",
+        "eligibility": "Ohio citizen for at least one year; most recent discharge honorable or under honorable conditions; served on active duty (other than for training) during a period of war or declared armed conflict OR received the Armed Forces Expeditionary Medal or Vietnam Service Medal; and determined by medical authority to be disabled and incapable of earning a living by reason of that disability.",
+        "coverage": "Long-term care at two campuses. Both Sandusky and Georgetown provide licensed nursing-home care (Standard, Memory/Dementia, and Skilled Care). Sandusky also offers an independent/limited-supervised-living Domiciliary. Costs are based on care level and resident income.",
+        "notes": "Apply directly to Sandusky or Georgetown (OVH Admission Application); may apply for the first available bed at either home.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Ohio Department of Taxation",
+        "website": "https://tax.ohio.gov/individual/resources/military",
+        "eligibility": "Recipients of retired/retainer pay from the uniformed services, including Survivor Benefit Plan (SBP) and RCSBP annuity recipients. No age or income limit.",
+        "coverage": "100% of military retirement pay is deductible from Ohio adjusted gross income (fully exempt), claimed as a 'uniformed services retirement income' deduction on the Ohio Schedule of Adjustments.",
+        "notes": "Long-standing full exemption, distinct from the separately treated active-duty/National Guard pay. Ordinary federal civil-service/non-military pensions are NOT covered.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "New York",
+    "programs": [
+      {
+        "name": "Alternative Veterans' Exemption (Real Property Tax)",
+        "agency": "NYS Department of Taxation and Finance (administered by local assessors)",
+        "website": "https://www.tax.ny.gov/pit/property/exemption/altvetoverview.htm",
+        "eligibility": "Veteran who served during a defined period of war (or qualifying spouse/widow(er)); property must be the veteran's primary residence. File Form RP-458-a with the municipal assessor (deadline typically March 1; verify locally). Proof of honorable discharge or a Restoration of Honor Act letter required.",
+        "coverage": "15% reduction in assessed value for wartime service; additional 10% for combat-zone service; additional reduction equal to one-half of the service-connected disability rating. Percentages are subject to maximum dollar caps set by each taxing jurisdiction. Maximum combined exemption is 75% of assessed value.",
+        "notes": "The most commonly used of NY's three veteran property-tax exemptions (also the older Eligible Funds and Cold War Veterans' exemptions). Dollar caps and which exemption is offered vary by municipality, county, and school district.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Motor Vehicle Registration Fee Exemption & Veteran License Plates",
+        "agency": "NYS Department of Motor Vehicles (DMV) / NYS Dept. of Veterans' Services",
+        "website": "https://veterans.ny.gov/new-york-state-motor-vehicle-registration-fee-exemption",
+        "eligibility": "Registration-fee and plate-fee exemption applies to veterans who received federal funds for a specially adapted vehicle for a service-connected disability (38 U.S.C. Ch. 39), or who qualify for Medal of Honor or Prisoner of War custom plates. Separate Disabled Veteran and veteran custom plates are available more broadly.",
+        "coverage": "$0 registration fee and $0 plate fee for those meeting the adapted-vehicle / MOH / POW criteria. Fee-exempt registrants may also enroll in the NYS Thruway Disabled Veteran Non-Revenue E-ZPass for free Thruway travel. Standard 'Disabled American Veteran' custom plates otherwise carry an annual custom-plate fee.",
+        "notes": "The fee exemption is narrower than 'any disabled veteran' — it is tied to the adapted-vehicle federal grant or MOH/POW status. Apply at any NYS DMV office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Reduced-Fee Hunting, Fishing & Trapping Licenses for Disabled Veterans",
+        "agency": "NYS Department of Environmental Conservation (DEC)",
+        "website": "https://dec.ny.gov/regulatory/permits-licenses/sporting-and-use/sporting/free-reduced-fee",
+        "eligibility": "New York State residents with a 40% or greater service-related disability, verified by a VA letter stating the case number and a service-connected disability of 40%+. Proof submitted once is retained on file.",
+        "coverage": "$5 for the first fishing, hunting, or trapping license purchased within a calendar year; additional purchases of those license types are free through Dec 31 of that year. Bowhunting and muzzleloading privileges are free (with a base hunting license). Also receive preference on Deer Management Permit selection.",
+        "notes": "A reduced/low-fee program, not a free lifetime license.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "New York State Veterans Homes (Skilled Nursing)",
+        "agency": "NYS Department of Health and State University of New York (SUNY)",
+        "website": "https://veterans.ny.gov/new-york-state-veterans-nursing-homes",
+        "eligibility": "Honorably discharged U.S. Armed Forces veteran with a minimum of 30 days active service who requires skilled nursing care, and who either entered active duty from New York or has been a NY resident for one year prior to application. Qualified spouses and Gold Star parents may also be admitted, subject to bed availability.",
+        "coverage": "Five state-operated facilities: St. Albans (Jamaica), Batavia, Oxford, Montrose, and Long Island (Stony Brook). Care is provided with no means test; eligible veterans generally have no out-of-pocket cost (offset by VA per-diem, Medicare/Medicaid). Veterans rated 70%+ service-connected receive full VA coverage.",
+        "notes": "Owned/operated by NYS DOH and SUNY (not the federal VA). Admission via apps.health.ny.gov/nysvets or facility admissions offices.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "NYS Department of Taxation and Finance",
+        "website": "https://www.tax.ny.gov/pit/file/military_page.htm",
+        "eligibility": "Retired U.S. military personnel and their beneficiaries receiving military pension payments.",
+        "coverage": "100% exempt. Military pension payments are totally exempt from New York State, New York City, and Yonkers income taxes. Reported as a NY subtraction modification on Form IT-225.",
+        "notes": "Confirmed directly from tax.ny.gov. Distinct from active-duty pay rules, which depend on residency/combat-zone status.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Washington",
+    "programs": [
+      {
+        "name": "Property Tax Exemption for Veterans with Disabilities",
+        "agency": "Washington State Department of Revenue (DOR) / county assessors; info via WA Dept. of Veterans Affairs",
+        "website": "https://dor.wa.gov/taxes-rates/property-tax/property-tax-exemption-seniors-people-retired-due-disability-and-veterans-disabilities",
+        "eligibility": "Veteran with a service-connected evaluation of at least 80%, OR receiving VA compensation at the 100% rate. Must own and occupy a Washington primary residence and meet the combined disposable income limit. VA disability compensation and DIC are NOT counted as income. The income limit is the county-specific 'Income Threshold 3' (varies by county).",
+        "coverage": "Reduces property taxes via a tiered exemption: at lower income tiers the home value is partially exempted and the residence is exempt from all excess (voter-approved) levies, with greater exemptions at lower income. Exact exemption amount and income thresholds are set per county — verify with your county assessor.",
+        "notes": "Same program covers seniors (61+), people retired due to disability, and disabled veterans. RCW 84.36.381. Apply through your county assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DAV) License Plate & Vehicle Fee Exemption",
+        "agency": "Washington State Department of Licensing (DOL); eligibility via WA Dept. of Veterans Affairs",
+        "website": "https://dol.wa.gov/vehicles-and-boats/license-plates/get-custom-plates/special-design-plates/disabled-american-veteran",
+        "eligibility": "Veteran rated by the VA/military at the 100% service-connected rate expected to last more than one year, OR who lost the use of both hands or one foot, or became blind in both eyes from military service. Vehicle must be for personal use (not registered to a business).",
+        "coverage": "Exempt from vehicle license (registration) fees on one vehicle per year. Plates are valid for the life of the veteran.",
+        "notes": "Authority RCW 46.18.235. DOL Special Plate Unit: 360-902-3770.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veterans' Reduced-Fee Hunting & Fishing Licenses",
+        "agency": "Washington Department of Fish & Wildlife (WDFW)",
+        "website": "https://wdfw.wa.gov/accessibility/eligibility-requirements-veterans-reduced-fees",
+        "eligibility": "Resident veterans with at least a 30% service-connected disability (verified by VA letter), OR resident veterans age 65+ with any service-connected disability. Non-resident veterans meeting the same criteria also qualify. Honorable discharge required.",
+        "coverage": "Residents: combination fishing license at the reduced rate of $5; hunting licenses at the youth hunting fee rate (RCW 77.32.480). Non-residents: licenses issued at the resident price instead of the higher non-resident price.",
+        "notes": "Reduced fees apply to licenses only. Apply by mailing the reduced-fee application plus VA rating letter to WDFW Licensing Division, Olympia.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Washington State Veterans Homes",
+        "agency": "Washington State Department of Veterans Affairs (WDVA)",
+        "website": "https://dva.wa.gov/veterans-service-members-and-their-families/veterans-homes",
+        "eligibility": "Applicant must need nursing-home level care; have served at any time in any branch of the U.S. Armed Forces with an honorable discharge (or otherwise qualify for federal VA benefits); and reside in Washington State. Spouses of current residents, widows/widowers of eligible veterans, and Gold Star Parents are also eligible.",
+        "coverage": "Four Medicare/Medicaid-certified homes providing 24-hour skilled nursing care plus therapies and hospice: Washington Soldiers Home (Orting), Washington Veterans Home (Retsil/Port Orchard), Spokane Veterans Home, and Walla Walla Veterans Home. Veterans rated 70–100% service-connected may have care paid by the VA; homes also accept Medicare, Medicaid, insurance, and private pay.",
+        "notes": "Toll-free admissions line: 1-877-838-7787.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "Washington State Department of Revenue (DOR)",
+        "website": "https://dor.wa.gov/taxes-rates/income-tax",
+        "eligibility": "All Washington residents, including military retirees.",
+        "coverage": "Washington has NO personal/individual income tax, so military retired pay (and active-duty pay, VA disability compensation, and TSP distributions) is 100% exempt from state income tax.",
+        "notes": "One of the states with no personal income tax; no state-level deduction form is needed because no individual income tax exists.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
