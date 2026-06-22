@@ -2275,5 +2275,264 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "Massachusetts",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Clauses 22–22H)",
+        "agency": "MA Department of Revenue, Division of Local Services (administered by local boards of assessors)",
+        "website": "https://www.mass.gov/info-details/local-property-tax-exemptions-for-veterans",
+        "eligibility": "Massachusetts-domiciled veteran (or eligible surviving spouse) meeting clause criteria; base Clause 22 requires a 10%+ service-connected VA rating, a Purple Heart, or Gold Star parent status. Higher clauses require greater service-connected loss.",
+        "coverage": "Tiered exemption amounts (minimums set by state law): Clause 22 $400; 22A $750; 22B $1,250; 22C $1,500; 22E $1,000 (100% service-connected); Clauses 22D/22F/22H = FULL (100%) exemption (e.g., paraplegic veterans or 100% service-connected blindness). Municipalities may grant additional relief by local option.",
+        "notes": "Exemptions reduce the tax bill, not the assessed value. Apply to the local board of assessors.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Motor Vehicle Excise Tax Exemption & DV Plate",
+        "agency": "MA Registry of Motor Vehicles (RMV); excise exemption via local board of assessors",
+        "website": "https://www.mass.gov/military-and-veteran-rmv-information",
+        "eligibility": "Excise exemption: veteran with VA-determined service-connected loss/loss of use of limb(s), permanent vision impairment, or 100% disability/unemployability, for one personal vehicle. DV plate: MA resident veteran who is primary owner of a registered passenger vehicle, qualifies for permanent disabled parking, and has a minimum 60% service-connected rating affecting ambulation.",
+        "coverage": "Full exemption from motor vehicle excise tax on one personal-use vehicle. The excise exemption does not require holding the DV plate, only eligibility.",
+        "notes": "The excise exemption is applied for at the city/town where the vehicle is registered. The DV plate requires a 60%+ rating; the excise exemption eligibility is broader.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting/Fishing License for Paraplegic & Disabled Residents",
+        "agency": "MA Division of Fisheries & Wildlife (MassWildlife)",
+        "website": "https://www.mass.gov/how-to/freshwater-fishing-and-hunting-licenses-for-people-with-disabilities",
+        "eligibility": "Massachusetts residents who are paraplegic (physician-certified), blind, or have an intellectual disability. Paraplegic eligibility applies to disabled veterans who meet the medical definition.",
+        "coverage": "FREE freshwater fishing, hunting, or sporting license.",
+        "notes": "MassWildlife has no distinct blanket 'veteran' free license — the benefit is disability-based (paraplegia), which many disabled veterans qualify for. First-time applicants submit a physician certification form.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Massachusetts Veterans Homes (Chelsea & Holyoke)",
+        "agency": "MA Veterans Homes / Executive Office of Veterans Services",
+        "website": "https://www.mass.gov/orgs/massachusetts-veterans-homes",
+        "eligibility": "Must meet the MA statutory definition of 'veteran' (generally 90+ days active duty with last discharge other than dishonorable, or any service with a service-connected disability); be a Massachusetts resident at time of application; and be medically suitable for long-term nursing/residential care. DD-214 required.",
+        "coverage": "Residential and long-term nursing care at two homes (Chelsea and Holyoke).",
+        "notes": "Apply to the respective home's admissions office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "MA Department of Revenue (DOR)",
+        "website": "https://www.mass.gov/info-details/ma-tax-information-for-military-personnel-and-their-spouses",
+        "eligibility": "All recipients of U.S. uniformed-services military retired pay and military survivor benefits, regardless of age or income.",
+        "coverage": "100% exempt from Massachusetts state income tax.",
+        "notes": "Massachusetts fully exempts military retirement pay plus SBP/RCSBP survivor annuities as noncontributory U.S. service pension income.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "New Jersey",
+    "programs": [
+      {
+        "name": "100% Disabled Veteran Property Tax Exemption (and Surviving Spouse)",
+        "agency": "NJ Department of the Treasury, Division of Taxation (administered by the local municipal assessor)",
+        "website": "https://www.nj.gov/treasury/taxation/lpt/lpt-disabledvet.shtml",
+        "eligibility": "Honorably discharged active-duty veteran, NJ legal resident, who owns and occupies the dwelling as principal residence and is certified by the VA as 100% permanently and totally disabled. Surviving spouse/civil union/domestic partner also qualifies if not remarried and the veteran was an NJ resident at death. File Form D.V.S.S.E.",
+        "coverage": "100% exemption from local property tax on the veteran's principal residence.",
+        "notes": "Full exemption on the primary home; separate from the $250 deduction. Denials appealable to the County Board of Taxation by April 1.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "$250 Veterans Property Tax Deduction",
+        "agency": "NJ Department of the Treasury, Division of Taxation (administered by the local municipal assessor)",
+        "website": "https://www.nj.gov/treasury/taxation/lpt/lpt-veterans.shtml",
+        "eligibility": "Honorably discharged active-duty veteran, NJ legal resident, who owns the property. Reservists/National Guard must have been called to active duty. Surviving spouse/civil union/domestic partner may also qualify if not remarried. File Form V.S.S./V.N.D.A.",
+        "coverage": "$250 annual deduction from property taxes.",
+        "notes": "A November 2020 constitutional amendment removed the prior wartime-service requirement (effective tax years 2021+), so eligibility now extends to all honorably discharged active-duty veterans including peacetime service.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Free Vehicle Registration & DV/Purple Heart Plates",
+        "agency": "NJ Motor Vehicle Commission (MVC)",
+        "website": "https://www.nj.gov/mvc/drivertopics/veterans.htm",
+        "eligibility": "Free registration for veterans who are blind from war service and eligible for state compensation, OR who have a service-connected disability and qualify for a free automobile from the VA. Disabled Veteran and Purple Heart placards/plates available via Form SP-47.",
+        "coverage": "Free vehicle registration (100% fee waiver) for qualifying disabled veterans; the DV/Purple Heart placard grants exemption from municipal parking meter fees for up to 24 hours.",
+        "notes": "Free-registration eligibility is narrow (war-blind or VA automobile-grant disability), not all disabled veterans.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting & Fishing Licenses for Disabled Veterans",
+        "agency": "NJ Department of Environmental Protection (NJDEP), Division of Fish & Wildlife",
+        "website": "https://dep.nj.gov/njfw/licenses-and-permits/disabled-veteran-license-information/",
+        "eligibility": "Honorably discharged resident veterans declared by the VA to have a service-connected disability of any degree, who are NJ residents. Must be certified by Fish & Wildlife first (by mail to Trenton).",
+        "coverage": "Free (100%) resident hunting and fishing licenses, permits, and stamps, including unlimited antlerless deer permits and free turkey and bear permits.",
+        "notes": "Once certified, licenses are free at agents with no transaction fee. A separate program covers NJ National Guard members.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "New Jersey Veterans Memorial Homes (Menlo Park, Paramus, Vineland)",
+        "agency": "NJ Department of Military and Veterans Affairs (DMVA)",
+        "website": "https://www.nj.gov/military/veterans/memorial-homes/",
+        "eligibility": "Veterans honorably discharged from war or peacetime service; the veteran's spouse; and spouses/parents of service members killed in action (Gold Star). Spouse/widow(er) must be at least 50 and married to the veteran for at least 10 years. Preference to 2-year NJ residents.",
+        "coverage": "Long-term skilled nursing / residential care at three state homes; residents pay according to ability to pay based on income.",
+        "notes": "Three homes: Menlo Park (Edison), Paramus, and Vineland.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "NJ Department of the Treasury, Division of Taxation",
+        "website": "https://www.nj.gov/treasury/taxation/military/taxinformation.shtml",
+        "eligibility": "All recipients of U.S. military pension and survivor's benefit payments, regardless of age or disability status.",
+        "coverage": "100% exempt from NJ Gross Income Tax (military pension and survivor benefit payments are not taxable and not reported on the NJ return).",
+        "notes": "Federal civil-service pensions remain taxable in NJ even if based on military-service credit. Honorably discharged veterans also get a separate $6,000 NJ income tax personal exemption.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Michigan",
+    "programs": [
+      {
+        "name": "Disabled Veterans Homestead Property Tax Exemption",
+        "agency": "Michigan Department of Treasury / local assessor (State Tax Commission)",
+        "website": "https://www.michigan.gov/taxes/property/exemptions/veterans/disabled-veterans-exemption",
+        "eligibility": "Michigan resident veteran honorably discharged who is VA-determined permanently and totally disabled at the 100% rate, holds a VA certificate for specially adapted housing, or is rated individually unemployable (TDIU). Unremarried surviving spouse may continue the exemption. Property must be the homestead.",
+        "coverage": "100% exemption from property tax on the homestead (full elimination of the tax bill, not a partial reduction).",
+        "notes": "Statutory authority MCL 211.7b. A proposed conversion to a refundable credit did not become law; current 2026 law remains a full exemption, and (beginning 2026) an approved exemption auto-renews annually.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) and Veteran License Plates",
+        "agency": "Michigan Department of State (Secretary of State)",
+        "website": "https://www.michigan.gov/sos/vehicle/license-plates/military-and-veteran-plate-options",
+        "eligibility": "Totally disabled veterans (VA service-connected total/permanent rating, or receiving Armed Forces disability retirement pay) with honorable discharge receive a permanent DV plate for one private passenger vehicle. Per a 2024 law, partially disabled veterans rated 50%–90% also qualify for a DV plate. Surviving spouses may continue/transfer the plate.",
+        "coverage": "No service fee for the totally-disabled DV plate or its renewal (also exempt from registration tax); the permanent plate does not expire. The 50%–90% partial-disability plate follows standard renewal.",
+        "notes": "Statutory authority MCL 257.803f. Apply with the Michigan Application for Veteran License Plates plus VA proof.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting and Fishing Licenses for Disabled Veterans",
+        "agency": "Michigan Department of Natural Resources (DNR)",
+        "website": "https://www.michigan.gov/mvaa/quality-of-life/quality-of-life/recreation-a",
+        "eligibility": "Michigan resident veteran who is VA-determined permanently and totally disabled at the 100% rate (for disabilities other than blindness), OR rated individually unemployable. VA documentation must be carried.",
+        "coverage": "Free — any hunting or fishing license that does not require a separate (lottery) application is issued at no charge. 100% disabled veterans, Medal of Honor recipients, and ex-POWs also receive free Recreation Passport entry.",
+        "notes": "Available at all DNR license retailers or online.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Michigan Veteran Homes (Grand Rapids, Chesterfield Township, Marquette)",
+        "agency": "Michigan Department of Military and Veterans Affairs (DMVA) / Michigan Veteran Homes",
+        "website": "https://www.michigan.gov/mvh",
+        "eligibility": "Honorably discharged member of the U.S. Armed Forces with at least 90 days of active duty; must be a Michigan resident at admission (or an accredited Michigan veteran) and eligible for VA health care or financial assistance for long-term nursing care. Eligible dependents — spouse, surviving spouse, and Gold Star parents — may also be admitted.",
+        "coverage": "Cost is based on ability to pay. Three skilled-nursing communities: Grand Rapids, Chesterfield Township, and D.J. Jacobetti (Marquette).",
+        "notes": "Services include long-term skilled nursing, rehabilitation, dementia, and palliative care.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Michigan Department of Treasury",
+        "website": "https://www.michigan.gov/taxes/iit/retirement-and-pension-benefits",
+        "eligibility": "Retirees of the U.S. Armed Forces receiving military retired pay; a surviving spouse may claim in case of the retiree's death.",
+        "coverage": "100% exempt — military retired pay is fully exempt from Michigan individual income tax with no dollar limit, separate from the general retirement subtraction limits.",
+        "notes": "Claimed as a subtraction on Michigan Schedule 1 to the extent included in federal AGI.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Illinois",
+    "programs": [
+      {
+        "name": "Standard Homestead Exemption for Veterans with Disabilities (SHEVD)",
+        "agency": "Illinois Department of Revenue / County Assessor (35 ILCS 200/15-169)",
+        "website": "https://tax.illinois.gov/localgovernments/property/disabledveteraninfo.html",
+        "eligibility": "Illinois resident veteran with a VA-certified service-connected disability of at least 30%, who owns and occupies the property as primary residence. Surviving spouses may continue the exemption.",
+        "coverage": "Tiered EAV reduction: 30–49% disability = $2,500 EAV; 50–69% = $5,000 EAV; 70% or more = the first $250,000 of EAV fully exempt (can result in zero property tax on the home).",
+        "notes": "Veterans rated 100% permanent & total are auto-renewed annually. Applies only to the residential primary residence.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plates",
+        "agency": "Illinois Secretary of State (Vehicle Services)",
+        "website": "https://www.ilsos.gov/departments/vehicles/license-plate-guide/military/disabled-vet.html",
+        "eligibility": "U.S. Armed Forces veteran with proof of a service-connected disability from the VA AND certification from a licensed physician that the disability qualifies for a disabled plate/placard.",
+        "coverage": "First set of plates issued at no cost with a $0 annual registration renewal fee. A second set carries standard fees. Plates allow parking in disabled-reserved spaces.",
+        "notes": "A related Service-Connected Disabled Veteran (ISERVE) plate also exists.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting & Fishing License",
+        "agency": "Illinois Department of Natural Resources / Illinois Department of Veterans Affairs (IDVA)",
+        "website": "https://veterans.illinois.gov/services-benefits/permits.html",
+        "eligibility": "Veteran receiving 10% or greater service-connected compensation, or a total disability pension. Requires a DD-214 and a Disability Affidavit obtained through an IDVA Veteran Service Office. Available regardless of state of residency.",
+        "coverage": "Free of charge, issued as a one-time, no-expiration license. Also exempt from the habitat stamp; disabled veterans and former POWs may camp free in IDNR state parks.",
+        "notes": "Made permanent (one-time issue) per IDVA.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Illinois Veterans' Homes (Anna, Chicago, LaSalle, Manteno, Quincy)",
+        "agency": "Illinois Department of Veterans Affairs (IDVA)",
+        "website": "https://veterans.illinois.gov/services-benefits/homes.html",
+        "eligibility": "Honorably discharged veteran with at least one day of active duty who has service credited to Illinois OR resided in Illinois for at least one year before applying. Eligible spouses, widows/widowers, and Gold Star family members may also qualify.",
+        "coverage": "Skilled nursing and domiciliary care across five homes. Admission is not based on ability to pay; the maximum monthly resident contribution is $1,659, calculated from the veteran's monthly income.",
+        "notes": "Priority for admission to veterans who served during a time of conflict.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Illinois Department of Revenue",
+        "website": "https://tax.illinois.gov/research/publications/pubs/retirement-income.html",
+        "eligibility": "Any recipient of federally taxed military retirement/pension income (all branches, National Guard, and Reserves). No age requirement and no income cap.",
+        "coverage": "100% exempt. The federally taxed portion of government/military retirement income is subtracted on Form IL-1040 (Illinois does not tax retirement income).",
+        "notes": "Confirmed via IL DOR Publication 120. Blended Retirement System TSP distributions also qualify; must be manually entered on the subtraction line.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Wyoming",
+    "programs": [
+      {
+        "name": "Wyoming Veterans Property Tax Exemption",
+        "agency": "Wyoming Department of Revenue, Property Tax Division (administered by County Assessor/Treasurer)",
+        "website": "https://wyo-prop-div.wyo.gov/tax-relief",
+        "eligibility": "Honorably discharged wartime veterans (or recipients of specified service medals for foreign service). Must be a current Wyoming resident for at least 3 years. Certain permanently/totally service-connected disabled veterans and surviving spouses (until remarriage) may also qualify.",
+        "coverage": "$6,000 of assessed value (increased from $3,000 effective the 2025 tax year per SF0089 / W.S. 39-13-105(b)); roughly a $400 property tax reduction. Alternatively applies to the county motor vehicle registration fee.",
+        "notes": "Property tax applications due by the 4th Monday in May; the vehicle-registration use can be claimed anytime during the year. The exemption applies to property tax OR vehicle registration, not both.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran / Disabled Veteran License Plates & Registration Fee Exemption",
+        "agency": "Wyoming Military Department (Veterans Commission) / County Treasurer",
+        "website": "https://www.wyomilitary.wyo.gov/resources/veteran/benefits-resources-military-records/",
+        "eligibility": "Veterans for military-related plates (including disabled veteran plates); the vehicle must be titled in the veteran's name or jointly with an immediate family member. The Veterans Property Tax Exemption may be applied to the county vehicle registration fee in lieu of property tax.",
+        "coverage": "Approximately a $180 reduction in the vehicle registration fee when the $6,000 assessed-value exemption is applied to registration; special veteran/disabled-veteran plates available.",
+        "notes": "The property tax exemption and the vehicle registration fee reduction are the same single annual exemption applied to one or the other.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Purple Heart Hunting & Fishing Licenses",
+        "agency": "Wyoming Game & Fish Department",
+        "website": "https://wgfd.wyo.gov/licenses-applications/licensing-veterans",
+        "eligibility": "Wyoming resident veterans. 100% VA-rated disabled resident veterans (honorable discharge) qualify for free lifetime licenses; 50% disabled resident veterans qualify for a reduced lifetime fishing license; Purple Heart recipients qualify for free lifetime licenses.",
+        "coverage": "Free lifetime game bird, small game, and fishing licenses for 100% disabled veterans and Purple Heart recipients; a reduced-cost lifetime fishing license for 50%-disabled veterans. Valid as long as the licensee remains a Wyoming resident.",
+        "notes": "Active-duty residents deployed to combat zones also receive complimentary resident licenses while on leave.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veterans' Home of Wyoming (Buffalo)",
+        "agency": "Wyoming Department of Health (Aging Division)",
+        "website": "https://health.wyo.gov/aging/veteranshome/admissions/",
+        "eligibility": "Honorably discharged veterans, dependents of qualified veterans, or qualified non-veterans (as space allows). Must hold valid Wyoming residence at application (or intent to permanently reside) and be unable to earn a living due to wounds/disease/age/infirmity or lack adequate means of support.",
+        "coverage": "Residents' fees are based on individual ability to pay; the monthly maintenance fee covers a private room, meals, laundry, nursing, social services, activities, and weekday transportation.",
+        "notes": "Located in Buffalo. Admission includes a two-day trial stay. Contact (307) 684-5511.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "Wyoming Department of Revenue",
+        "website": "https://revenue.wyo.gov/",
+        "eligibility": "All residents, including military retirees.",
+        "coverage": "Wyoming has NO state personal income tax. Military retired pay is not taxed at the state level.",
+        "notes": "One of the states with no individual income tax, so military retirement, pension, and all other income are exempt from state income tax.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
