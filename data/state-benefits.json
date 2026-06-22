@@ -2534,5 +2534,224 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "District of Columbia",
+    "programs": [
+      {
+        "name": "Disabled Veterans' Homestead Deduction",
+        "agency": "DC Office of Tax and Revenue (OTR) / Mayor's Office of Community Affairs",
+        "website": "https://otr.cfo.dc.gov/page/real-property-tax-reliefs-credits-and-deductions",
+        "eligibility": "Veteran classified by the VA as total and permanent service-connected disabled, or paid at the 100% rate due to individual unemployability. Property must be the principal residence in DC; the veteran must hold at least 50% ownership and be domiciled in DC. Total household income must be below the relief limit ($163,500 for TY 2026).",
+        "coverage": "Reduces the property's assessed value by $445,000.",
+        "notes": "Effective October 1, 2022. A property receiving this deduction cannot also take the regular Homestead deduction, Senior/Disabled Tax Relief, or the tax-cap credit.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Veteran License Plates & Fee Waiver",
+        "agency": "DC Department of Motor Vehicles (DC DMV)",
+        "website": "https://dmv.dc.gov/service/specialty-vehicle-tags",
+        "eligibility": "Disabled American Veteran (DAV) tags require certification of DAV membership by the DC DAV Commander. The fee waiver requires a VA letter indicating a service-connected disability rated 'Total and Permanent.'",
+        "coverage": "One set of tags at no fee for a non-commercial vehicle for service-connected permanent-and-total disabled veterans. Standard (non-disabled) Veteran specialty tags cost a one-time $52 fee plus $26 annually.",
+        "notes": "DC offers both DAV tags and general Veteran specialty tags. The fee waiver is limited to one set of tags per qualifying P&T disabled veteran.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "DC Fishing License (No Veteran-Specific Discount)",
+        "agency": "DC Department of Energy & Environment (DOEE)",
+        "website": "https://doee.dc.gov/service/get-fishing-license",
+        "eligibility": "Anyone age 16 to 64 fishing in DC waters must hold a current DC fishing license. Exempt: persons under 16 and persons 65 or older.",
+        "coverage": "DC resident license $10/year; non-resident $13/year. No veteran or disability discount or waiver — the only fee exemptions are age-based.",
+        "notes": "DC is fully urban and issues only fishing (not hunting) licenses. Documented here to show the absence of a veteran-specific benefit in this category.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Long-Term Care for Veterans (No DC Veterans Home)",
+        "agency": "Federal — Armed Forces Retirement Home (AFRH) and VA Medical Center; DC Mayor's Office of Veterans Affairs for referral",
+        "website": "https://www.afrh.gov/washington",
+        "eligibility": "AFRH (Washington campus): generally veterans 60+ who served at least 20 years on active duty, plus other combat/disability/wartime categories. Not a DC-administered benefit.",
+        "coverage": "AFRH offers a continuum of care (independent living, assisted living, memory support, rehab, long-term skilled nursing); resident fees are income-based.",
+        "notes": "The District of Columbia does NOT operate a veterans home. DC veterans needing long-term care typically use the federal Armed Forces Retirement Home or the VA Medical Center. Listed for accuracy; this is a federal, not DC-local, program.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "DC Income Tax on Military Retired Pay (Fully Taxable)",
+        "agency": "DC Office of Tax and Revenue (OTR)",
+        "website": "https://otr.cfo.dc.gov/",
+        "eligibility": "All DC residents receiving military retired pay.",
+        "coverage": "No exclusion — military retired pay is fully included in DC gross income and taxed at ordinary DC individual income tax rates.",
+        "notes": "DC does NOT offer a military retirement exclusion. The former $3,000 exclusion (age 62+) was repealed effective for tax years beginning on or after Jan 1, 2015. As of 2026 DC fully taxes military retirement pay.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Puerto Rico",
+    "programs": [
+      {
+        "name": "Veteran Property Tax (CRIM) Exemption — Regular & Disabled-Veteran Enhanced",
+        "agency": "Centro de Recaudación de Ingresos Municipales (CRIM); established by the Carta de Derechos del Veterano (Ley 203-2007)",
+        "website": "https://www.crim.pr.gov/",
+        "eligibility": "Puerto Rico resident veterans of the U.S. Armed Forces, on their primary residence. Enhanced exemptions apply to veterans with VA service-connected disability ratings.",
+        "coverage": "All veterans: $5,000 reduction in appraised taxable value. Veterans rated 50%+ service-connected disabled: exemption on the first $50,000 of appraised value. Veterans rated 100% disabled: complete property tax exemption on the primary residence.",
+        "notes": "Granted in addition to the standard residential exoneration. Apply through CRIM with VA disability certification.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran Vehicle Excise Benefit & Veteran License Plate",
+        "agency": "Departamento de Hacienda (excise) and DTOP/CESCO (registration and plates)",
+        "website": "https://www.cesco.pr.gov/",
+        "eligibility": "Puerto Rico resident veterans. Full exemption tiers for veterans rated 100% disabled and for veterans age 60 or older.",
+        "coverage": "One free veteran license plate (tablilla de veterano); additional plates $10 each. Veterans rated 100% disabled and veterans age 60+ are fully exempt from vehicle excise tax, plate fees, and driver's license fees. The general veteran vehicle excise incentive applies up to a $5,000 vehicle value.",
+        "notes": "Plate/exemption tiers established under the Carta de Derechos del Veterano.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Casa del Veterano (Long-Term Care Facility)",
+        "agency": "Oficina del Procurador del Veterano (OPV) — Gobierno de Puerto Rico",
+        "website": "https://www.opv.pr.gov/la-casa-del-veterano",
+        "eligibility": "Veterans (men and women) of the U.S. Armed Forces; admission via OPV admissions orientation.",
+        "coverage": "A 240-bed territorial facility (120 skilled nursing + 120 domiciliary beds) providing affordable long-term care, including medical, nursing, social work, rehabilitation, meals, laundry, and recreation.",
+        "notes": "Puerto Rico's territorial veterans home, distinct from the federal VA Caribbean Healthcare System hospital. Located in Juana Díaz.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Income Tax on Military Retired Pay (Exempt — Ley 191-2024)",
+        "agency": "Departamento de Hacienda de Puerto Rico",
+        "website": "https://hacienda.pr.gov/",
+        "eligibility": "Puerto Rico-resident veterans who are retired members of the U.S. Armed Forces.",
+        "coverage": "100% exemption from Puerto Rico income tax on military retirement pension income, starting with the 2025 tax year. Veterans also receive a $1,500 additional personal exemption ($3,000 if both spouses are veterans).",
+        "notes": "Enacted by Ley Núm. 191 de 2024 (signed Aug 29, 2024), amending the Código de Rentas Internas. Separate from the pre-existing $1,500 veteran personal exemption.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Guam",
+    "programs": [
+      {
+        "name": "100% Disabled Veteran / Surviving Spouse / Gold Star Real Property Tax Exemption",
+        "agency": "Guam Department of Revenue and Taxation, Real Property Tax Division",
+        "website": "https://www.guamtax.com/",
+        "eligibility": "Veteran rated by the VA as 100% disabled or individually unemployable due to service-connected injuries; an unremarried surviving spouse; a legal guardian; or a Gold Star spouse/parent. Must own and occupy the property as a residence.",
+        "coverage": "Full exemption from Guam real property taxes (100%) on one residence; commercial portions are not exempt.",
+        "notes": "Authorized by Public Law 34-106 (Title 11, Chapter 24 GCA). File with the assessor's office by March 15 with a VA Benefit Information letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran and Disabled Veteran License Plates",
+        "agency": "Guam Department of Revenue and Taxation, Motor Vehicle Division",
+        "website": "https://www.guamtax.com/about/mvd.html",
+        "eligibility": "Resident veterans with an other-than-dishonorable discharge. Disability decals/symbols available with proof of disability and military service.",
+        "coverage": "Specialty veteran/disabled-veteran plates issued by the MVD; 100%-disabled veterans are separately eligible for a Guam license and registration fee waiver. Exact plate fees are not published online (contact the Vehicle Registration Branch).",
+        "notes": "The MVD issues veteran's plates and disabled parking placards/plates.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Guam Veterans Cemetery (Territorial Burial Benefit)",
+        "agency": "Guam Veterans Affairs Office (GVAO), under the Office of the Governor",
+        "website": "https://veteranscemetery.guam.gov/about-us/",
+        "eligibility": "All eligible veterans and their eligible dependents (spouse, minor children, and certain disabled adult children).",
+        "coverage": "A territorial veterans cemetery operated and maintained by the Guam government; interment for eligible veterans and dependents.",
+        "notes": "Guam's genuine territorial long-term/end-of-life veterans benefit (built/expanded with VA National Cemetery Administration grant funds). There is NO territorial veterans nursing home on Guam; long-term care runs through the federal VA Pacific Islands clinic or private facilities.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Guam Territorial Income Tax on Military Retired Pay (Taxable)",
+        "agency": "Guam Department of Revenue and Taxation",
+        "website": "https://www.guamtax.com/",
+        "eligibility": "Bona fide Guam residents who file the Guam Territorial Income Tax with Guam DRT.",
+        "coverage": "No exclusion — military retired pay is fully taxable. Guam has not adopted a separate military retirement exclusion.",
+        "notes": "Guam uses a 'mirror code' — the U.S. Internal Revenue Code applied as the Guam Territorial Income Tax (filed with Guam DRT, not the IRS). Active-duty pay of nonresidents stationed on Guam is protected under the SCRA, distinct from retired pay.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "U.S. Virgin Islands",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Homestead)",
+        "agency": "USVI Office of the Lt. Governor — Office of the Tax Assessor (coordinated by USVI Office of Veterans Affairs)",
+        "website": "https://veterans.vi.gov/",
+        "eligibility": "Veteran with a discharge other than dishonorable who holds a VA service-connected total and permanent (100% P&T) disability rating; must own and occupy the property as of January 1 and apply before March 1. Surviving spouses may also qualify.",
+        "coverage": "100% exemption from all property taxes for 100% P&T disabled veterans. Non-disabled eligible veterans/surviving spouses receive a $650 property tax credit instead.",
+        "notes": "Apply through the island Tax Assessor's Office (St. Croix 340-773-6449; St. Thomas/St. John 340-774-2991).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran & Disabled Veteran Specialty License Plates",
+        "agency": "USVI Bureau of Motor Vehicles, in coordination with the USVI Office of Veterans Affairs",
+        "website": "https://veterans.vi.gov/",
+        "eligibility": "Honorably (other-than-dishonorably) discharged veterans; disabled-veteran plate for VA-rated disabled veterans; Gold Star plate for eligible surviving family members.",
+        "coverage": "Specialty plate issued free of charge; standard vehicle registration fees still apply.",
+        "notes": "Three plate types: USVI Veteran, USVI Disabled Veteran, and USVI Gold Star Family. A free 'Veteran' designation can also be added to a USVI driver's license.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Income Tax on Military Retired Pay (Mirror Code, Taxable)",
+        "agency": "Virgin Islands Bureau of Internal Revenue (BIR)",
+        "website": "https://bir.vi.gov/",
+        "eligibility": "All bona fide USVI residents, including retired servicemembers, who file with the BIR rather than the IRS.",
+        "coverage": "No exemption — military retired pay is fully taxable under the USVI 'mirror' of the U.S. Internal Revenue Code, at the same rates and rules as federal income tax.",
+        "notes": "USVI residents pay income tax to the BIR, not the IRS. Military DISABILITY retirement pay is excluded from gross income under the federal/mirror code (a federal exclusion, not a USVI-specific veteran benefit). NOTE: the USVI does not operate a territorial veterans home, and there is no veteran-specific hunting/fishing discount; USVI veterans rely on the federal VA Caribbean Healthcare System.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "American Samoa",
+    "programs": [
+      {
+        "name": "Income Tax Treatment of Military Retired Pay (Taxable)",
+        "agency": "American Samoa Government Tax Office (ASG Department of Treasury)",
+        "website": "https://www.americansamoa.gov/tax-office",
+        "eligibility": "Bona fide residents of American Samoa who receive U.S. military retired pay and file an American Samoa individual income tax return.",
+        "coverage": "American Samoa operates its own income tax code (modeled on the U.S. IRC but not a pure mirror). Military retired pay is taxable; there is no general veteran retired-pay exemption. Military disability retirement pay for a service-connected injury/sickness is excluded from income, consistent with IRC treatment.",
+        "notes": "Residents file with the ASG Tax Office, not the IRS. Verify current-year details directly with the ASG Tax Office.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Reliance on Federal VA Care (No Territorial Veterans Home or Property Tax)",
+        "agency": "U.S. Department of Veterans Affairs (federal); coordinated locally with the ASG Office of Veterans & Military Affairs",
+        "website": "https://www.va.gov/american-samoa-vet-center/",
+        "eligibility": "Veterans residing in American Samoa enrolled in VA health care.",
+        "coverage": "American Samoa has NO territorial veterans home or long-term care facility, and NO conventional real property tax (land is largely communally owned). Veterans rely on the federal VA Clinic and Vet Center in Pago Pago; complex/inpatient/long-term care generally requires off-island VA referral.",
+        "notes": "American Samoa offers essentially no territory-specific veteran benefits beyond income-tax treatment; benefits are federal VA programs. The ASG Office of Veterans & Military Affairs functions primarily as a claims/connection liaison. No veteran-specific vehicle-plate or hunting/fishing program could be confirmed.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Northern Mariana Islands",
+    "programs": [
+      {
+        "name": "Veteran, Disabled Veteran, and Gold Star License Plates",
+        "agency": "CNMI Department of Public Safety, Bureau of Motor Vehicles",
+        "website": "https://cnmilaw.org/pdf/cmc_section/T9/2116.pdf",
+        "eligibility": "Veterans discharged under conditions other than dishonorable (Veteran plate); 10%+ VA disability rating (Disabled Veteran plate); surviving family of a service member who died on active duty (Gold Star plate). Non-commercial passenger vehicles and motorcycles.",
+        "coverage": "Issuance and renewal fees are 25% less than the comparable plate fee. Veterans rated 100% permanent and total by the VA pay no issuance fee.",
+        "notes": "Authorized by 9 CMC Section 2116. Contact the CNMI Office of Veterans Affairs at 670-664-2650.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "CNMI Veterans Cemetery",
+        "agency": "CNMI Office of Veterans Affairs (Office of the Governor)",
+        "website": "https://governor.gov.mp/",
+        "eligibility": "Eligible service members, veterans, and their qualifying family members; burial eligibility conforms to U.S. VA National Cemetery Administration standards.",
+        "coverage": "Burial and interment at the CNMI Veterans Cemetery (Marpi, Saipan). Commonwealth-owned, opened Nov 11, 2006, built with a U.S. VA grant.",
+        "notes": "The only territorial veterans facility. The CNMI has NO veterans home or long-term care facility; veterans rely on the federal VA (Saipan VA outreach clinic, intermittent) and off-island VA care.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Income Tax on Military Retired Pay (NMTIT, Taxable)",
+        "agency": "CNMI Department of Finance, Division of Revenue and Taxation",
+        "website": "https://www.finance.gov.mp/revenue-taxation.php",
+        "eligibility": "Bona fide CNMI residents who receive military retired pay.",
+        "coverage": "No territorial exemption — military retired pay is taxable. The CNMI levies the Northern Marianas Territorial Income Tax (NMTIT), a mirror of the U.S. IRC, filed locally. Military disability retirement pay for a service-connected injury/sickness is excluded, mirroring the federal exclusion.",
+        "notes": "No veteran-specific subtraction for retired pay exists; treatment follows the federal mirror code. The CNMI has no annual real property tax, so no veteran property-tax exemption exists.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
