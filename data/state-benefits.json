@@ -766,5 +766,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "South Carolina",
+    "programs": [
+      {
+        "name": "Property Tax Exemption for Disabled Veterans (Homestead)",
+        "agency": "South Carolina Department of Revenue (SCDOR)",
+        "website": "https://dor.sc.gov/tax-tips/veterans-learn-more-about-sc-property-tax-exemptions",
+        "eligibility": "Veterans with a total, permanent, and service-connected disability (VA P&T rating). A 2024 expansion allows veterans who are service-connected disabled but not totally/permanently disabled to claim a partial exemption equal to their disability percentage. Surviving spouses may claim it.",
+        "coverage": "100% exemption on the primary residence plus up to 5 acres of land, and on up to 2 private passenger vehicles. Retroactive claims allowed for up to the prior two years if taxes were paid on time.",
+        "notes": "Apply via MyDORWAY. Exemption begins the year disability occurs or property is acquired, whichever is later.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate & Vehicle Property Tax Exemption",
+        "agency": "South Carolina Department of Motor Vehicles (SCDMV) / SCDOR",
+        "website": "https://dmv.sc.gov/Vehicle-Owners/Registration/License-Plates/Military-Plates",
+        "eligibility": "DV plate: veteran VA-certified for loss of use of legs/arms, virtual blindness in both eyes, or total and permanent disability; requires VA documentation or SCDVA certification of a combat-related disability and honorable discharge. Vehicle property tax exemption: total/permanent service-connected disabled veterans.",
+        "coverage": "The DV license plate is free (three free sets provided). The vehicle property tax exemption covers up to 2 private passenger vehicles. Military plates issued after May 6, 2022 also include free parking at SC metered spaces.",
+        "notes": "Vehicle property tax exemption applied via SCDOR MyDORWAY.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Hunting & Fishing Disability License",
+        "agency": "South Carolina Department of Natural Resources (SCDNR)",
+        "website": "https://www.dnr.sc.gov/disabled.html",
+        "eligibility": "South Carolina resident veterans with a service-connected disability (current disability certification dated within the past 12 months required).",
+        "coverage": "Free 3-year Disability Combination License covering freshwater fishing, saltwater fishing, state hunting, big game, Wildlife Management Areas, and the Migratory Waterfowl Permit; includes the base set of deer tags each year.",
+        "notes": "Apply at the SCDNR 'Disabled' license page or via DisabilityLicense@dnr.sc.gov / 803-734-3838.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Veterans Nursing Homes",
+        "agency": "South Carolina Department of Veterans' Affairs (SCDVA)",
+        "website": "https://scdva.sc.gov/state-veterans-homes",
+        "eligibility": "Veterans separated under general or honorable conditions, who are South Carolina residents, and who need skilled or intermediate nursing home care. Apply through a county Veterans' Affairs officer or directly with a facility.",
+        "coverage": "Six state veterans homes: E. Roy Stone Veterans Pavilion (Columbia), Veterans' Victory House (Walterboro), Richard Michael Campbell Veterans Home (Anderson), Veteran Village (Florence), Palmetto Patriots Home (Gaffney), and Patriot's Village (Sumter). Cost is offset by VA per-diem and resident contribution.",
+        "notes": "Admission via the SCDVA State Home Admission Packet.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "South Carolina Department of Revenue (SCDOR)",
+        "website": "https://scdva.sc.gov/news/claiming-military-retiree-state-income-tax-exemption-sc",
+        "eligibility": "All military retirees with military retirement income included in SC taxable income, regardless of age. Also claimable by a surviving spouse receiving military retirement income.",
+        "coverage": "100% of military retirement income is deductible from SC taxable income (full exemption, no age limit and no earned-income cap).",
+        "notes": "Effective for tax years 2022 onward under the Workforce Enhancement and Military Recognition Act.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Alabama",
+    "programs": [
+      {
+        "name": "Homestead Exemption for Permanently & Totally Disabled Persons",
+        "agency": "Alabama Department of Revenue (administered by local county taxing officials)",
+        "website": "https://www.revenue.alabama.gov/property-tax/homestead-exemptions/",
+        "eligibility": "Any taxpayer who is permanently and totally disabled, regardless of age or income. A 100% permanently and totally disabled veteran qualifies under this category (the statute is disability-based, not veteran-specific). Proof via VA pension/annuity award or Physician's Affidavit. Apply through the local county taxing official.",
+        "coverage": "100% exemption from all ad valorem (property) taxes (state, county, and municipal) on the principal residence. No assessed-value cap and no income limit; homestead limited to an owner-occupied dwelling and land not exceeding 160 acres.",
+        "notes": "Alabama has no dedicated 'disabled veteran' property-tax statute; a 100% P&T-rated veteran qualifies through the general disabled (H-3) homestead exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate & Registration Fee Exemption",
+        "agency": "Alabama Department of Revenue, Motor Vehicle Division",
+        "website": "https://www.revenue.alabama.gov/license-plates/disabled-veteran-us-air-force/",
+        "eligibility": "Alabama resident who is a service-connected disabled veteran. Documentation: VA disability rating certification plus military ID, DD-214, or VA affidavit.",
+        "coverage": "10%–50% rating: first plate exempt from registration and issuance fees (ad valorem tax still owed). 51%+ rating (or vehicle with special mechanical controls): first plate exempt from registration and issuance fees, $5 annual fee on additional plates. Vehicle funded by the VA: all plates exempt from registration fees AND ad valorem taxes.",
+        "notes": "Statutory basis Code of Ala. § 40-12-254 / § 40-12-271.1.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Veteran's Appreciation Hunting & Fishing Licenses (Disabled Veterans)",
+        "agency": "Alabama Department of Conservation and Natural Resources (Outdoor Alabama)",
+        "website": "https://www.outdooralabama.com/licenses/license-faqs",
+        "eligibility": "Resident veterans certified by the VA. Hunting: minimum 50% disability (or 100% disabled). Freshwater fishing: minimum 20% disability. Saltwater: 20%+ disability eligible for a reduced-rate annual license. Show a VA disability-rating letter; obtain at the local probate office or by mail from DCNR.",
+        "coverage": "Reduced-cost (not free). Annual disabled-veteran freshwater license: $2 license fee + $1 issuance fee. Lifetime disabled-veteran freshwater fishing license: $45 (under 50) / $25 (50+). Alabama residents 65+ are exempt from buying recreational hunting/fishing/WMA licenses and the state duck stamp.",
+        "notes": "These veteran licenses are reduced-rate, not free.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Alabama State Veterans Homes",
+        "agency": "Alabama Department of Veterans Affairs (ADVA)",
+        "website": "https://va.alabama.gov/vets-home-program/bill-nichols-state-veterans-home/",
+        "eligibility": "Honorably discharged with a minimum of 90 continuous days of active duty service (post-1980/1981 enlistees/commissionees must have 24 continuous months or the full period called); Alabama resident for the immediate past 12 months; meets VA criteria for skilled nursing (or assisted living) care; passes a background check.",
+        "coverage": "A monthly residency fee applies (set per facility). Veterans with a 70%+ service-connected disability rating, or admitted for a service-connected condition, may have costs covered by the VA.",
+        "notes": "Five ADVA homes: Bill Nichols (Alexander City), William F. Green (Bay Minette), Floyd E. 'Tut' Fann (Huntsville), Colonel Robert L. Howard (Pell City), and CSM Bennie G. Adkins (Enterprise).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Alabama Department of Revenue",
+        "website": "https://www.revenue.alabama.gov/individual-corporate/income-exempt-from-alabama-income-taxation/",
+        "eligibility": "All retired military personnel receiving military retirement pay. No age requirement and no income cap.",
+        "coverage": "100% exempt. Military retirement pay is fully exempt from Alabama state income tax (also exempt from county/municipal income tax). SBP/RCSBP survivor annuities are likewise exempt.",
+        "notes": "Statutory basis Code of Ala. § 40-18-20; full exemption effective Jan 1, 1989.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Indiana",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Relief",
+        "agency": "Indiana Department of Veterans Affairs / county auditor",
+        "website": "https://www.in.gov/dva/divisions/training-and-services/disabled-veteran-property-tax-deduction/",
+        "eligibility": "Honorably discharged veteran, at least 90 days active duty, AND either rated 100% disabled / Individual Unemployability, OR age 62+ with a 10%+ service-connected disability, OR (wartime-service track) a 10%+ service-connected disability. Surviving spouses may retain eligibility.",
+        "coverage": "Through taxes payable 2026: a $14,000 assessed-value deduction (totally disabled / 62+ partial, $200,000 value cap) and/or a $24,960 assessed-value deduction (wartime service, 10%+, no cap), which can stack. Indiana's House Enrolled Act 1210 (2026) restructures this for the 2026 assessment date / taxes payable 2027 — totally disabled (100%/IU) veterans move to a full homestead exemption (no value cap), and the wartime/partial deduction becomes local credits.",
+        "notes": "The official DVA property-tax page is mid-update for the new law. Confirm the current year's amounts and whether you register with the county auditor before relying on a specific figure.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran / Veteran License Plates",
+        "agency": "Indiana Bureau of Motor Vehicles (BMV) / Indiana DVA",
+        "website": "https://www.in.gov/dva/divisions/training-and-services/",
+        "eligibility": "Indiana resident veterans. The Disabled Veteran (DV) plate requires a qualifying service-connected disability certified by the VA; other designation plates (Military Branch, Purple Heart, Ex-POW) are available to qualifying veterans.",
+        "coverage": "Indiana offers a Disabled Veteran (DV) plate plus multiple veteran/military designation plates. Confirm the current excise-tax exemption and any plate fee directly with the Indiana BMV.",
+        "notes": "Exact excise-tax/registration fee figures are not published on the DVA services page — verify with the BMV before relying on a dollar amount.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Discounted Hunting & Fishing License",
+        "agency": "Indiana Department of Natural Resources (DNR) / Indiana DVA",
+        "website": "https://www.in.gov/dnr/fish-and-wildlife/licenses-and-permits/disabled-veterans",
+        "eligibility": "Indiana resident who served in the U.S. Armed Forces and has a documented service-connected disability per the VA (or DoD disability retirement). No minimum rating percentage. Requires DVA certification before first purchase (State Form 50833).",
+        "coverage": "$2.75 per year, or $27.50 for a 10-year license. Covers small-game hunting and fishing; excludes stamps (waterfowl, game bird, trout/salmon) and does not cover deer or turkey. A separate Golden Hoosier Passport ($25/year) gives unlimited state-park admission.",
+        "notes": "Catastrophically disabled resident veterans may also hunt license/stamp-free on a few designated free-hunting days each year.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Indiana Veterans' Home (West Lafayette)",
+        "agency": "Indiana Veterans' Home (state agency)",
+        "website": "https://www.in.gov/ivh/",
+        "eligibility": "Honorably discharged Indiana veterans and their spouses; Gold Star parents also eligible. Located in West Lafayette. Generally requires Indiana residency.",
+        "coverage": "Long-term skilled nursing care, short-term rehabilitation, and memory care. A means-based resident fee applies, offset by VA per-diem and other benefits.",
+        "notes": "Confirm exact residency-duration and fee specifics with IVH (765-463-1502).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Indiana Department of Revenue (DOR)",
+        "website": "https://www.in.gov/dor/individual-income-taxes/information-for-military-service-members/",
+        "eligibility": "Any Indiana resident reporting military retirement income and/or survivor's benefits, regardless of age.",
+        "coverage": "100% deduction with no dollar limit — military retirement pay and survivor's benefits are fully exempt from Indiana adjusted gross income tax (effective tax year 2022 onward).",
+        "notes": "Claimed on Form IT-40 in the Military Retirement and/or Survivor's Benefits Deduction line.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Kentucky",
+    "programs": [
+      {
+        "name": "Homestead / Disability Property Tax Exemption (65+ or Totally Disabled)",
+        "agency": "Kentucky Department of Revenue / local PVA",
+        "website": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/Pages/Homestead-Exemption.aspx",
+        "eligibility": "Kentucky homeowners age 65+ OR classified as totally and permanently disabled under a U.S. government agency or Kentucky retirement program. Veterans with a service-connected total disability qualify under the disability category and, unlike other disabled applicants, do not have to reapply annually.",
+        "coverage": "$49,100 deducted from assessed value for the 2025–2026 assessment period (inflation-adjusted every two years).",
+        "notes": "This is the general homestead/disability exemption, not veteran-specific; a disabled veteran uses the same exemption available to any totally disabled homeowner. Kentucky has no enacted veteran-specific 100% property exemption (a 2025 bill proposing one did not pass).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate",
+        "agency": "Kentucky Transportation Cabinet (DRIVE) / County Clerk",
+        "website": "https://drive.ky.gov/Vehicles/Pages/License-Plates.aspx",
+        "eligibility": "Honorably discharged veteran with a VA service-connected disability rating of 100% (or who received VA funds to purchase/modify a vehicle) qualifies for the no-fee plate. Veterans rated 50–99% qualify for a fee-based disabled veteran plate. Apply at the local County Clerk using Application TC 96-217 with VA certification.",
+        "coverage": "100% / VA-vehicle: no-fee (free) Disabled Veteran plate. 50–99%: fee-based plate at $26 (initial and renewal).",
+        "notes": "Confirm the exact fee at the County Clerk. KY Dept. of Veterans Affairs: 800-572-6245.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Sportsman's Hunting & Fishing License (Disabled Veterans)",
+        "agency": "Kentucky Department of Fish & Wildlife Resources",
+        "website": "https://fw.ky.gov/Licenses/Pages/Resident-Senior-and-Disabled-Licenses.aspx",
+        "eligibility": "Kentucky resident veterans with at least a 50% service-connected disability rating from the VA. Requires a VA letter verifying 50%+ service-connected disability with a current KY address.",
+        "coverage": "$12 annually (reduced, not free). Includes the Combination Hunting & Fishing License, all Deer Permits, Spring and Fall Turkey Permits, the Migratory Bird/Waterfowl Permit, and Trout Permit.",
+        "notes": "Must renew annually. Federal Duck Stamp and the annual HIP survey still required separately for waterfowl.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Veterans Centers (Nursing Care)",
+        "agency": "Kentucky Department of Veterans Affairs",
+        "website": "https://veterans.ky.gov/Veterans-Centers/Pages/Admission-to-State-Veterans-Homes.aspx",
+        "eligibility": "Veteran with a discharge that is not dishonorable, a Kentucky resident as of the date of admission, disabled by disease, wounds, age, or otherwise in need of nursing care. Admission is based on nursing-care need and urgency (service-connected status does not grant priority).",
+        "coverage": "Four state-operated skilled-nursing veterans centers: Thomson-Hood (Wilmore), Paul E. Patton Eastern Kentucky Veterans Center (Hazard), Joseph 'Eddie' Ballard Western Kentucky Veterans Center (Hanson), and Carl M. Brashear Radcliff Veterans Center (Radcliff).",
+        "notes": "Admissions contact: KDVA (502) 595-4447.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Partial / Date-Based)",
+        "agency": "Kentucky Department of Revenue",
+        "website": "https://revenue.ky.gov/Individual/Pages/Military-Exemptions.aspx",
+        "eligibility": "All Kentucky taxpayers receiving military retired pay. Treatment depends on retirement date relative to January 1, 1998.",
+        "coverage": "Military retired pay attributable to service BEFORE Jan 1, 1998 is 100% exempt. Pay attributable to service AFTER Dec 31, 1997 is covered by Kentucky's general pension income exclusion of up to $31,110. Members with service both before and after 1998 compute an exempt percentage on Schedule P and may exclude more than $31,110.",
+        "notes": "The $31,110 general pension exclusion is shared across retirement income, not military-only.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Wisconsin",
+    "programs": [
+      {
+        "name": "Wisconsin Veterans & Surviving Spouses Property Tax Credit",
+        "agency": "Wisconsin Department of Revenue (administers) / Wisconsin Department of Veterans Affairs (certifies)",
+        "website": "https://www.revenue.wi.gov/Pages/FAQS/ise-vetqual.aspx",
+        "eligibility": "Veteran with a 100% service-connected disability rating OR a 100% rating based on individual unemployability. Must have entered active duty as a Wisconsin resident or been a WI resident for any consecutive 5-year period after entering service, and currently reside in WI; honorable discharge. Unremarried surviving spouses receiving DIC may also qualify. WDVA verification must accompany the first-year return.",
+        "coverage": "A refundable credit equal to 100% of the property taxes paid during the year on the eligible principal dwelling.",
+        "notes": "Claimed as a refundable credit on the Wisconsin state income tax return — the veteran pays the property tax and is reimbursed through the return; it is not a direct property-tax exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) Parking License Plates",
+        "agency": "Wisconsin Department of Transportation (DMV)",
+        "website": "https://wisconsindot.gov/Pages/dmv/vehicles/dsbld-prkg/dvetplat.aspx",
+        "eligibility": "Wisconsin veteran certified by an authorized VA health care specialist as having a permanent disability incurred during active military service that limits or impairs the ability to walk. Vehicle must be titled to the disabled veteran.",
+        "coverage": "Standard annual vehicle registration fee applies; an additional $15/year only if personalized plates are chosen. There is no statewide registration-fee waiver for these plates.",
+        "notes": "These are mobility/parking-privilege plates; Wisconsin does not waive the annual registration fee for the DV parking plate.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting & Fishing Privileges",
+        "agency": "Wisconsin Department of Natural Resources (DNR)",
+        "website": "https://dnr.wisconsin.gov/permits/veterans.html",
+        "eligibility": "Resident Disabled Veteran Recreation Card: service-connected disability rating of 50% or greater, or individually unemployable. Resident Disabled Veteran Fishing License: service-connected rating of 70% or greater, or individually unemployable. Documentation required at purchase.",
+        "coverage": "Disabled Veteran Recreation Card: $7/year (includes fishing, small game, state park vehicle admission, and a state trail pass). Disabled Veteran Fishing License: $3/year (fishing only). Reduced Spring Turkey harvest authorization: $10.",
+        "notes": "The $7 Recreation Card (50%+ rating) is the broader bundle; the $3 fishing-only license has a higher 70% threshold.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Wisconsin Veterans Homes (King, Union Grove, Chippewa Falls)",
+        "agency": "Wisconsin Department of Veterans Affairs (WDVA)",
+        "website": "https://dva.wi.gov/services/wisconsin-veterans-homes/",
+        "eligibility": "Veteran who served on active duty during wartime for at least 90 days (one day during a wartime period), OR served 2+ years (or full initial obligation) during peacetime; honorable discharge. Spouses of veterans and Gold Star Parents are also eligible. Wisconsin residency is NOT required, but WI residents of 6+ continuous months receive first admission priority.",
+        "coverage": "24-hour skilled nursing care at three homes (Chippewa Falls, King, Union Grove). Members able to pay are billed monthly for cost of care; those unable to pay may qualify for Medicare or Medicaid.",
+        "notes": "Detailed homes site: wisvetshomes.com.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "Wisconsin Department of Revenue",
+        "website": "https://www.revenue.wi.gov/Pages/FAQS/pcs-military.aspx",
+        "eligibility": "Recipients of U.S. military retirement pay (including Retired Serviceman's Family Protection Plan and Survivor Benefit Plan payments), plus Coast Guard, NOAA, and Public Health Service commissioned corps.",
+        "coverage": "100% exempt from Wisconsin state income tax. No income limit, no age requirement, and no dollar cap.",
+        "notes": "Claimed as a subtraction from income on Schedule SB (Form 1) or Schedule M (Form 1NPR).",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
