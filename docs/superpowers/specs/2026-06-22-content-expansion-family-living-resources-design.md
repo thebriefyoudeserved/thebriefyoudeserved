@@ -53,7 +53,7 @@ Each card supports the optional `transferable` badge field; not all pages use it
 
 | Page | Data file | Categories / contents |
 |---|---|---|
-| `state-benefits.html` | `data/state-benefits.json` | **All 50 states.** Per state, up to 5 program entries: property-tax exemption, vehicle registration/plates, hunting & fishing licenses, state veterans home(s), state income-tax treatment of military retired pay. |
+| `state-benefits.html` | `data/state-benefits.json` | **All 50 states PLUS US territories/DC** (District of Columbia, Puerto Rico, Guam, US Virgin Islands, American Samoa, Northern Mariana Islands — 56 jurisdictions total). Per jurisdiction, up to 5 program entries: property-tax exemption, vehicle registration/plates, hunting & fishing licenses, state/territory veterans home(s), state/territory income-tax treatment of military retired pay. Territories with no equivalent program for a category get that program omitted (not faked); if a territory has little/no veteran benefit structure, note that explicitly rather than padding. |
 | `caregiver-support.html` | `data/caregiver-support.json` | VA Caregiver Support (PCAFC stipend + PGCSS), Vet Centers, Veterans Crisis Line (988 press 1), PTSD/TBI resources, family/marriage counseling, Military Sexual Trauma (MST) support, substance-use treatment. |
 | `healthcare-navigation.html` | `data/healthcare-navigation.json` | VA health enrollment + priority groups, how to enroll (10-10EZ), community care, dental (VADIP), vision, prescriptions/copays, CHAMPVA vs TRICARE decision help, mental-health access. |
 | `dependents-life-events.html` | `data/dependents-life-events.json` | DEERS & dependent ID cards, adding dependents to VA compensation, marriage/divorce/new-child benefit impacts, GI Bill transfer to dependents, survivor checklist (what families must do when a veteran dies). |
@@ -93,6 +93,24 @@ adjusted, the `fetch()` path pointed at its own data file, the console log label
 changed, and the render function renamed. Renderer body is otherwise identical (proven
 code). `shared-footer.js` included on every page.
 
+### Visual consistency (hard requirement)
+
+Every new page MUST be visually consistent with the existing resource — same theme and
+layout across the whole site, so it reads as one cohesive resource, not bolted-on pages.
+Concretely:
+- Copy the inline `<style>` block from `federal.html`/`benefits.html` **verbatim** —
+  same serif font stack (Georgia), background `#f5f5f0`, navy `#1a1a2e`, gold accent
+  `#c5a55a`, card styling, category headings, spacing, and mobile breakpoints.
+- Same page chrome: centered H1 + italic H2 subtitle, intro paragraph, disclaimer line,
+  "← Back to Resource Hub" link, book-plug block, and `shared-footer.js`.
+- Same interaction: collapsible program cards (click to expand), gold left-border,
+  toggle chevron — identical to federal/benefits pages.
+- The hub cards added in Part 1 use the existing `.resource-card` markup with an emoji
+  icon, title, description, "Last updated" line, and button — matching siblings exactly.
+- No per-page color/font/layout deviations. If a shared style ever needs to change, it
+  changes everywhere (candidate for extracting shared CSS later, but NOT this round —
+  YAGNI; verbatim-copy keeps consistency without a refactor).
+
 ## Research discipline (hard constraints)
 
 - **All figures verified against official sources** — VA.gov, state .gov, DoD/DFAS/
@@ -109,7 +127,7 @@ code). `shared-footer.js` included on every page.
 The 50-state research is the large grind. To avoid losing work to a quota wipe:
 
 - **Max 5 research agents running at once.** Never spin up more than 5 concurrently.
-- **Process states in batches of ~5** (10 batches total).
+- **Process jurisdictions in batches of ~5** (56 jurisdictions = ~12 batches total).
 - **After each batch returns, immediately write the verified results to disk**
   (append to `data/state-benefits.json` or a per-batch partial file that is merged),
   and `git add`/`commit` the partial. A quota interruption then loses at most the
@@ -122,7 +140,7 @@ The 50-state research is the large grind. To avoid losing work to a quota wipe:
 
 1. index.html reorg (Part 1) → commit.
 2. Build the 4 HTML shells + empty/seed JSON → commit (pages render "loading" until data).
-3. State research in batches of ≤5 → write+commit after each batch until 50/50 done.
+3. Jurisdiction research in batches of ≤5 → write+commit after each batch until 56/56 done (50 states + DC + 5 territories).
 4. National-page research (≤5 agents) → write+commit each JSON.
 5. Add the 4 hub cards into the reorganized sections (some added in step 1 as
    placeholders pointing at pages that render once data lands).
