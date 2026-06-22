@@ -13,6 +13,7 @@
     .hero .author { font-size: 1em; color: #888; }
     .section-heading { font-size: 1.4em; color: #1a1a2e; border-bottom: 2px solid #c5a55a; padding-bottom: 8px; margin-top: 40px; margin-bottom: 10px; }
     .section-intro { color: #666; margin-bottom: 20px; }
+    .group-heading { font-size: 1.1em; color: #1a1a2e; font-variant: small-caps; letter-spacing: 0.05em; margin: 30px 0 5px; padding-left: 2px; border-left: 4px solid #c5a55a; padding-left: 10px; }
     .primary-card { display: flex; align-items: center; background: #1a1a2e; border-radius: 10px; padding: 30px; margin: 0 0 20px; color: #eee; gap: 25px; }
     .primary-icon { font-size: 3em; flex-shrink: 0; }
     .primary-content h2 { margin: 0 0 8px; color: #fff; font-size: 1.4em; }
@@ -61,25 +62,17 @@
   </div>
 
   <h2 class="section-heading">Digital Resources</h2>
-  <p class="section-intro">Free companion resources for readers, service members, and veterans.</p>
+  <p class="section-intro">Free companion resources for readers, service members, veterans, and their families &mdash; available to everyone, whether or not you buy the book.</p>
 
+  <h3 class="group-heading">Claims &amp; Benefits</h3>
   <div class="card-grid">
-    <!-- Questionnaire -->
-    <a href="questionnaire.html" class="resource-card">
-      <div class="resource-icon">&#9997;</div>
-      <div class="resource-title">Veteran Voices Questionnaire</div>
-      <div class="resource-desc">Share your military experience &mdash; your story could help the next generation of service members. Browse what other veterans have shared.</div>
-      <div class="resource-updated">Last updated: 2026-03-28</div>
-      <div class="resource-button"><span class="button-small">View &amp; Contribute</span></div>
-    </a>
-
-    <!-- State Benefits -->
-    <a href="states.html" class="resource-card">
-      <div class="resource-icon">&#127891;</div>
-      <div class="resource-title">State Education Benefits Guide</div>
-      <div class="resource-desc">Interactive state-by-state breakdown of veteran and dependent education benefits. Find scholarships, tuition waivers, and programs in your state.</div>
-      <div class="resource-updated">Last updated: 2026-02-01</div>
-      <div class="resource-button"><span class="button-small">Explore by State</span></div>
+    <!-- VA Claims Guide -->
+    <a href="va-claims.html" class="resource-card">
+      <div class="resource-icon">&#128203;</div>
+      <div class="resource-title">VA Disability Claims Guide</div>
+      <div class="resource-desc">Step-by-step guide to filing VA disability claims. Evidence building, C&amp;P exam prep, combined ratings calculator, and common mistakes to avoid.</div>
+      <div class="resource-updated">Last updated: 2026-03-29</div>
+      <div class="resource-button"><span class="button-small">Claims Guide</span></div>
     </a>
 
     <!-- Federal Benefits -->
@@ -108,7 +101,61 @@
       <div class="resource-updated">Last updated: 2026-03-29</div>
       <div class="resource-button"><span class="button-small">Find Scholarships</span></div>
     </a>
+  </div>
 
+  <h3 class="group-heading">State &amp; Territory Resources</h3>
+  <div class="card-grid">
+    <!-- State Education Benefits -->
+    <a href="states.html" class="resource-card">
+      <div class="resource-icon">&#127891;</div>
+      <div class="resource-title">State Education Benefits Guide</div>
+      <div class="resource-desc">Interactive state-by-state breakdown of veteran and dependent education benefits. Find scholarships, tuition waivers, and programs in your state.</div>
+      <div class="resource-updated">Last updated: 2026-02-01</div>
+      <div class="resource-button"><span class="button-small">Explore by State</span></div>
+    </a>
+
+    <!-- State Benefits Beyond Education -->
+    <a href="state-benefits.html" class="resource-card">
+      <div class="resource-icon">&#127963;</div>
+      <div class="resource-title">State Benefits Beyond Education</div>
+      <div class="resource-desc">Property-tax exemptions, vehicle registration &amp; plates, hunting &amp; fishing licenses, state veterans homes, and retired-pay tax treatment &mdash; for all 50 states, DC, and US territories.</div>
+      <div class="resource-updated">Last updated: 2026-06-22</div>
+      <div class="resource-button"><span class="button-small">Explore by State</span></div>
+    </a>
+  </div>
+
+  <h3 class="group-heading">Family &amp; Living</h3>
+  <div class="card-grid">
+    <!-- Caregiver & Mental Health -->
+    <a href="caregiver-support.html" class="resource-card">
+      <div class="resource-icon">&#129505;</div>
+      <div class="resource-title">Caregiver &amp; Mental-Health Support</div>
+      <div class="resource-desc">VA Caregiver Support (stipend), Vet Centers, the Veterans Crisis Line, PTSD/TBI resources, family counseling, MST support, and substance-use treatment.</div>
+      <div class="resource-updated">Last updated: 2026-06-22</div>
+      <div class="resource-button"><span class="button-small">Find Support</span></div>
+    </a>
+
+    <!-- Healthcare Navigation -->
+    <a href="healthcare-navigation.html" class="resource-card">
+      <div class="resource-icon">&#127973;</div>
+      <div class="resource-title">Healthcare Navigation</div>
+      <div class="resource-desc">How to enroll in VA health care, priority groups, community care, dental and vision, prescriptions, and choosing between CHAMPVA and TRICARE.</div>
+      <div class="resource-updated">Last updated: 2026-06-22</div>
+      <div class="resource-button"><span class="button-small">Navigate Healthcare</span></div>
+    </a>
+
+    <!-- Dependents & Life Events -->
+    <a href="dependents-life-events.html" class="resource-card">
+      <div class="resource-icon">&#128106;</div>
+      <div class="resource-title">Dependents &amp; Life Events</div>
+      <div class="resource-desc">DEERS &amp; dependent ID cards, adding dependents to your VA compensation, marriage/divorce/new-child impacts, GI Bill transfer, and a survivor checklist.</div>
+      <div class="resource-updated">Last updated: 2026-06-22</div>
+      <div class="resource-button"><span class="button-small">View Guide</span></div>
+    </a>
+  </div>
+
+  <h3 class="group-heading">Tools &amp; Planning</h3>
+  <div class="card-grid">
     <!-- Financial Freedom Calculator -->
     <a href="calculator.html" class="resource-card">
       <div class="resource-icon">&#128200;</div>
@@ -127,13 +174,13 @@
       <div class="resource-button"><span class="button-small">Start Your Checklist</span></div>
     </a>
 
-    <!-- VA Claims Guide -->
-    <a href="va-claims.html" class="resource-card">
-      <div class="resource-icon">&#128203;</div>
-      <div class="resource-title">VA Disability Claims Guide</div>
-      <div class="resource-desc">Step-by-step guide to filing VA disability claims. Evidence building, C&amp;P exam prep, combined ratings calculator, and common mistakes to avoid.</div>
-      <div class="resource-updated">Last updated: 2026-03-29</div>
-      <div class="resource-button"><span class="button-small">Claims Guide</span></div>
+    <!-- Questionnaire -->
+    <a href="questionnaire.html" class="resource-card">
+      <div class="resource-icon">&#9997;</div>
+      <div class="resource-title">Veteran Voices Questionnaire</div>
+      <div class="resource-desc">Share your military experience &mdash; your story could help the next generation of service members. Browse what other veterans have shared.</div>
+      <div class="resource-updated">Last updated: 2026-03-28</div>
+      <div class="resource-button"><span class="button-small">View &amp; Contribute</span></div>
     </a>
 
     <!-- Errata -->
