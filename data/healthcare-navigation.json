@@ -1,0 +1,107 @@
+[
+  {
+    "category": "Enrolling in VA Health Care",
+    "programs": [
+      {
+        "name": "How to Apply for VA Health Care (VA Form 10-10EZ)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/how-to-apply/",
+        "eligibility": "Veterans who served in active military service and were not dishonorably discharged; minimum duty/service-period requirements may apply. Apply using VA Form 10-10EZ (Application for Health Benefits).",
+        "coverage": "Four ways to apply: online at va.gov/health-care/apply, by phone at 877-222-8387 (Mon–Fri, 8:00 a.m.–8:00 p.m. ET), by mail (Health Eligibility Center, PO Box 5207, Janesville, WI 53547-5207), or in person at a VA medical center. VA states most decisions are made in less than a week.",
+        "notes": "Don't reapply if you haven't heard back within a week — VA asks you to call 877-222-8387 instead, since duplicate applications can slow processing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Priority Groups (1–8)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/eligibility/priority-groups/",
+        "eligibility": "Every enrolled veteran is assigned to one of 8 priority groups, driven by service-connected disability rating, special status (POW, Purple Heart, Medal of Honor, catastrophic disability), and household income relative to VA limits.",
+        "coverage": "Group 1 = 50%+ service-connected (or unemployable, or Medal of Honor); Group 2 = 30–40%; Group 3 = former POWs, Purple Heart, 10–20%; Group 4 = aid & attendance/housebound or catastrophically disabled; Group 5 = low-income nonservice-connected or VA pension; Group 6 = 0% compensable, certain toxic-exposure/war-era service, recent combat veterans; Groups 7–8 = income-based, agree to copays. Your group affects how soon you enroll and how much you pay.",
+        "notes": "The lower your group number the better — Groups 1–6 generally avoid or minimize copays. Report income/status changes, since they can move you to a more favorable group.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Income Limits & Financial Assessment",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/income-limits/",
+        "eligibility": "Applies to veterans without a compensable service-connected disability. VA compares your prior-year gross household income against a national income limit and a geographically adjusted (GMT) limit based on where you live.",
+        "coverage": "Income at or below these limits can qualify you for free care/medications for nonservice-connected conditions and influences your priority group. Since 2014 most veterans are no longer required to complete the annual financial assessment to keep enrollment. Exact dollar thresholds vary by ZIP code and year.",
+        "notes": "Use VA's income-limits lookup tool with your ZIP code rather than relying on a single national number — the geographically adjusted limit can be substantially higher in high-cost areas.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "What VA Health Care Covers",
+    "programs": [
+      {
+        "name": "Standard Medical Benefits Package",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/about-va-health-benefits/",
+        "eligibility": "All veterans enrolled in VA health care receive the standard medical benefits package; specific services depend on your priority group and your provider's medical judgment.",
+        "coverage": "Preventive care (exams, immunizations), primary care, specialty care (including transplants and intensive care), inpatient hospital care, mental health services, prescriptions written or approved by a VA provider, diagnostics, and rehabilitation. Limited dental and vision coverage is included for those who qualify.",
+        "notes": "Even if you have other insurance, enrolling unlocks this full package — VA care for service-connected conditions is generally copay-free regardless of income.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Dental Care (and VADIP)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/about-va-health-benefits/dental-care/",
+        "eligibility": "Free VA dental care is limited to specific eligibility classes; enrolled veterans who don't qualify for free care (or CHAMPVA beneficiaries) can buy reduced-cost coverage through VADIP.",
+        "coverage": "Comprehensive free dental care for: a service-connected dental disability you're compensated for; former POWs; and veterans rated 100% disabling or unemployable due to a service-connected condition (permanent, not temporary). Limited/conditional care for other classes. Others can purchase the VA Dental Insurance Program (VADIP) at reduced cost.",
+        "notes": "A permanent 100% (or TDIU) rating qualifies you for any needed dental care — but a temporary/convalescent 100% rating does not, so confirm your rating type.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Vision & Eye Care",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/about-va-health-benefits/vision-care/",
+        "eligibility": "Routine eye exams are available to veterans enrolled in VA health care; free eyeglasses are limited to veterans meeting specific criteria.",
+        "coverage": "Covers routine eye exams and preventive tests. Eyeglasses are covered if you have a compensable service-connected disability, are a former POW or Purple Heart recipient, receive certain VA benefits, or have vision problems resulting from a qualifying condition VA is treating (e.g., stroke, diabetes, TBI). Advanced blind/low-vision rehabilitation is available for qualifying veterans.",
+        "notes": "Routine eye exams are broadly available, but free eyeglasses are not automatic — if you don't fall into a covered category, you'll typically pay for the glasses.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Prescriptions & Medication Copays",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/copay-rates/",
+        "eligibility": "Copays apply to medications for nonservice-connected conditions; some veterans (certain priority groups, service-connected conditions, former POWs, catastrophically disabled) are exempt.",
+        "coverage": "Effective Jan 1, 2026, outpatient medication copays are tiered by day-supply and drug tier (preferred generic, non-preferred generic, brand-name), with copays of roughly $5–$33 depending on tier and supply length. An annual medication copay cap applies — once you reach it in a calendar year, you pay no more medication copays that year. Copays don't apply to medications for service-connected conditions.",
+        "notes": "Ask about a 90-day mail-order supply — you pay one tier copay for up to 90 days instead of three monthly copays. Confirm current-year amounts on va.gov/health-care/copay-rates.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Community Care",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/communitycare/programs/veterans/General_Care.asp",
+        "eligibility": "You must be enrolled in (or eligible for) VA health care and, except in urgent/emergency situations, get approval from your VA care team before receiving community care, plus meet at least one qualifying condition.",
+        "coverage": "VA pays for care from a non-VA provider when VA doesn't offer the needed service, your area has no full-service VA facility, you and your provider agree it's in your best medical interest, or VA can't meet access standards. Access standards: 30-minute drive time OR 20-day wait for primary/mental health care; 60-minute drive time OR 28-day wait for specialty care.",
+        "notes": "Get VA authorization first (outside of emergencies) — care obtained without prior approval may not be paid for.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Choosing Your Coverage",
+    "programs": [
+      {
+        "name": "CHAMPVA vs TRICARE",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/",
+        "eligibility": "CHAMPVA covers eligible spouses, dependent children, and survivors of veterans — but only if they are NOT eligible for TRICARE. TRICARE covers families of active-duty, Guard/Reserve, and retired service members.",
+        "coverage": "You may qualify for CHAMPVA if you're not TRICARE-eligible and are the spouse/child of a veteran rated permanently and totally (P&T) disabled from a service-connected condition, the survivor of a veteran who died from (or was P&T-rated for) a service-connected condition, or a survivor of a service member who died on active duty. The defining rule: you cannot have CHAMPVA if you qualify for TRICARE — the two are mutually exclusive.",
+        "notes": "Eligibility hinges on a permanent and total rating, not a temporary one. Gaining TRICARE eligibility (or a status change like remarriage) ends CHAMPVA eligibility.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "VA Health Care + Other Insurance (Medicare/Medicaid/Employer)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/about-va-health-benefits/va-health-care-and-other-insurance/",
+        "eligibility": "Any enrolled veteran who also has private insurance, employer coverage, Medicare, or Medicaid. Having (or not having) other insurance does not affect the VA benefits you can get.",
+        "coverage": "VA recommends keeping your other coverage. VA bills your private insurer for nonservice-connected care; it doesn't bill Medicare or Medicaid but may bill Medicare supplemental (Medigap) plans. With both VA and Medicare, you choose which to use at each visit. VA cautions against dropping private insurance (VA generally doesn't cover family members) and against delaying Medicare Part B (lifelong late-enrollment penalties).",
+        "notes": "Keep Medicare Part B even after enrolling in VA health care — if you drop it and later need non-VA or emergency care, the lifelong Part B penalty and coverage gaps usually outweigh the premium savings.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  }
+]

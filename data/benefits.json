@@ -1,0 +1,271 @@
+[
+  {
+    "category": "Survivor & Family Benefits",
+    "programs": [
+      {
+        "name": "Dependency and Indemnity Compensation (DIC)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/survivor-rates/",
+        "eligibility": "Surviving spouse, child, or parent of a service member who died in the line of duty, or a veteran whose death resulted from a service-connected condition. The surviving spouse generally must not have remarried (exceptions apply at age 57 and others).",
+        "coverage": "Tax-free monthly benefit. Surviving-spouse base rate is $1,699.36/mo (effective Dec 1, 2025). Add-ons can stack: +$360.85/mo if the veteran was rated totally disabling for 8+ years before death (and married that full period), +$421.00/mo Aid & Attendance, +$197.22/mo Housebound. A transitional benefit for dependent children under 18 applies for the first 2 years.",
+        "notes": "DIC is NOT means-tested — it is paid regardless of the survivor's income or assets, unlike Survivors Pension. The 8-year add-on and the A&A/Housebound add-ons can stack on top of the base rate.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Survivor Benefit Plan (SBP)",
+        "agency": "Defense Finance and Accounting Service (DFAS)",
+        "website": "https://www.dfas.mil/RetiredMilitary/provide/sbp/",
+        "eligibility": "Elected by a military retiree at the time of retirement. Declining or reducing spouse coverage requires spouse concurrence. Eligible beneficiaries: spouse, former spouse, children, or an insurable interest. A surviving spouse keeps the annuity for life as long as they do not remarry before age 55.",
+        "coverage": "Pays the surviving beneficiary an annuity of up to 55% of the member's selected retired-pay base amount (the 'base amount' is the portion of retired pay you choose to cover — from a $300 minimum up to full retired pay). The monthly premium for spouse coverage is 6.5% of that elected base amount.",
+        "transferable": "N/A — directly provides an annuity to the elected survivor.",
+        "notes": "Military retired pay otherwise STOPS at the retiree's death — SBP is what continues an income stream to survivors. The 6.5% premium is deducted from retired pay before taxes. SBP coordinates with VA DIC, and the Special Survivor Indemnity Allowance (SSIA) relates to that interaction. Confirm your exact cost on the DFAS SBP cost page before electing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Survivors Pension (Death Pension)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/survivors-pension/rates/",
+        "eligibility": "Needs-based benefit for a low-income surviving spouse (not remarried) or unmarried child of a deceased wartime veteran. The deceased veteran's wartime service: if they entered active duty on or before Sep 7, 1980, 90+ days with at least 1 day during a wartime period; if after, 24 months or the full ordered period including a wartime day; non-dishonorable discharge required.",
+        "coverage": "Maximum Annual Pension Rate (MAPR) effective Dec 1, 2025 (surviving spouse, no dependents): $11,699/yr base; $14,298/yr with Housebound; $18,697/yr with Aid & Attendance. VA pays the difference between the MAPR and the survivor's countable income. Net-worth limit for Dec 1, 2025 – Nov 30, 2026: $163,699.",
+        "notes": "Income- and net-worth-tested — completely distinct from DIC (which is not means-tested). Aid & Attendance and Housebound cannot be combined with each other.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "CHAMPVA (Survivor & Dependent Healthcare)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/health-care/family-caregiver-benefits/champva/",
+        "eligibility": "Spouse/surviving spouse and children of a veteran who is permanently and totally (P&T) disabled from a service-connected condition, who died from a service-connected condition, who was P&T at the time of death, or a service member who died in the line of duty — and who are NOT eligible for TRICARE.",
+        "coverage": "Shares the cost of most medically necessary healthcare services for eligible dependents and survivors.",
+        "transferable": "N/A — directly covers eligible dependents and survivors.",
+        "notes": "If you are eligible for TRICARE, you must use TRICARE (CHAMPVA is secondary). A key safety net for surviving and dependent families of P&T or line-of-duty-death veterans. Also appears in the Federal Benefits guide under healthcare.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Burial & Memorial Benefits",
+    "programs": [
+      {
+        "name": "VA Burial Allowance",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/burials-memorials/veterans-burial-allowance/",
+        "eligibility": "Paid to the person who bore the cost of the veteran's burial (often the surviving spouse — VA may automatically pay the spouse on record). Amount depends on whether the death was service-connected.",
+        "coverage": "Service-connected death: $2,000 burial allowance (deaths on/after Sep 11, 2001). Non-service-connected death: $2,000 (on/after Sep 11, 2001) or $1,500 (before that date). Plot/interment allowance (non-service-connected, not buried in a national cemetery): $1,002 for deaths on/after Oct 1, 2025. Transportation costs may be reimbursed.",
+        "notes": "File non-service-connected claims within 2 years of burial (exceptions apply); service-connected claims have no deadline. VA may automatically pay the surviving spouse listed on the veteran's profile without a claim.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Burial in a VA National Cemetery",
+        "agency": "U.S. Department of Veterans Affairs — National Cemetery Administration",
+        "website": "https://www.va.gov/burials-memorials/eligibility/",
+        "eligibility": "Veterans not dishonorably discharged; service members who die on active duty; the spouse or surviving spouse of a veteran (even if remarried after the veteran's death); and minor children plus certain unmarried adult dependent children. Excluded: divorced former spouses (unless veterans themselves), dishonorable discharges, and certain capital-crime / sex-offense convictions.",
+        "coverage": "At no cost to the family: a gravesite in any national cemetery with available space, opening and closing of the grave, a government headstone/marker/medallion, a U.S. burial flag, and perpetual care. Military funeral honors are provided by the Department of Defense on request.",
+        "transferable": "Spouses and dependent children can be buried in the same gravesite as the veteran.",
+        "notes": "Burial flag and government headstone/marker are available at no cost regardless of whether interment is in a national, state, or private cemetery (with eligibility).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Government Headstone, Marker & Presidential Memorial Certificate",
+        "agency": "U.S. Department of Veterans Affairs — National Cemetery Administration",
+        "website": "https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/",
+        "eligibility": "Headstone/marker/medallion: eligible veterans/service members (non-dishonorable discharge) with an unmarked grave anywhere, or (for deaths on/after Nov 1, 1990) a grave marked with a privately purchased headstone. Spouses and dependent children in national/state/tribal/military cemeteries also qualify. Presidential Memorial Certificate (PMC): any veteran/reservist eligible for burial in a national cemetery.",
+        "coverage": "Government headstone, marker, or medallion furnished at no cost (apply with VA Form 40-1330 and a DD214). The PMC is an engraved paper certificate signed by the current president, also at no cost — there is no limit on the number issued.",
+        "notes": "PMCs are presented automatically at national-cemetery burials; families of veterans buried in private cemeteries must apply. Next of kin, family, friends, or authorized representatives may request a PMC.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Retiree Benefits",
+    "programs": [
+      {
+        "name": "Concurrent Retirement and Disability Pay (CRDP)",
+        "agency": "Defense Finance and Accounting Service (DFAS)",
+        "website": "https://www.dfas.mil/RetiredMilitary/disability/crdp/",
+        "eligibility": "Military retirees who waive retired pay for VA disability compensation and have a VA disability rating of 50% or higher, and are a regular 20+ year retiree, a Reserve/Guard member at age 60 with 20 qualifying years, or a Chapter 61 (medical) retiree with 20+ years. CRDP is automatic — no application required.",
+        "coverage": "Restores the 'VA waiver' — the dollar-for-dollar reduction of retired pay that normally offsets VA disability compensation. Eligible retirees receive full retired pay from DFAS AND full VA compensation, with no offset.",
+        "notes": "CRDP is taxable (it is part of retired pay, reported on a 1099-R). You can receive CRDP or CRSC but not both; DFAS runs an annual Open Season (Jan 1–31) to switch between them.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Combat-Related Special Compensation (CRSC)",
+        "agency": "Defense Finance and Accounting Service (DFAS)",
+        "website": "https://www.dfas.mil/RetiredMilitary/disability/crsc/",
+        "eligibility": "Military retirees entitled to retired pay who have a combat-related VA disability rated 10% or higher. 'Combat-related' covers disabilities from armed conflict, hazardous duty, an instrumentality of war, or simulated combat training. You must apply to your branch of service, which determines the CRSC percentage.",
+        "coverage": "Replaces some or all of the retired pay waived for VA disability compensation, but only the portion attributable to combat-related conditions. Paid as a separate monthly payment from retired pay.",
+        "notes": "CRSC is tax-free. Key differences from CRDP: it requires an application through your branch and only covers combat-related disabilities, but it is tax-free and does not require a 50% rating. You can receive CRSC or CRDP but not both; switch during the Jan 1–31 Open Season.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "TRICARE for Retirees (Prime & Select)",
+        "agency": "Defense Health Agency",
+        "website": "https://www.tricare.mil/Costs/Compare",
+        "eligibility": "Retired service members and family members enrolled in DEERS, under age 65 (or not yet Medicare-eligible). Group A = sponsor's initial enlistment/appointment before Jan 1, 2018; Group B = on or after Jan 1, 2018. Prime requires a Prime Service Area and a Primary Care Manager with referrals; Select is a self-managed preferred-provider plan with no referrals.",
+        "coverage": "2026 annual enrollment fees: Prime Group A $381.96 individual / $765 family; Prime Group B $462.96 individual / $927 family; Select Group A $186.96 individual / $375 family (plus $150/$300 deductible); Select Group B $594.96 individual / $1,191 family. Catastrophic caps (2026): Prime Group A $3,000/family; Select Group A $4,381/family; both Group B $4,635/family.",
+        "transferable": "Covers eligible family members enrolled in DEERS.",
+        "notes": "In 2026, Select retiree enrollment fees for Group B ($594.96 individual) are actually HIGHER than Prime ($462.96) — a reversal worth checking before you choose. Fees rise each Jan 1 with the retiree COLA. Medically retired sponsors pay no Select fee and have their Prime fee frozen.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "TRICARE For Life (TFL)",
+        "agency": "Defense Health Agency",
+        "website": "https://tricare.mil/tfl",
+        "eligibility": "TRICARE-eligible beneficiaries (including retirees) who have BOTH Medicare Part A and Part B. Typically triggered at age 65, but applies at any age once you have Medicare Parts A and B. You must enroll in Part B to keep TRICARE.",
+        "coverage": "Acts as Medicare-wraparound (secondary) coverage. For services covered by both Medicare and TRICARE, you generally pay $0 out of pocket. No TFL enrollment fee.",
+        "transferable": "Covers eligible family members who also have Medicare Parts A and B.",
+        "notes": "No TFL enrollment fee, but you must pay the monthly Medicare Part B premium (set by Medicare/CMS). Sign up for Part B no later than 2 months before turning 65 to avoid a coverage gap. Coverage is automatic once Parts A and B are active.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Commissary, Exchange & MWR Privileges",
+        "agency": "U.S. Department of Veterans Affairs / Defense Commissary Agency",
+        "website": "https://www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/",
+        "eligibility": "Full lifetime access: military retirees, 100% service-connected disabled veterans, and Medal of Honor recipients. Expanded Jan 1, 2020 to ALL veterans with any VA service-connected disability rating (0%–90%), Purple Heart recipients, former POWs, and primary caregivers enrolled in the VA caregiver program.",
+        "coverage": "In-person and online access to commissaries, military exchanges, and MWR retail facilities. A small surcharge/fee applies to in-person commissary purchases for the population added in the 2020 expansion.",
+        "notes": "Veterans eligible solely under the 2020 expansion need a Veteran Health Identification Card (VHIC) for in-person access. Online exchange shopping (ShopMyExchange) has been open to all honorably discharged veterans since 2017.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Space-Available (Space-A) Travel",
+        "agency": "U.S. Air Force / Air Mobility Command",
+        "website": "https://www.militaryonesource.mil/benefits/space-a-travel/",
+        "eligibility": "Retired military members fall into Category VI (lowest priority). Veterans with a permanent 100% service-connected (P&T) disability also qualify under Category VI. Retiree family members are eligible only when accompanied by the sponsor.",
+        "coverage": "Free or very low-cost seats on Department of Defense aircraft on a standby, space-available basis. No guaranteed seat.",
+        "notes": "It is a privilege, not an entitlement. Sign up by completing AMC Form 140 and emailing it to your desired AMC passenger terminal to establish your sign-up date/time, which sets your priority within the category.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veterans Pension (Wartime Pension)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/pension/veterans-pension-rates/",
+        "eligibility": "Wartime veterans who served at least 90 days active duty with 1+ day during a wartime period (or 24 months for those who entered after Sep 7, 1980), AND are age 65+, permanently and totally disabled, in a nursing home, or receiving SSDI/SSI, AND meet income and net-worth limits. Net-worth limit Dec 1, 2025 – Nov 30, 2026: $163,699.",
+        "coverage": "2026 Maximum Annual Pension Rate (MAPR), effective Dec 1, 2025: veteran with no dependents $17,441 ($21,313 Housebound; $29,093 Aid & Attendance); veteran with one dependent $22,839 ($26,710 Housebound; $34,488 A&A); add $2,984 per additional dependent. VA pays the difference between your countable income and the applicable MAPR.",
+        "notes": "This is a needs-based benefit for low-income wartime veterans — completely distinct from military retired pay (earned through 20+ years of service, taxable, not income-tested). VA pension is tax-free and is reduced by other income, including retired pay.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Housing Benefits",
+    "programs": [
+      {
+        "name": "VA-Backed Home Loan (Purchase)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/housing-assistance/home-loans/",
+        "eligibility": "Established via a Certificate of Eligibility (COE) based on service length and character. Gulf War era (Aug 2, 1990–present) generally needs 24 continuous months or the full ordered period (min 90 days); other eras have their own minimums. National Guard/Reserve qualify via Title 10/Title 32 active duty or 6 creditable years. Surviving spouses may qualify in certain cases.",
+        "coverage": "Purchase a home with no down payment in most cases, no private mortgage insurance (PMI), no prepayment penalty, competitive interest rates, and limited closing costs.",
+        "notes": "A one-time VA funding fee applies: first use 2.15% (under 5% down), 1.5% (5–<10% down), or 1.25% (10%+ down); subsequent use 3.3% (under 5% down), else 1.5%/1.25%. Borrowers receiving VA compensation for a service-connected disability, surviving spouses receiving DIC, and active-duty Purple Heart recipients are EXEMPT from the funding fee.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Interest Rate Reduction Refinance Loan (IRRRL)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/housing-assistance/home-loans/loan-types/interest-rate-reduction-loan/",
+        "eligibility": "Must already have a VA-backed home loan being refinanced; must certify you currently or previously lived in the home; the refinance must result in a lower interest rate or move you from an adjustable rate to a fixed rate.",
+        "coverage": "A streamlined ('VA Streamline') refinance to lower the monthly payment or gain rate stability. An appraisal and income re-verification are typically not required, and closing costs can be rolled into the loan.",
+        "notes": "The VA funding fee for an IRRRL is just 0.5%. A second-mortgage holder must agree to subordinate to the new loan.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Specially Adapted Housing (SAH) & Special Home Adaptation (SHA) Grants",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/housing-assistance/disability-housing-grants/",
+        "eligibility": "SAH — service-connected loss/loss of use of more than one limb; a lower leg plus lasting effects of organic disease/injury; blindness in both eyes (20/200 or less); certain severe burns; or (post-9/11) loss/loss of use of one lower extremity affecting balance/walking. SHA — loss/loss of use of both hands; certain severe burns; or certain respiratory/breathing injuries.",
+        "coverage": "FY2026 maximum SAH grant: $126,526. FY2026 maximum SHA grant: $25,350. Grant maximums adjust annually with the cost-of-construction index. Grants are usable up to 6 times over a lifetime.",
+        "notes": "Apply online, by mail, or in person with VA Form 26-4555. Used to build, remodel, or buy an adapted home for a qualifying service-connected disability.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "HUD-VASH (Supportive Housing for Homeless Veterans)",
+        "agency": "U.S. Department of Housing and Urban Development, with the VA",
+        "website": "https://department.va.gov/homeless/hud-vash/",
+        "eligibility": "Homeless veterans who are eligible for VA health care, connected through the VA for assessment and case-management referral.",
+        "coverage": "Combines a HUD Housing Choice Voucher (rental assistance) with VA case management and clinical/supportive services to help veterans obtain and keep permanent housing. A Tribal HUD-VASH subset serves American Indian/Alaska Native veterans.",
+        "notes": "There is no standalone written application — call the National Call Center for Homeless Veterans at 877-424-3838 to be connected to the nearest VA medical center.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Disability-Related Benefits",
+    "programs": [
+      {
+        "name": "Special Monthly Compensation (SMC)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/disability/compensation-rates/special-monthly-compensation-rates/",
+        "eligibility": "Veterans (and in some cases spouses, survivors, or parents) with severe service-connected needs: amputation or loss of use of limbs/extremities, loss of sight/blindness, permanently bedridden, the need for daily aid and attendance, or housebound status.",
+        "coverage": "Higher compensation paid ABOVE standard rates, tiered from SMC-K through SMC-T. Examples effective Dec 1, 2025: SMC-K $139.87/mo; veteran alone SMC-L $4,900.83/mo; veteran with spouse SMC-M $5,628.14/mo; veteran with spouse SMC-R.2/T $11,491.26/mo.",
+        "notes": "Rates adjust annually with the Social Security COLA. SMC is paid in addition to standard compensation — consult the full VA table for an individual's exact amount.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Total Disability based on Individual Unemployability (TDIU)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/disability/eligibility/special-claims/unemployability/",
+        "eligibility": "Both: (1) you cannot hold substantially gainful employment because of a service-connected disability; and (2) you have at least one service-connected disability rated 60%+, OR two or more disabilities with at least one at 40%+ and a combined rating of 70%+.",
+        "coverage": "Pays compensation at the 100% disability rate even though your combined schedular rating is below 100%.",
+        "notes": "It does not change your assigned rating, only your pay rate. Marginal employment (earnings below the federal poverty threshold, or work in a sheltered/protected setting like a family business) generally is not 'substantially gainful.'",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Aid & Attendance and Housebound Benefits",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/pension/aid-attendance-housebound/",
+        "eligibility": "Must already receive or be eligible for a VA pension, plus meet a clinical criterion. Aid & Attendance: need help with daily activities, be bedridden, be in a nursing home due to lost abilities, or have eyesight of 5/200 or less. Housebound: spend most of your time at home due to a permanent disability.",
+        "coverage": "An increased monthly amount added on top of the base pension. Confirmed 2026 example (Dec 1, 2025 – Nov 30, 2026): a veteran with no dependents qualifying for Aid & Attendance has a MAPR of $29,093/yr, versus the $17,441/yr basic MAPR.",
+        "notes": "You cannot receive Aid & Attendance and Housebound at the same time (A&A is higher). The net-worth limit for the 2025–2026 period is $163,699. Survivors have a separate rate table.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "PACT Act (Toxic Exposure Benefits)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/resources/the-pact-act-and-your-va-benefits/",
+        "eligibility": "Veterans (and survivors) who may have been exposed to burn pits, Agent Orange, or other toxic substances. As of March 5, 2024, all veterans with a qualifying toxic-exposure history can enroll in VA health care.",
+        "coverage": "One of the largest benefit expansions in VA history. Adds 20+ presumptive conditions for burn-pit/Agent Orange/toxic exposure; adds Agent Orange presumptive locations (including certain Thailand bases, Laos, Cambodia, Guam, American Samoa, Johnston Atoll); adds radiation-exposure sites; and requires toxic-exposure screening for every enrolled veteran.",
+        "notes": "There is no current enrollment deadline — applications remain open. If you were previously denied for a condition now covered as presumptive, you can file a new claim.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Automobile Allowance & Adaptive Equipment Grant",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/",
+        "eligibility": "Service-connected loss or permanent loss of use of one or both feet or hands; permanent decreased vision (20/200 or less in the better eye, or field of 20° or less); a severe burn injury; or ALS. The adaptive equipment grant additionally covers ankylosis of one or both knees or hips.",
+        "coverage": "A one-time payment of up to $27,074.99 toward a specially equipped vehicle (effective Oct 1, 2025), paid to the seller. The separate adaptive equipment grant helps pay for vehicle modifications and can be paid more than once.",
+        "notes": "Apply with VA Form 21-4502. The auto allowance is one-time, but the adaptive equipment grant can be reused (for example, for a replacement vehicle).",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Employment Benefits",
+    "programs": [
+      {
+        "name": "Veterans' Preference in Federal Hiring",
+        "agency": "U.S. Office of Personnel Management",
+        "website": "https://www.opm.gov/policy-data-oversight/veterans-services/vet-guide-for-hr-professionals/",
+        "eligibility": "5-point preference: an honorable-conditions discharge with qualifying wartime/Gulf War/campaign service. 10-point preference: disabled veterans and certain relatives — CPS (30%+ rating), CP (10–<30%), XP (<10%, Purple Heart, or otherwise qualifying), plus derived preference for certain spouses, widows/widowers, and mothers.",
+        "coverage": "Extra points added to a passing competitive-exam/rating score: 5 points (TP) or 10 points (CP/CPS/XP/derived). In category rating, preference eligibles are listed ahead of non-preference applicants in the same category.",
+        "notes": "Points apply only after you earn a passing score; preference does not guarantee a job. It generally applies in competitive examining, not in merit promotion of current federal employees. Job-seeker companion site: opm.gov/fedshirevets.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "USERRA (Reemployment Rights)",
+        "agency": "U.S. Department of Labor — Veterans' Employment and Training Service",
+        "website": "https://www.dol.gov/agencies/vets/programs/userra",
+        "eligibility": "Protects Guard/Reserve members and others who leave a civilian job for uniformed service. Cumulative service causing absence generally must not exceed 5 years (with 8 statutory exceptions). You must give advance notice and report back / reapply within required timeframes — for service over 180 days, apply within 90 days of release.",
+        "coverage": "Reemployment to the position you would have attained (the 'escalator' principle) with the same seniority, status, and pay; protection from discrimination and retaliation based on service; and health-plan rights, including the option to continue coverage up to 24 months for service over 30 days.",
+        "notes": "There is no penalty for filing a complaint. DOL VETS investigates; unresolved cases may be referred to the Department of Justice (private/state-local employers) or the Office of Special Counsel (federal employers).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran Readiness and Employment (VR&E / Chapter 31)",
+        "agency": "U.S. Department of Veterans Affairs",
+        "website": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+        "eligibility": "Veterans with a service-connected disability rating of at least 10% and an employment barrier.",
+        "coverage": "Tuition, fees, books, supplies, and a monthly subsistence allowance, plus career counseling, resume help, and job placement services. Can also cover tools and equipment.",
+        "notes": "Broader than education alone. May be used in combination with the GI Bill in some cases. Worth exploring if you have any service-connected disability. Also appears in the Federal Benefits guide under education.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  }
+]
