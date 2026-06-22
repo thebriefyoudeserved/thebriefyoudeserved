@@ -2025,5 +2025,255 @@
         "lastUpdated": "2026-06-22"
       }
     ]
+  },
+  {
+    "category": "North Dakota",
+    "programs": [
+      {
+        "name": "Disabled Veterans Property Tax Credit",
+        "agency": "North Dakota Office of State Tax Commissioner",
+        "website": "https://www.tax.nd.gov/disabled-veterans-property-tax-credit",
+        "eligibility": "Veteran with an honorable discharge and a VA service-connected disability of 50% or greater (or an extra-schedular rating, including individual unemployability, paid at the 100% rate) who owns and resides on the homestead. Unremarried surviving spouse, or spouse receiving VA dependency and indemnity compensation, may also qualify.",
+        "coverage": "Reduction of taxable value scaled to the disability rating: 100% = $9,000, 90% = $8,100, down to 50% = $4,500 of the homestead's taxable value. Because the cap is on taxable value (a small fraction of market value), the effective market-value relief is substantially larger.",
+        "notes": "Apply to the local assessor or county director of tax equalization by April 1.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled American Veteran (DAV) License Plate",
+        "agency": "North Dakota Department of Transportation / ND Department of Veterans Affairs",
+        "website": "https://www.veterans.nd.gov/dav-plates",
+        "eligibility": "Veteran certified by the VA as 100% service-connected disabled (or an extra-schedular/individual-unemployability rating totaling 100%). Unremarried surviving spouse may retain one DAV plate.",
+        "coverage": "No annual license (registration) fee, and exempt from state sales/use tax on the vehicle. Applies to up to two vehicles under 26,000 lbs.",
+        "notes": "DAV plate holders may park in designated handicap spots without an additional placard. Apply via Form SFN 2872 with a VA certification letter.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran Hunting & Fishing Licenses",
+        "agency": "North Dakota Game and Fish Department",
+        "website": "https://gf.nd.gov/licensing/resident",
+        "eligibility": "Resident veterans. The reduced fishing license requires a 50% or greater service-connected disability; the reduced combined hunting license requires a 100% service-connected disability (or individual unemployability).",
+        "coverage": "Reduced fishing license: $10 plus a $2 certificate fee. Veteran combined hunting license: $10 plus a $2 certificate and $20 general game/habitat fees.",
+        "notes": "Reduced-rate, not free. Apply via ND Game and Fish online licensing.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "North Dakota Veterans Home (Lisbon)",
+        "agency": "North Dakota Veterans Home / ND Department of Veterans Affairs",
+        "website": "https://www.ndvh.nd.gov/admissions/eligibility",
+        "eligibility": "Veterans who served on continuous federalized active duty (180 days or the full period ordered) discharged under other than dishonorable conditions; also spouses and surviving spouses of qualifying veterans. North Dakota residency preceding application (may be waived for those who served in a ND regiment).",
+        "coverage": "111 basic-care beds and 38 skilled-nursing beds. Resident cost is based on care level and means.",
+        "notes": "Located in Lisbon. Tiered admission priorities favor service-connected disabled veterans, ex-POWs, and disabled National Guard members.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Exempt)",
+        "agency": "North Dakota Office of State Tax Commissioner",
+        "website": "https://www.tax.nd.gov/news/resources/residency/military-service-members",
+        "eligibility": "Retired members of the U.S. Armed Forces, Reserve, and National Guard, and their surviving spouses.",
+        "coverage": "100% of the federally-taxable military retirement benefit is deductible from North Dakota taxable income, effectively exempting it from ND state income tax.",
+        "notes": "Enacted by HB 1053 (2019), effective tax year 2019 onward. Attach Form 1099-R from DFAS to claim.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "South Dakota",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption (Dwelling)",
+        "agency": "South Dakota Department of Revenue / Department of Veterans Affairs (county Director of Equalization administers)",
+        "website": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx",
+        "eligibility": "Veteran rated permanently and totally disabled from a service-connected disability who owns and occupies the dwelling (SDCL 10-4-40). Surviving spouses qualify for a separate, lower exemption. Application filed annually with the county Director of Equalization by November 1.",
+        "coverage": "$200,000 of the full and true value of the dwelling is exempt for the disabled veteran; $150,000 for qualifying surviving spouses.",
+        "notes": "Covers the house, attached garage, and lot up to one acre. The exemption was raised to $200,000 in 2024.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Paraplegic Veteran Property Tax Exemption",
+        "agency": "South Dakota Department of Revenue / county Director of Equalization",
+        "website": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx",
+        "eligibility": "Veterans with the loss, or loss of use, of both lower extremities, who own and occupy a dwelling specifically designed for use by paraplegics (SDCL 10-4-24.10). The veteran must occupy the property for one full calendar year before the exemption takes effect.",
+        "coverage": "100% exemption from property taxation on the qualifying wheelchair-designed dwelling.",
+        "notes": "Distinct from the $200,000 dwelling exemption — this is a full exemption on a specially designed home.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran License Plate",
+        "agency": "South Dakota Department of Revenue, Motor Vehicle Division",
+        "website": "https://dor.sd.gov/individuals/motor-vehicle/cars-trucks-vans/specialty-military-plates/",
+        "eligibility": "Resident veteran who received a VA 'K' Award, an automobile under Public Law 187, a statutory benefit for loss/loss of use of one or more extremities, or a veteran's allotment for total disability from a service-connected injury incurred during wartime or armed conflict.",
+        "coverage": "$10 annual plate fee (no vehicle registration fee charged) plus a $7.50 mailing fee.",
+        "notes": "South Dakota also offers a free 'Veteran' designation on a driver's license or ID card at renewal.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran & POW Reduced-Fee Hunting and Fishing License",
+        "agency": "South Dakota Game, Fish & Parks (GFP)",
+        "website": "https://gfp.sd.gov/vet-pow-hunting/",
+        "eligibility": "South Dakota resident who receives a VA 'K' Award or a veteran's allotment for a 40% or greater service-connected disability; OR is 40%+ disabled for Social Security purposes with verified active military service; OR was a Prisoner of War.",
+        "coverage": "A $10 fee for a license valid for four years (replaces the resident Small Game license and resident Fishing license).",
+        "notes": "Reduced flat fee, not free. The GFP threshold (40%) differs from the property-tax 'permanent and total' standard.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "South Dakota Department of Revenue",
+        "website": "https://dor.sd.gov/",
+        "eligibility": "All South Dakota residents, including military retirees.",
+        "coverage": "South Dakota has NO state individual income tax, so military retired pay, active-duty pay, VA disability, pensions, and TSP distributions are all fully exempt from state income tax.",
+        "notes": "One of the states with no individual income tax.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Delaware",
+    "programs": [
+      {
+        "name": "Disabled Veterans School Property Tax Credit",
+        "agency": "Delaware Department of Finance, Division of Revenue (with county/local tax offices)",
+        "website": "https://finance.delaware.gov/disabled-veterans/disabled-veterans-school-tax-credit-faq/",
+        "eligibility": "Delaware resident with a 100% service-connected, permanent and total disability rating from the VA (including 100% based on individual unemployability). Must have held legal domicile in Delaware for the 3 years immediately preceding application; credit applies only to the primary residence; all prior property tax liabilities must be paid. Cannot be combined with the Senior School Property Tax Credit. Application due April 30.",
+        "coverage": "A credit against 100% of the non-vocational school district property tax on the primary residence.",
+        "notes": "Effective beginning tax year 2022. The credit is for the qualifying veteran (surviving spouse not covered).",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled American Veteran (DAV) License Plate & Registration Fee Exemption",
+        "agency": "Delaware Division of Motor Vehicles (DMV)",
+        "website": "https://dmv.de.gov/DriverServices/military-services/",
+        "eligibility": "Veterans with a VA-certified service-connected disability who are eligible for adaptive-equipment benefits (per 21 Del. C. § 2164). Requires a Delaware driver license/ID and VA documentation (Form MV549DAV). A surviving spouse may retain the plate.",
+        "coverage": "A $10 one-time administrative fee for the DAV plate; registration fees waived for one vehicle per eligible veteran at any one time.",
+        "notes": "Annual vehicle inspection still required.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veterans Hunting, Trapping & Fishing License Exemption",
+        "agency": "Delaware Department of Natural Resources and Environmental Control (DNREC)",
+        "website": "https://dnrec.delaware.gov/fish-wildlife/licenses/exemptions/",
+        "eligibility": "Delaware residents honorably discharged and certified by the VA as having at least a 60% service-connected disability. Requires a written VA statement; apply via the Veterans with Disabilities Exempt Application.",
+        "coverage": "Free (no charge) — an exemption to hunt, trap, and fish statewide.",
+        "notes": "Per 7 Del. C. § 502. Contact 302-739-9918.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Delaware Veterans Home (Milford)",
+        "agency": "State of Delaware — Delaware Veterans Home",
+        "website": "https://vethome.delaware.gov/eligibility-requirements/",
+        "eligibility": "Honorably discharged from active service (or qualifying National Guard/Reservist); must currently reside in Delaware for at least 1 year prior to application; and must meet federal and state requirements for skilled nursing home level of care. Spouses of veteran residents are also eligible, subject to space availability.",
+        "coverage": "A 144-bed skilled nursing facility in Milford. Costs are means-based with VA per-diem support.",
+        "notes": "Admissions: (302) 424-8572.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (Pension Exclusion)",
+        "agency": "Delaware Department of Finance, Division of Revenue",
+        "website": "https://revenue.delaware.gov/",
+        "eligibility": "Delaware resident taxpayers receiving a U.S. military pension. Under 30 Del. C. § 1106, taxpayers under age 60 may exclude the greater of up to $2,000 (general pension) OR up to $12,500 as a U.S. military pension; taxpayers 60+ may exclude up to $12,500 of pensions/eligible retirement income.",
+        "coverage": "Up to $12,500 of military retired pay excluded from Delaware taxable income (current 2026 statutory amount).",
+        "notes": "A bill to phase the exclusion up to $25,000 by tax year 2029 (SB219) was pending and not yet in effect; the current figure is $12,500. Delaware has no broader military-retirement exemption.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Alaska",
+    "programs": [
+      {
+        "name": "Disabled Veteran Property Tax Exemption",
+        "agency": "Alaska Dept. of Commerce, Community, and Economic Development (administered by municipalities); statutory basis AS 29.45.030(e)",
+        "website": "https://veterans.alaska.gov/benefits/additional-benefits/taxes-and-land/",
+        "eligibility": "Alaska-resident veteran owning and occupying the property as primary residence, with a service-connected disability rated 50% or more. A companion senior-citizen exemption applies to residents age 65+. The exemption may transfer to a surviving spouse who is at least 60.",
+        "coverage": "The first $150,000 of assessed value of the primary residence is exempt (mandatory statewide minimum under AS 29.45.030(e)). Municipalities may grant exemptions above $150,000.",
+        "notes": "All Alaska municipalities must grant the first $150,000 exemption. Application is filed locally with the municipal assessor.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Disabled Veteran (DV) License Plates & Free Registration",
+        "agency": "Alaska Dept. of Administration, Division of Motor Vehicles (DMV)",
+        "website": "https://dmv.alaska.gov/vehicle-services/persons-with-disabilities/",
+        "eligibility": "Veterans with VA certification of a combined service-related disability of 50% or more qualify for Disabled Veteran (DV) plates. DV plates with parking privileges also require a Special Disability Parking Permit.",
+        "coverage": "One free vehicle registration for a person holding a disability parking permit/plate (registration fee waived on one vehicle). Standard fees apply to additional vehicles.",
+        "notes": "Alaska registers passenger vehicles on a 2-year cycle; the waiver covers one vehicle. A Veteran designation on a driver's license is also available with proof of honorable service.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Resident Disabled Veteran Hunting / Fishing / Trapping License",
+        "agency": "Alaska Department of Fish and Game (ADF&G)",
+        "website": "https://www.adfg.alaska.gov/index.cfm?adfg=license.veterans",
+        "eligibility": "Must meet ADF&G's residency definition AND be certified 50% disabled or greater (service-connected). Must be physically present in Alaska to apply and provide a VA Benefit Summary Letter. The card is void if the holder ceases to be an Alaska resident.",
+        "coverage": "A free permanent identification card authorizing hunting, sport fishing, and trapping at no cost. Holders are also exempt from the king salmon stamp and the state duck/waterfowl conservation stamp.",
+        "notes": "Documentation may be submitted online or to ADF&G Licensing, Juneau.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Alaska Veterans and Pioneers Home (Palmer)",
+        "agency": "Alaska Dept. of Family and Community Services, Division of Alaska Pioneer Homes",
+        "website": "https://dfcs.alaska.gov/daph/pages/palmer/default.aspx",
+        "eligibility": "Honorably separated veterans age 65 or older who have resided in Alaska continuously for at least one year immediately preceding application and need assisted-living/long-term care. 75% of beds are reserved for eligible veterans.",
+        "coverage": "79 total beds (about 75% designated for veterans). Monthly fees are based on the resident's ability to pay and assessed level of care; qualifying veterans receive a VA per diem.",
+        "notes": "No cost to join the waitlist. Contact 888-355-3117. Alaska's only combined state veterans/pioneers home.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "State Income Tax on Military Retired Pay (None)",
+        "agency": "Alaska Department of Revenue, Tax Division",
+        "website": "https://tax.alaska.gov/",
+        "eligibility": "All Alaska residents, including military retirees.",
+        "coverage": "Alaska has NO state personal income tax. Military retired pay and all other personal income is not taxed by the state, and no state income tax return is required.",
+        "notes": "Federal income tax still applies. Alaska also has no statewide sales tax (though some municipalities levy local sales taxes).",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "category": "Vermont",
+    "programs": [
+      {
+        "name": "Property Tax Exemption for Disabled Veterans and Survivors",
+        "agency": "Vermont Office of Veterans Affairs / local town assessors",
+        "website": "https://veterans.vermont.gov/office-veterans-affairs/programs-administered-office-veterans-affairs/property-tax-exemption",
+        "eligibility": "Veteran (or surviving spouse/dependent) rated 50% or more service-connected disabled by the VA, OR receiving VA Non-Service-Connected Improved Pension, OR receiving military retirement pay for a permanent medical military retirement. Must be the veteran's owned primary residence. Annual proof due before May 1 (one-time for the permanently and totally disabled).",
+        "coverage": "A minimum of $10,000 of appraised value is exempt by state law; towns may vote to raise the exemption up to $40,000.",
+        "notes": "Reduces appraised value before taxes are assessed. Applies only to the veteran-owned primary residence.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Veteran and Disabled Veteran License Plates",
+        "agency": "Vermont Department of Motor Vehicles (DMV)",
+        "website": "https://dmv.vermont.gov/military/military-license-plates",
+        "eligibility": "Veteran plate: any veteran with a completed Vermont Certificate of Veteran Status (Form VG-168). Disabled Veteran plate: a veteran with a service-connected disability, requiring the VG-168 plus a DMV medical evaluation.",
+        "coverage": "Special plate issuance. The fee/tax exemption (no sales/use tax, registration fee, or license fee) applies only to disabled veterans whose vehicle was modified for the disability with VA funding (32 V.S.A. § 8911).",
+        "notes": "The plate itself is the benefit; the registration/sales-tax exemption is narrow (VA-funded vehicle modification only). Requires Form VG-168 certified by the Office of Veterans Affairs.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Free Permanent Hunting/Fishing License for Disabled Veterans",
+        "agency": "Vermont Fish & Wildlife Department",
+        "website": "https://www.vtfishandwildlife.com/licenses-and-lotteries/license-center/other-licenses/permanent-licenses-for-people-with-disabilities",
+        "eligibility": "Vermont resident veteran who is, or ever has been, 60% or more disabled as a result of a service-connected disability. Requires a VA letter stating the rating; processed at the Fish & Wildlife main office in Montpelier.",
+        "coverage": "A free permanent fishing, hunting, or combination license, including all big game licenses except moose.",
+        "notes": "The 60% threshold differs from the 50% threshold for the property tax exemption.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Vermont Veterans' Home (Bennington)",
+        "agency": "Vermont Veterans' Home",
+        "website": "https://vvh.vermont.gov/admissions/eligibility",
+        "eligibility": "Veterans who served at least 90 days in the U.S. Armed Forces and were discharged under honorable conditions. Spouses, widows/widowers of honorably discharged veterans, and Gold Star parents/spouses are also eligible. Vermont residency is not required, but Vermont residents receive priority.",
+        "coverage": "Long-term skilled nursing and residential care; accepts private pay, Medicare, and Vermont Medicaid.",
+        "notes": "Located in Bennington.",
+        "lastUpdated": "2026-06-22"
+      },
+      {
+        "name": "Military Retirement & Survivor Benefit Income Tax Exemption",
+        "agency": "Vermont Department of Taxes",
+        "website": "https://tax.vermont.gov/individuals/income-tax-returns/who-needs-to-file/military-personnel",
+        "eligibility": "Taxpayers of any filing status receiving military retirement pay or survivor benefit income, based on adjusted gross income (AGI).",
+        "coverage": "FULL exemption of all military retirement and survivor benefit income for AGI ≤ $125,000. Partial exemption phasing out for AGI between $125,000 and $175,000; no exemption at AGI ≥ $175,000.",
+        "notes": "Act 71 (2025), effective tax year 2025, removed the old $10,000 cap and replaced it with this AGI-tiered full-exemption system. It also created a separate $250 refundable Vermont Veteran Tax Credit for veterans with AGI ≤ $25,000.",
+        "lastUpdated": "2026-06-22"
+      }
+    ]
   }
 ]
