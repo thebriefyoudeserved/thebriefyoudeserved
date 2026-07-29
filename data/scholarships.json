@@ -9,20 +9,20 @@
         "eligibility": "Children or spouses of U.S. Armed Service members who died, have a VA disability rating, are disabled due to service, or are on active duty with a Purple Heart.",
         "coverage": "Tuition, fees, on-campus dormitory housing, meal plans, required textbooks. Does NOT cover off-campus housing, Greek housing, computers, or certification exams. Based on unmet financial need after other aid. Does NOT count loans or work-study as aid.",
         "deadline": "February 1 — March 31 (annual window)",
-        "requirements": "2.0+ GPA for two most recent terms. Funds go directly to the school.",
-        "notes": "Strong option for 100% P&T families. Need-based, so if Conroy/Ch.35 covers tuition, remaining housing/meals/books become the 'unmet need.' Apply every year.",
-        "lastUpdated": "2026-03-29"
+        "requirements": "2.0+ GPA for two most recent terms. FAFSA required. Funds go directly to the school, capped at $2,500 per term (minimum $100 unmet need to disburse). Reapply every year.",
+        "notes": "Strong option for 100% P&T families. Need-based, so if Conroy/Ch.35 covers tuition, remaining housing/meals/books become the 'unmet need.' Two tracks: Children's Fund for dependents, Higher Education Fund for spouses and older dependents. Awards are announced mid-July.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "American Legion Legacy Scholarship",
-        "website": "https://www.legion.org/scholarships/legacy",
+        "website": "https://www.legion.org/get-involved/scholarships/the-american-legion-legacy-scholarship",
         "amount": "Up to $5,000/year (disabled) or $20,000/year (fallen)",
         "eligibility": "Children of post-9/11 veterans with 50%+ VA disability rating or who died on active duty.",
         "coverage": "Tuition, books, room and board, meal plans, supplies. Needs-based.",
         "deadline": "March 25 (annual)",
         "requirements": "No Legion membership required — eligibility is based solely on the parent's military service status. Recipients may reapply up to six times.",
         "notes": "No membership barrier for this scholarship. Stacks with federal and state benefits.",
-        "lastUpdated": "2026-03-29"
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "American Legion Auxiliary Scholarships",
@@ -42,9 +42,9 @@
         "eligibility": "Dependents of DAV members (Auxiliary scholarships).",
         "coverage": "Education expenses.",
         "deadline": "Varies",
-        "requirements": "DAV membership is a one-time $300 life membership (payment plans available at $10/month). Free for veterans age 80+. DAV's claims assistance services are free regardless of membership.",
-        "notes": "DAV's claims help is free whether you're a member or not. Membership unlocks Auxiliary scholarships for dependents.",
-        "lastUpdated": "2026-03-29"
+        "requirements": "DAV membership is a one-time $325 life membership (as of 2026 — raised from $300). Pay in full, or start with a $40 down payment and recurring monthly payments as low as $21. Free for veterans age 80+. DAV's claims assistance services are free regardless of membership.",
+        "notes": "DAV's claims help is free whether you're a member or not. Membership unlocks Auxiliary scholarships for dependents. Life membership payments are non-refundable and not tax deductible.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "VFW (Veterans of Foreign Wars)",
@@ -64,25 +64,26 @@
     "organizations": [
       {
         "name": "No Greater Sacrifice",
-        "website": "https://www.nogreatersacrifice.org/",
+        "website": "https://www.nogreatersacrifice.org/for-families/eligibility/",
         "amount": "Aims to cover remaining unmet financial need",
-        "eligibility": "Children (under 26) of post-9/11 veterans with 60%+ VA disability rating or who were killed/wounded in action.",
-        "coverage": "Tuition/fees (up to in-state public rates), room and board, books, special equipment. Individualized per scholar — aims to reduce unmet costs as close to zero as possible.",
-        "deadline": "April 15 (contact via email: info@nogreatersacrifice.org)",
-        "requirements": "Competitive. Once selected, no annual reapplication needed.",
-        "notes": "Potentially the most impactful single scholarship. If awarded, it covers everything other sources don't. Worth applying even if chances are competitive.",
-        "lastUpdated": "2026-03-29"
+        "eligibility": "Children from birth to age 26 of a service member who fell in the line of duty or suffered a wound, illness, or injury while serving after 9/11/2001. NGS no longer publishes a hard rating cutoff, but describes most scholars' parents as having a single combat-related condition rated 100%, multiple combat-related ratings of 70%+, or a combat-related death.",
+        "coverage": "Tuition/fees (up to in-state public rates), room and board, books, special equipment — for a bachelor's, associate's, or trade-school certificate. Individualized per scholar — aims to reduce unmet costs as close to zero as possible.",
+        "deadline": "One cycle a year: window typically opens in January, Eligibility Application due April 1. The 2026 cycle is closed; the next opens January 2027. Start by emailing info@nogreatersacrifice.org to request the application.",
+        "requirements": "Competitive and relational — selection is rigorous. Once selected, no annual reapplication needed. Children from infancy through 12th grade can be selected now under a 'Future Use' award held until they enroll.",
+        "notes": "Potentially the most impactful single scholarship. If awarded, it covers everything other sources don't, plus a dedicated mentor. NGS explicitly asks families who are unsure whether they qualify to reach out anyway — don't self-reject on the rating description.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "ThanksUSA",
         "website": "https://www.thanksusa.org/",
+        "status": "defunct",
         "amount": "Up to $3,000/year",
         "eligibility": "Children (under 24) and spouses of active duty, reserve, guard, or retired military.",
         "coverage": "Education expenses.",
         "deadline": "May 15 (annual)",
         "requirements": "Easy application. Straightforward eligibility for military families.",
-        "notes": "Low barrier to entry. Retired military dependents qualify, but retired/discharged personnel must have served 180 days after 9/11/01.",
-        "lastUpdated": "2026-03-29"
+        "notes": "Program appears to have shut down. As of July 2026 both thanksusa.org and thanksusa.com are parked domain-sale landing pages, and Scholarship America (which administered the application) no longer lists a ThanksUSA program. Scholarship-aggregator sites still repeat the old $3,000 / May 15 details — treat those listings as stale. Do not send an application or personal information to either domain.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Fisher House — Scholarships for Military Children",
@@ -90,44 +91,43 @@
         "amount": "$2,000",
         "eligibility": "Unmarried dependent children (under 23) of active duty, retired, or reserve military with valid military dependent ID.",
         "coverage": "Education expenses. Applied through commissary locations.",
-        "deadline": "Early February (typically closes first week). Check site for exact dates.",
-        "requirements": "Must have military dependent ID (DEERS enrollment). At least one scholarship awarded per commissary location. GPA requirement: 3.0 for high school applicants, 2.5 for college students.",
-        "notes": "100% P&T retirees have commissary access and DEERS-enrolled dependents. Easy $2K per kid if you don't miss the deadline — it closes early.",
-        "lastUpdated": "2026-03-29"
+        "deadline": "Opens December, closes in the winter — the 2027-2028 cycle opens December 2026. Recipients are notified by mail around May 15.",
+        "requirements": "Must have a valid Uniformed Services ID card (DEERS enrollment). 500-word essay (topic announced when the scholarship opens) plus official transcripts. GPA requirement: 3.0 for high school applicants, 2.5 for college students. At least one scholarship awarded per commissary location; commissaries with more applicants may get more awards.",
+        "notes": "500 scholarships of $2,000 each for 2027-2028. 100% P&T retirees have commissary access and DEERS-enrolled dependents. Easy $2K per kid if you don't miss the window — it opens in December and closes before spring.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Freedom Alliance Scholarship Fund",
         "website": "https://www.fascholarship.com/",
         "amount": "Varies per student",
-        "eligibility": "Children (under 26) of service members who are 100% permanently and totally disabled as a DIRECT RESULT of a combat mission or training accident. Priority given to those with a single combat-related condition rated 70%+. Silver Star or Purple Heart recipients: combined 100% P&T qualifies without the single-condition priority requirement.",
-        "coverage": "Tuition and expenses based on unmet need.",
-        "deadline": "April (annual, check site for exact date)",
-        "requirements": "Disability must stem from combat mission specifically — not just service-connected. Submit VA decision letter showing rated conditions.",
+        "eligibility": "Children (under 26 at time of application) of service members who were killed in action, are 100% permanently and totally disabled as a DIRECT RESULT of a combat mission or training accident, suffered a major limb amputation from enemy action, were classified POW/MIA, or received the Medal of Honor / Navy Cross / Distinguished Service Cross / Air Force Cross / Coast Guard Cross. Priority given to those with a single combat-related condition rated 70%+. Silver Star or Purple Heart recipients: combined 100% P&T qualifies without the single-condition priority requirement.",
+        "coverage": "Tuition and expenses based on unmet need. Undergraduate, trade, or vocational programs only, and only toward a first degree.",
+        "deadline": "Applications open for the coming school year, with review of new applications starting mid-April. Renewal instructions go out in late April to prior recipients.",
+        "requirements": "Disability must stem from a combat mission specifically — not just service-connected. Qualifying parent must have an honorable discharge. 2.0+ cumulative GPA if any college coursework is complete. Submit VA decision letter showing rated conditions.",
         "notes": "The combat-related requirement is strict. If your P&T rating is from non-combat service conditions, you likely won't qualify. Worth submitting and letting them make the determination.",
-        "lastUpdated": "2026-03-29"
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Patriot Legacy Fund",
-        "website": "https://www.patriotlegacyfund.org/",
-        "amount": "Up to $5,000",
-        "eligibility": "Children of veterans with 10%+ service-connected disability.",
+        "website": "https://patriotlegacyfund.org/scholarships/",
+        "amount": "Varies — the fund sets amounts each year based on its budget and the number of applications",
+        "eligibility": "Unmarried dependents (age 23 or under as of April 30) of a U.S. veteran with a VA service-connected disability rating of 10% or higher. Must be enrolled or accepted in an accredited U.S. undergraduate or vocational program, must not already hold an undergraduate degree, and must not already be fully funded by other sources.",
         "coverage": "Education expenses.",
-        "deadline": "Check website for current cycle",
-        "requirements": "2.5+ GPA. Community service emphasis.",
-        "notes": "Low disability threshold (10%+). Community service involvement strengthens the application.",
-        "lastUpdated": "2026-03-29"
+        "deadline": "Applications open March 1 for the following academic year (2027-2028 cycle opens March 1, 2027). Reapply every year.",
+        "requirements": "2.5+ cumulative GPA on a 4.0 scale. Awards weigh financial need, academic record, and community service.",
+        "notes": "Low disability threshold (10%+) makes this one of the widest-open scholarships on this list. Community service involvement strengthens the application. Don't count on a specific dollar figure — the award size moves with their annual budget.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Fight4Vets Dependent Scholarship",
-        "website": "https://www.fight4vets.org/",
-        "status": "defunct",
-        "amount": "Varies",
-        "eligibility": "Dependents of any veteran.",
+        "website": "https://fight4vets.com/the-dependent-scholarship/",
+        "amount": "$1,000",
+        "eligibility": "Active duty, veterans, or their children/dependents. High school seniors, vocational/college/graduate students, or veterans themselves. Legal U.S. residents in the 50 states or D.C. Employees of Fight4Vets and their immediate families are excluded.",
         "coverage": "Education expenses.",
         "deadline": "July 4 (annual)",
-        "requirements": "Low barrier to entry.",
-        "notes": "Broad eligibility. Later deadline gives you time after the spring rush.",
-        "lastUpdated": "2026-03-29"
+        "requirements": "3.0+ GPA. Essay of 750-1,000 words on how military service or growing up in a military family shaped you, plus a resume and current transcript. High school seniors must also show proof of college acceptance. Submit through the form on the scholarship page.",
+        "notes": "Not defunct — the sponsor moved from fight4vets.org to fight4vets.com, which is why the old link broke. Winners have been named every year through 2026. Broad eligibility and the veteran can apply personally, not just dependents. Later deadline gives you time after the spring rush.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "MOAA Scholarship Fund",

@@ -25,22 +25,22 @@
       {
         "name": "Chapter 35 — Dependents' Educational Assistance (DEA)",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/",
         "eligibility": "Spouse or child of a veteran who is permanently and totally disabled (100% P&T), died of a service-connected disability, or was captured/detained by a foreign government.",
         "coverage": "Monthly stipend (~$1,574/mo for full-time as of 2026). Paid directly to the student. Up to 36 months of benefits.",
         "transferable": "No — this is a separate entitlement for each eligible dependent. Does NOT consume the veteran's GI Bill.",
         "notes": "This is independent of the GI Bill. Your kids can use Ch. 35 AND you keep your GI Bill. Key benefit for 100% P&T families. Stacks with state programs like Conroy (MD), Hazlewood (TX), etc.",
-        "lastUpdated": "2026-03-29"
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Fry Scholarship (Chapter 33)",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/",
         "eligibility": "Child or surviving spouse of a service member who died in the line of duty on or after September 10, 2001.",
         "coverage": "Same as Post-9/11 GI Bill — tuition/fees, housing allowance, book stipend. Up to 36 months.",
         "transferable": "No.",
         "notes": "Cannot be used simultaneously with Ch. 35 DEA — must choose one. Typically more generous than DEA.",
-        "lastUpdated": "2026-03-29"
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Veteran Readiness and Employment (VR&E / Chapter 31)",
@@ -110,12 +110,12 @@
       {
         "name": "CHAMPVA",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/health-care/family-caregiver-benefits/champva/",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/",
         "eligibility": "Spouse or child of a veteran who is 100% permanently and totally disabled, who died from a service-connected condition, who was P&T at time of death, or a service member who died in the line of duty.",
         "coverage": "Shares cost of covered healthcare services. Covers most medically necessary services.",
         "transferable": "N/A — directly covers eligible dependents.",
         "notes": "If eligible for TRICARE, you must use TRICARE (CHAMPVA is secondary). Good safety net for dependents of P&T veterans who don't have employer insurance.",
-        "lastUpdated": "2026-03-29"
+        "lastUpdated": "2026-07-29"
       }
     ]
   },

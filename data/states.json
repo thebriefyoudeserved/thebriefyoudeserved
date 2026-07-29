@@ -520,7 +520,7 @@
   "Pennsylvania": {
     "program": "Pennsylvania Postsecondary Educational Gratuity Program",
     "agency": "PA Higher Education Assistance Agency (PHEAA)",
-    "website": "https://www.pheaa.org/funding-opportunities/other-educational-aid/postsecondary-educational-gratuity.shtml",
+    "website": "https://www.pheaa.org/funding-opportunities/other-educational-aid/postsecondary-educational-gratuity",
     "vetBenefit": "—",
     "spouseEligible": "—",
     "childrenEligible": "KIA",
@@ -730,7 +730,7 @@
   "US Virgin Islands": {
     "program": "USVI Veteran Tuition Benefit",
     "agency": "University of the Virgin Islands",
-    "website": "https://cell.uvi.edu/information-for/military-and-veterans.aspx",
+    "website": "https://cell.uvi.edu/information-for/military-and-veterans.html",
     "vetBenefit": "Vet",
     "spouseEligible": "—",
     "childrenEligible": "—",

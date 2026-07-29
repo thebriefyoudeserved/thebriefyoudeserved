@@ -33,12 +33,12 @@
       {
         "name": "CHAMPVA (Survivor & Dependent Healthcare)",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/health-care/family-caregiver-benefits/champva/",
+        "website": "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/",
         "eligibility": "Spouse/surviving spouse and children of a veteran who is permanently and totally (P&T) disabled from a service-connected condition, who died from a service-connected condition, who was P&T at the time of death, or a service member who died in the line of duty — and who are NOT eligible for TRICARE.",
         "coverage": "Shares the cost of most medically necessary healthcare services for eligible dependents and survivors.",
         "transferable": "N/A — directly covers eligible dependents and survivors.",
         "notes": "If you are eligible for TRICARE, you must use TRICARE (CHAMPVA is secondary). A key safety net for surviving and dependent families of P&T or line-of-duty-death veterans. Also appears in the Federal Benefits guide under healthcare.",
-        "lastUpdated": "2026-06-22"
+        "lastUpdated": "2026-07-29"
       }
     ]
   },
@@ -50,9 +50,9 @@
         "agency": "U.S. Department of Veterans Affairs",
         "website": "https://www.va.gov/burials-memorials/veterans-burial-allowance/",
         "eligibility": "Paid to the person who bore the cost of the veteran's burial (often the surviving spouse — VA may automatically pay the spouse on record). Amount depends on whether the death was service-connected.",
-        "coverage": "Service-connected death: $2,000 burial allowance (deaths on/after Sep 11, 2001). Non-service-connected death: $2,000 (on/after Sep 11, 2001) or $1,500 (before that date). Plot/interment allowance (non-service-connected, not buried in a national cemetery): $1,002 for deaths on/after Oct 1, 2025. Transportation costs may be reimbursed.",
-        "notes": "File non-service-connected claims within 2 years of burial (exceptions apply); service-connected claims have no deadline. VA may automatically pay the surviving spouse listed on the veteran's profile without a claim.",
-        "lastUpdated": "2026-06-22"
+        "coverage": "Service-connected death: up to $2,000 burial allowance (deaths on/after Sep 11, 2001) or $1,500 (before that date) — this amount is fixed, not indexed. Non-service-connected death: $1,002 burial allowance plus $1,002 plot/interment allowance for deaths on/after Oct 1, 2025 (was $978 for Oct 1, 2024 – Sep 30, 2025). Headstone or marker allowance: $441 for deaths on/after Oct 1, 2025. Transportation costs to a national cemetery may be reimbursed.",
+        "notes": "The service-connected $2,000 figure and the non-service-connected $1,002 figure are different benefits — the non-service-connected amounts rise every Oct 1 with the fiscal year, the service-connected cap has not moved since 2001. File non-service-connected burial claims within 2 years of burial; there is no deadline for service-connected claims, or for plot/interment and transportation claims. VA may automatically pay the surviving spouse listed on the veteran's profile without a claim.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "Burial in a VA National Cemetery",
@@ -67,11 +67,11 @@
       {
         "name": "Government Headstone, Marker & Presidential Memorial Certificate",
         "agency": "U.S. Department of Veterans Affairs — National Cemetery Administration",
-        "website": "https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/",
+        "website": "https://www.va.gov/burials-memorials/memorial-items/headstones-markers/",
         "eligibility": "Headstone/marker/medallion: eligible veterans/service members (non-dishonorable discharge) with an unmarked grave anywhere, or (for deaths on/after Nov 1, 1990) a grave marked with a privately purchased headstone. Spouses and dependent children in national/state/tribal/military cemeteries also qualify. Presidential Memorial Certificate (PMC): any veteran/reservist eligible for burial in a national cemetery.",
         "coverage": "Government headstone, marker, or medallion furnished at no cost (apply with VA Form 40-1330 and a DD214). The PMC is an engraved paper certificate signed by the current president, also at no cost — there is no limit on the number issued.",
         "notes": "PMCs are presented automatically at national-cemetery burials; families of veterans buried in private cemeteries must apply. Next of kin, family, friends, or authorized representatives may request a PMC.",
-        "lastUpdated": "2026-06-22"
+        "lastUpdated": "2026-07-29"
       }
     ]
   },

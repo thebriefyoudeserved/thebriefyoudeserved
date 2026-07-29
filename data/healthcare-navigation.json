@@ -66,18 +66,18 @@
         "agency": "U.S. Department of Veterans Affairs",
         "website": "https://www.va.gov/health-care/copay-rates/",
         "eligibility": "Copays apply to medications for nonservice-connected conditions; some veterans (certain priority groups, service-connected conditions, former POWs, catastrophically disabled) are exempt.",
-        "coverage": "Effective Jan 1, 2026, outpatient medication copays are tiered by day-supply and drug tier (preferred generic, non-preferred generic, brand-name), with copays of roughly $5–$33 depending on tier and supply length. An annual medication copay cap applies — once you reach it in a calendar year, you pay no more medication copays that year. Copays don't apply to medications for service-connected conditions.",
-        "notes": "Ask about a 90-day mail-order supply — you pay one tier copay for up to 90 days instead of three monthly copays. Confirm current-year amounts on va.gov/health-care/copay-rates.",
-        "lastUpdated": "2026-06-22"
+        "coverage": "Effective Jan 1, 2026, outpatient medication copays are tiered by day-supply and drug tier: Tier 1 (preferred generic) $5–$15, Tier 2 (non-preferred generic and some over-the-counter) $8–$24, Tier 3 (brand-name) $11–$33, depending on days supplied. The annual medication copay cap is $700 per calendar year — once you hit it, you pay no more medication copays that year. Copays don't apply to medications for service-connected conditions.",
+        "notes": "Ask about a 90-day mail-order supply — you pay one tier copay for up to 90 days instead of three monthly copays. Related 2026 copays on the same page: primary care $15, specialty care $50, urgent care $30 (free for the first 3 visits in priority groups 1–5). Confirm current-year amounts on va.gov/health-care/copay-rates.",
+        "lastUpdated": "2026-07-29"
       },
       {
         "name": "VA Community Care",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/communitycare/programs/veterans/General_Care.asp",
+        "website": "https://www.va.gov/resources/eligibility-for-community-care-outside-va/",
         "eligibility": "You must be enrolled in (or eligible for) VA health care and, except in urgent/emergency situations, get approval from your VA care team before receiving community care, plus meet at least one qualifying condition.",
         "coverage": "VA pays for care from a non-VA provider when VA doesn't offer the needed service, your area has no full-service VA facility, you and your provider agree it's in your best medical interest, or VA can't meet access standards. Access standards: 30-minute drive time OR 20-day wait for primary/mental health care; 60-minute drive time OR 28-day wait for specialty care.",
         "notes": "Get VA authorization first (outside of emergencies) — care obtained without prior approval may not be paid for.",
-        "lastUpdated": "2026-06-22"
+        "lastUpdated": "2026-07-29"
       }
     ]
   },
@@ -96,11 +96,11 @@
       {
         "name": "VA Health Care + Other Insurance (Medicare/Medicaid/Employer)",
         "agency": "U.S. Department of Veterans Affairs",
-        "website": "https://www.va.gov/health-care/about-va-health-benefits/va-health-care-and-other-insurance/",
+        "website": "https://www.va.gov/resources/va-health-care-and-other-insurance/",
         "eligibility": "Any enrolled veteran who also has private insurance, employer coverage, Medicare, or Medicaid. Having (or not having) other insurance does not affect the VA benefits you can get.",
         "coverage": "VA recommends keeping your other coverage. VA bills your private insurer for nonservice-connected care; it doesn't bill Medicare or Medicaid but may bill Medicare supplemental (Medigap) plans. With both VA and Medicare, you choose which to use at each visit. VA cautions against dropping private insurance (VA generally doesn't cover family members) and against delaying Medicare Part B (lifelong late-enrollment penalties).",
         "notes": "Keep Medicare Part B even after enrolling in VA health care — if you drop it and later need non-VA or emergency care, the lifelong Part B penalty and coverage gaps usually outweigh the premium savings.",
-        "lastUpdated": "2026-06-22"
+        "lastUpdated": "2026-07-29"
       }
     ]
   }
